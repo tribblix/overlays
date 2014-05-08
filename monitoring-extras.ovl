@@ -1,0 +1,3 @@
+VERSION=2
+NAME=Additional monitoring utilities
+REQUIRES=monitoring

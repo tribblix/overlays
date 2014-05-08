@@ -1,0 +1,6 @@
+VERSION=4
+NAME=Retro Desktop environments and utilities
+REQUIRES=x11
+REQUIRES=cli-tools
+REQUIRES=base-extras
+REQUIRES=tls

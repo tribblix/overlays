@@ -1,0 +1,3 @@
+VERSION=3
+NAME=Monitoring utilities
+REQUIRES=retro-desktop

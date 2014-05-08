@@ -1,0 +1,9 @@
+TRIBsys-net-nis
+TRIBsvc-net-nis
+TRIBnaming-ldap
+TRIBsvc-net-dns-mdns
+TRIBsvc-file-system-nfs
+TRIBcups
+TRIBsamba4
+TRIBbind9
+TRIBgnupg

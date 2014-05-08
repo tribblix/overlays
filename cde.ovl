@@ -1,0 +1,3 @@
+VERSION=1
+NAME=CDE, the Common Desktop Environment
+REQUIRES=motif

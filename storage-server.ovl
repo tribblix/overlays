@@ -1,0 +1,3 @@
+VERSION=1
+NAME=Multi Protocol Storage Server cluster
+REQUIRES=storage-nas

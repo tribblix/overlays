@@ -1,0 +1,3 @@
+VERSION=1
+NAME=The Lightdm display manager
+REQUIRES=retro-desktop

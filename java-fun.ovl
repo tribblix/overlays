@@ -1,0 +1,3 @@
+VERSION=1
+NAME=Java Fun
+REQUIRES=java

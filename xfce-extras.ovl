@@ -1,0 +1,4 @@
+VERSION=2
+NAME=Additional utilities for Xfce
+REQUIRES=xfce
+REQUIRES=gstreamer
