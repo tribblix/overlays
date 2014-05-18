@@ -28,12 +28,7 @@ TRIBlib-graphics-pixman
 TRIBx11-server-xvnc
 TRIBfont-xorg-core
 TRIBx11-xcalc
-TRIBlib-expat
-TRIBlib-glib2
 TRIBsys-lib-policykit
-TRIBsys-lib-dbus
-TRIBsys-libdbus
-TRIBsys-libdbus-glib
 TRIBsvc-hal
 TRIBx11-libdrm
 TRIBdiagnostic-scanpci
