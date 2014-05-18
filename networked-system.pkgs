@@ -7,3 +7,7 @@ TRIBcups
 TRIBsamba4
 TRIBbind9
 TRIBgnupg
+TRIBsys-security-kerberos-5
+TRIBsys-lib-security-gss-spnego
+TRIBsys-lib-security-gss-dh
+TRIBsys-lib-security-rpcsec
