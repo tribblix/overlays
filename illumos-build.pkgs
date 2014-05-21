@@ -23,3 +23,5 @@ TRIBweb-server-apache-13
 TRIBsys-mgmt-product-registry
 TRIBsunstudio-il-build
 TRIBdev-illumos-gcc
+TRIBjava
+TRIBdev-java-jdk
