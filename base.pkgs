@@ -102,7 +102,6 @@ TRIBfile-gnu-coreutils
 TRIBsys-data-keyboard-keytables
 TRIBlocale-en
 TRIBstorage-stmf
-TRIBstorage-svm
 TRIBsys-libfcoe
 TRIBsys-lib-storage-fc-hbaapi
 TRIBsys-storage-fc-port-utility
