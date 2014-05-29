@@ -1,2 +1,5 @@
-VERSION=3
+VERSION=4
 NAME=Extra Development Tools
+REQUIRES=groovy
+REQUIRES=scala
+REQUIRES=jruby
