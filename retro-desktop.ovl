@@ -1,6 +1,7 @@
-VERSION=5
+VERSION=6
 NAME=Retro Desktop environments and utilities
 REQUIRES=x11
 REQUIRES=cli-tools
 REQUIRES=base-extras
 REQUIRES=tls
+REQUIRES=all-audio-drivers

@@ -79,3 +79,7 @@ TRIBx11-xfs-xfs-utilities
 TRIBxdm
 TRIBsvc-gnome-desktop-cache
 TRIBxrestop
+TRIBxorg-driver-input-hotkey
+TRIBxorg-driver-input-synaptics
+TRIBxorg-driver-video-i740
+TRIBxorg-driver-video-nv
