@@ -24,11 +24,11 @@ gstreamer|1||
 illumos-build|2||
 inkscape|1||
 java-desktop|1||
-java-developer|1||
+java-developer|2||
 java-fun|1||
 java|2||
 java8|1||
-jruby|2||
+jruby|3||
 kitchen-sink|2||
 legacy-services|1||
 lightdm|1||
