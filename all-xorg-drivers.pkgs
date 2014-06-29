@@ -37,4 +37,4 @@ TRIBdrv-graphics-agpgart
 TRIBdrv-graphics-drm
 TRIBdrv-graphics-nvidia
 TRIBdrv-graphics-usbvc
-TRIBdrv-graphics-atiato
+TRIBdrv-graphics-atiatom
