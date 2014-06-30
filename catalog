@@ -57,6 +57,7 @@ storage-server|2||
 tls|1||
 tomcat6|1||
 tomcat7|1||
+tomcat8|1||
 tribblix-tools|3||
 x11|3||
 xfce-extras|2||
