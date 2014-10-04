@@ -6,6 +6,7 @@ TRIBsvc-file-system-nfs
 TRIBcups
 TRIBsamba4
 TRIBbind9
+TRIBdhcp-server
 TRIBgnupg
 TRIBsys-security-kerberos-5
 TRIBsys-lib-security-gss-spnego
