@@ -76,6 +76,7 @@ TRIBx11-libfs
 TRIBx11-libxres
 TRIBx11-libxvmc
 TRIBx11-xfs-xfs-utilities
+TRIBx11-xmessage
 TRIBxdm
 TRIBsvc-gnome-desktop-cache
 TRIBxrestop
