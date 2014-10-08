@@ -121,5 +121,6 @@ TRIBwget
 TRIBzap
 TRIBdatabase-sqlite-3
 TRIBdrv-misc-virtio
+TRIBdrv-storage-vioblk
 TRIBdrv-xvm-pv
 TRIBrelease-name
