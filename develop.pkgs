@@ -8,7 +8,6 @@ TRIBsys-header-storage
 TRIBsys-header-usb
 TRIBsys-header-ugen
 TRIBsys-header-firewire
-TRIBsys-lib-math-header-math
 TRIBdev-macro-cpp
 TRIBdev-lib-lint
 TRIBv-gcc-473

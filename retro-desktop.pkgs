@@ -29,6 +29,7 @@ TRIBlib-desktop-cairo
 TRIBafterstep
 TRIBlib-desktop-atk
 TRIBlib-desktop-gtk
+TRIBharfbuzz
 TRIBlib-desktop-pango
 TRIBgnome-hicolor-icon-theme
 TRIBgnome-icon-theme
