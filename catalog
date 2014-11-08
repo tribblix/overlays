@@ -22,7 +22,7 @@ gimp|1||
 gnumeric|1||
 groovy|2||
 gstreamer|1||
-gtk3|1||
+gtk3|2||
 illumos-build|2||
 inkscape|2||
 java-desktop|2||
@@ -49,6 +49,7 @@ pidgin|2||
 qt4-apps|1||
 qt4-base|1||
 qt5-base|1||
+r|1||
 retro-desktop-extras|3||
 retro-desktop|9||
 scala|2||
