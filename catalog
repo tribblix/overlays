@@ -9,12 +9,12 @@ all-storage-drivers|2||
 all-xorg-drivers|2||
 autotools|2||
 base-extras|3||
-base|7||
+base|8||
 cde|1||
 cli-tools|2||
 clojure|1||
 dbus-glib|1||
-develop-extras|7||
+develop-extras|8||
 develop|5||
 e17|2||
 fortran|2||

@@ -119,6 +119,7 @@ TRIBca-bundle
 TRIBcurl
 TRIBwget
 TRIBzap
+TRIBzap-upgrade
 TRIBdatabase-sqlite-3
 TRIBdrv-misc-virtio
 TRIBdrv-storage-vioblk
