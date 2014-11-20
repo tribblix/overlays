@@ -10,7 +10,7 @@ all-xorg-drivers|2||
 amp-stack|1||
 autotools|2||
 base-extras|3||
-base|8||
+base|9||
 cde|1||
 cli-tools|2||
 clojure|1||
@@ -21,6 +21,7 @@ e17|2||
 fortran|2||
 gimp|1||
 gnumeric|1||
+go|1||
 groovy|2||
 gstreamer|1||
 gtk3|2||
@@ -52,6 +53,7 @@ qt4-base|1||
 qt5-base|1||
 r|1||
 retro-desktop-extras|4||
+retro-desktop-games|1||
 retro-desktop|9||
 scala|2||
 scratch|1||

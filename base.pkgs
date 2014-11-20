@@ -125,3 +125,4 @@ TRIBdrv-misc-virtio
 TRIBdrv-storage-vioblk
 TRIBdrv-xvm-pv
 TRIBrelease-name
+TRIBsys-data-zoneinfo
