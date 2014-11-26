@@ -53,7 +53,7 @@ qt4-base|1||
 qt5-base|1||
 r|1||
 retro-desktop-extras|4||
-retro-desktop-games|1||
+retro-desktop-games|2||
 retro-desktop|9||
 scala|2||
 scratch|1||
@@ -67,4 +67,4 @@ tomcat8|1||
 tribblix-tools|3||
 x11|4||
 xfce-extras|2||
-xfce|2||
+xfce|3||
