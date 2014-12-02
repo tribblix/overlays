@@ -21,6 +21,7 @@ TRIBsys-file-system-zfs
 TRIBlibtecla
 TRIBlib-security-openssl
 TRIBsys-lib-security-gss
+TRIBsvc-security-gss
 TRIBsvc-security-kerberos-5
 TRIBsys-file-system-smb
 TRIBsys-net-routing
@@ -107,7 +108,6 @@ TRIBsys-lib-storage-fc-hbaapi
 TRIBsys-storage-fc-port-utility
 TRIBlib-security-trousers
 TRIBsys-data-terminfo
-TRIBsys-boot-wanboot
 TRIBpackage-svr4
 TRIBsys-boot-real-mode
 TRIBinstall-beadm
