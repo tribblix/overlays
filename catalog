@@ -10,7 +10,7 @@ all-xorg-drivers|2||
 amp-stack|1||
 autotools|2||
 base-extras|3||
-base|9||
+base|10||
 cde|1||
 cli-tools|2||
 clojure|1||
@@ -65,6 +65,6 @@ tomcat6|1||
 tomcat7|1||
 tomcat8|1||
 tribblix-tools|3||
-x11|4||
+x11|5||
 xfce-extras|2||
 xfce|3||
