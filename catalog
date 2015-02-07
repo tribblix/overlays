@@ -44,8 +44,9 @@ mosh|1||
 motif-apps-extras|1||
 motif-apps|1||
 motif|1||
-networked-system|5||
+networked-system|6||
 node-010|2||
+node-012|1||
 openexr|1||
 perl-518|2||
 pidgin|2||
@@ -53,7 +54,7 @@ qt4-apps|1||
 qt4-base|1||
 qt5-base|1||
 r|1||
-retro-desktop-extras|6||
+retro-desktop-extras|7||
 retro-desktop-games|2||
 retro-desktop|9||
 scala|2||
