@@ -1,0 +1,4 @@
+VERSION=1
+NAME=Enlightenment E19
+REQUIRES=retro-desktop
+REQUIRES=gstreamer1
