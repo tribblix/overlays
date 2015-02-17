@@ -15,3 +15,4 @@ TRIBsys-lib-security-rpcsec
 TRIBsvc-net-smtp-sendmail
 TRIBsys-net-mailwrapper
 TRIBscreen
+TRIBmbuffer
