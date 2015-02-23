@@ -1,4 +1,5 @@
-VERSION=9
+VERSION=10
 NAME=Additional Desktop Environments and Utilities
 REQUIRES=retro-desktop
 REQUIRES=i3
+REQUIRES=pidgin
