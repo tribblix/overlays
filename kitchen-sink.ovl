@@ -1,4 +1,4 @@
-VERSION=3
+VERSION=4
 NAME=Everything but the kitchen sink
 REQUIRES=xfce-extras
 REQUIRES=develop
