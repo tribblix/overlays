@@ -1,4 +1,0 @@
-VERSION=1
-NAME=Additional utilities for Xfce
-REQUIRES=xfce
-REQUIRES=gstreamer

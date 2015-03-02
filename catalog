@@ -36,7 +36,7 @@ java-fun|2||
 java|5||
 java8|4||
 jruby|3||
-kitchen-sink|4||
+kitchen-sink|5||
 legacy-services|1||
 lightdm|1||
 live555|1||
@@ -71,6 +71,5 @@ tomcat7|1||
 tomcat8|1||
 tribblix-tools|3||
 x11|6||
-xfce-extras|3||
-xfce-media|1||
-xfce|3||
+xfce-extras|4||
+xfce|4||

@@ -43,6 +43,7 @@ cat ${CKDIR}/list.orig.uniq | sort | uniq > ${CKDIR}/list.combo
 DIFF1=`diff ${CKDIR}/list.orig ${CKDIR}/list.combo`
 if [ -n "$DIFF1" ]; then
     echo "ERROR: overlays.iso has missing dependencies"
+    diff ${CKDIR}/list.orig ${CKDIR}/list.combo
 fi
 
 #

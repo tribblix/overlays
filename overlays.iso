@@ -9,10 +9,10 @@ base
 cli-tools
 dbus-glib
 develop
-e17
+e19
 gimp
 gnumeric
-gstreamer
+gstreamer1
 java-developer
 java-fun
 java
