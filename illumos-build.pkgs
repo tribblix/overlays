@@ -19,7 +19,7 @@ TRIBmercurial
 TRIBgpl-ghostscript
 TRIBsys-lib-install
 TRIBsys-mgmt-snmp-net-snmp
-TRIBweb-server-apache-13
+TRIBblix-apache-24
 TRIBsys-mgmt-product-registry
 TRIBsunstudio-il-build
 TRIBdev-illumos-gcc
