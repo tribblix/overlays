@@ -1,1 +1,4 @@
 TRIBwireshark
+TRIBdiagnostic-powertop
+TRIBdiagnostic-latencytop
+TRIBdiagnostic-cpu-counters
