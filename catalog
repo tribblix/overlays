@@ -11,7 +11,7 @@ amp-stack|1||
 autotools|2||
 base-extras|4||
 base|10||
-boot-server|1||
+boot-server|2||
 cde|1||
 cli-tools|2||
 clojure|1||
