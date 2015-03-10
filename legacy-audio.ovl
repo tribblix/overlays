@@ -1,0 +1,3 @@
+VERSION=1
+NAME=Legacy audio tools and samples
+REQUIRES=all-audio-drivers
