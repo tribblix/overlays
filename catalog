@@ -9,7 +9,7 @@ all-storage-drivers|2||
 all-xorg-drivers|2||
 amp-stack|1||
 autotools|2||
-base-extras|4||
+base-extras|5||
 base|10||
 boot-server|2||
 cde|1||
