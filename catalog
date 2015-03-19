@@ -10,7 +10,7 @@ all-xorg-drivers|2||
 amp-stack|1||
 autotools|2||
 base-extras|6||
-base|10||
+base|11||
 boot-server|2||
 cde|1||
 cli-tools|2||
@@ -19,7 +19,7 @@ dbus-glib|1||
 develop-extras|8||
 develop|5||
 e17|2||
-e19|1||
+e19|2||
 fortran|2||
 gimp|1||
 gnumeric|1||
