@@ -106,7 +106,6 @@ TRIBstorage-stmf
 TRIBsys-libfcoe
 TRIBsys-lib-storage-fc-hbaapi
 TRIBsys-storage-fc-port-utility
-TRIBlib-security-trousers
 TRIBsys-data-terminfo
 TRIBpackage-svr4
 TRIBsys-boot-real-mode
