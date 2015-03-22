@@ -23,7 +23,6 @@ TRIBlib-security-openssl
 TRIBsys-lib-security-gss
 TRIBsvc-security-gss
 TRIBsvc-security-kerberos-5
-TRIBsys-file-system-smb
 TRIBsys-net-routing
 TRIBsys-libdiskmgt
 TRIBsys-lib-c++-sunpro
@@ -47,7 +46,6 @@ TRIBsvc-mgmt-sysidtool
 TRIBsys-boot-grub
 TRIBsvc-resource-pools
 TRIBsys-zones
-TRIBsvc-file-system-smb
 TRIBlib-nspr
 TRIBsys-lib-security-libsasl
 TRIBsys-lib-mozilla-nss
@@ -102,7 +100,6 @@ TRIBdrv-net-yge
 TRIBfile-gnu-coreutils
 TRIBsys-data-keyboard-keytables
 TRIBlocale-en
-TRIBstorage-stmf
 TRIBsys-libfcoe
 TRIBsys-lib-storage-fc-hbaapi
 TRIBsys-storage-fc-port-utility
@@ -125,3 +122,4 @@ TRIBdrv-storage-vioblk
 TRIBdrv-xvm-pv
 TRIBrelease-name
 TRIBsys-data-zoneinfo
+TRIBlib-security-trousers
