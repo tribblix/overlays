@@ -10,7 +10,7 @@ all-xorg-drivers|2||
 amp-stack|1||
 autotools|2||
 base-extras|6||
-base|11||
+base|12||
 boot-server|2||
 cde|1||
 cli-tools|2||
@@ -29,7 +29,7 @@ gstreamer|1||
 gstreamer1|1||
 gtk3|2||
 i3|1||
-illumos-build|4||
+illumos-build|5||
 inkscape|2||
 java-desktop|3||
 java-developer|4||
@@ -48,7 +48,7 @@ mosh|1||
 motif-apps-extras|1||
 motif-apps|1||
 motif|1||
-networked-system|8||
+networked-system|9||
 node-010|2||
 node-012|1||
 openexr|1||
@@ -73,5 +73,5 @@ tomcat7|1||
 tomcat8|1||
 tribblix-tools|3||
 x11|6||
-xfce-extras|4||
+xfce-extras|5||
 xfce|4||

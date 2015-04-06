@@ -25,3 +25,4 @@ TRIBsunstudio-il-build
 TRIBdev-illumos-gcc
 TRIBjava
 TRIBdev-java-jdk
+TRIBopenssl-compat
