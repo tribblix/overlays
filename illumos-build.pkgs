@@ -26,3 +26,4 @@ TRIBdev-illumos-gcc
 TRIBjava
 TRIBdev-java-jdk
 TRIBopenssl-compat
+TRIBil-lintlibs
