@@ -3,6 +3,8 @@ all-audio-drivers
 all-locales
 all-network-drivers
 all-storage-drivers
+all-crypto-drivers
+all-serial-drivers
 all-xorg-drivers
 base-extras
 base
@@ -32,3 +34,6 @@ tribblix-tools
 x11
 xfce-extras
 xfce
+rsyslog
+boot-server
+autotools
