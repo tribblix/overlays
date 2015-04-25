@@ -15,7 +15,7 @@ boot-server|2||
 cde|1||
 cli-tools|2||
 clojure|1||
-dbus-glib|1||
+dbus-glib|2||
 develop-extras|8||
 develop|5||
 e17|2||
@@ -29,7 +29,7 @@ gstreamer|1||
 gstreamer1|1||
 gtk3|2||
 i3|1||
-illumos-build|6||
+illumos-build|7||
 inkscape|2||
 java-desktop|3||
 java-developer|4||
