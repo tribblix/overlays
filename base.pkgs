@@ -6,7 +6,6 @@ TRIBsys-kernel
 TRIBsys-kernel-platform
 TRIBdrv-ser-usbser
 TRIBdrv-audio
-TRIBsys-kernel-ultra-wideband
 TRIBdrv-usb
 TRIBsys-kernel-cpu-counters
 TRIBsys-kernel-dtrace
