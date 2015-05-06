@@ -21,7 +21,5 @@ TRIBblix-apache-22
 TRIBsys-mgmt-product-registry
 TRIBsunstudio-il-build
 TRIBdev-illumos-gcc
-TRIBjava
-TRIBdev-java-jdk
 TRIBopenssl-compat
 TRIBil-lintlibs
