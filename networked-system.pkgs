@@ -20,3 +20,4 @@ TRIBnet-ipfilter
 TRIBlib-security-tcp-wrapper
 TRIBsys-file-system-smb
 TRIBsvc-file-system-smb
+TRIBsvc-net-network-clients
