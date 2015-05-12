@@ -13,7 +13,7 @@ base-extras|6||
 base|13||
 boot-server|2||
 cde|1||
-cli-tools|2||
+cli-tools|3||
 clojure|1||
 dbus-glib|2||
 develop-extras|8||
