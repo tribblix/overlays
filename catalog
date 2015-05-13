@@ -31,7 +31,7 @@ gstreamer1|1||
 gtk3|2||
 i3|1||
 illumos-build|8||
-inkscape|2||
+inkscape|3||
 java-desktop|3||
 java-developer|4||
 java-fun|2||
@@ -61,8 +61,8 @@ qt4-base|1||
 qt5-base|1||
 r|1||
 retro-desktop-extras|11||
-retro-desktop-games|2||
-retro-desktop|9||
+retro-desktop-games|3||
+retro-desktop|10||
 rsyslog|1||
 scala|2||
 scratch|1||
