@@ -15,6 +15,7 @@ TRIBsys-lib-security-rpcsec
 TRIBsvc-net-smtp-sendmail
 TRIBsys-net-mailwrapper
 TRIBscreen
+TRIBtmux
 TRIBmbuffer
 TRIBnet-ipfilter
 TRIBlib-security-tcp-wrapper

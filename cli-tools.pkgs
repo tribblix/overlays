@@ -9,4 +9,7 @@ TRIBarchiver-gnu-tar
 TRIBcompress-p7zip
 TRIBcompress-xz
 TRIBcompress-pbzip2
+TRIBcompress-lzip
 TRIBpipe-viewer
+TRIBscreen
+TRIBtmux

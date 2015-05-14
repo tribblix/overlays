@@ -14,7 +14,7 @@ base|13||
 benchmark|1||
 boot-server|2||
 cde|1||
-cli-tools|3||
+cli-tools|4||
 clojure|1||
 dbus-glib|2||
 develop-extras|8||
@@ -34,7 +34,7 @@ illumos-build|8||
 inkscape|3||
 java-desktop|3||
 java-developer|4||
-java-fun|2||
+java-fun|3||
 java|6||
 java8|5||
 jruby|3||
@@ -49,7 +49,7 @@ mosh|1||
 motif-apps-extras|2||
 motif-apps|1||
 motif|1||
-networked-system|10||
+networked-system|11||
 node-010|2||
 node-012|1||
 openexr|1||
