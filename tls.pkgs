@@ -1,3 +1,5 @@
 TRIBlibgpg-error
 TRIBlibgcrypt
 TRIBgnutls
+TRIBlib-gmp
+TRIBnettle

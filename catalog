@@ -24,6 +24,7 @@ e19|2||
 fortran|2||
 gimp|1||
 gnumeric|1||
+gnupg2|1||
 go|2||
 groovy|3||
 gstreamer|1||
@@ -69,7 +70,7 @@ scratch|1||
 server-manage|2||
 storage-nas|2||
 storage-server|2||
-tls|1||
+tls|2||
 tomcat6|1||
 tomcat7|1||
 tomcat8|1||
