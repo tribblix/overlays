@@ -14,11 +14,11 @@ base|13||
 benchmark|1||
 boot-server|2||
 cde|1||
-cli-tools|4||
+cli-tools|5||
 clojure|1||
 dbus-glib|2||
 develop-extras|8||
-develop|5||
+develop|6||
 e19|2||
 fortran|2||
 gimp|1||
