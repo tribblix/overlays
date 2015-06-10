@@ -41,6 +41,7 @@ TRIBimage-libexif
 TRIBlib-lcms
 TRIBdjvulibre
 TRIBgraphics-jasper
+TRIBlib-openjpeg
 TRIBlibglade
 TRIBxscreensaver
 TRIBgsettings-desktop-schemas
