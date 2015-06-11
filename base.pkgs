@@ -122,3 +122,4 @@ TRIBdrv-xvm-pv
 TRIBrelease-name
 TRIBsys-data-zoneinfo
 TRIBlib-security-trousers
+TRIBlib-pcre

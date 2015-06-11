@@ -1,3 +1,4 @@
-VERSION=2
+VERSION=4
 NAME=Multi Protocol Storage Server cluster
 REQUIRES=storage-nas
+REQUIRES=samba

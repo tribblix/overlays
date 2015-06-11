@@ -18,6 +18,7 @@ TRIBx11-xfontsel
 TRIBx11-xlock
 TRIBx11-xmag
 TRIBx11-xkill
+TRIBlibxcb
 TRIBremote-desktop-tigervnc
 TRIBdrv-audio-audio810
 TRIBdrv-audio-audiohd
@@ -45,6 +46,7 @@ TRIBlib-openjpeg
 TRIBlibglade
 TRIBxscreensaver
 TRIBgsettings-desktop-schemas
+TRIBpoppler
 TRIBimagemagick
 TRIBevince
 TRIBfont-ttype-dejavu
@@ -55,3 +57,5 @@ TRIBtk
 TRIBv-emacs-24
 TRIBxdaliclock
 TRIBxcpustate
+TRIBstartup-notification
+TRIBlibcroco

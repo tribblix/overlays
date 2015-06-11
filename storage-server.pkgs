@@ -21,7 +21,6 @@ TRIBdrv-storage-smp
 TRIBdrv-storage-sv
 TRIBnet-iscsi-iser
 TRIBnet-iscsi-target
-TRIBsamba4
 TRIBsvc-storage-avs-cache-mgmt
 TRIBsvc-storage-fc-fc-fabric
 TRIBsvc-storage-isns

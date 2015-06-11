@@ -6,12 +6,8 @@ TRIBlib-perl-5-uri
 TRIBgnu-gettext
 TRIBgperf
 TRIBintltool
-TRIBlibcroco
 TRIBlibwnck
-TRIBlibxcb
 TRIBpkg-config
-TRIBpoppler
-TRIBstartup-notification
 TRIBlib-desktop-gsf
 TRIBv-python-27
 TRIBlibnotify
