@@ -7,7 +7,7 @@ all-network-drivers|1||
 all-serial-drivers|1||
 all-storage-drivers|2||
 all-xorg-drivers|2||
-amp-stack|2||
+amp-stack|3||
 autotools|2||
 base-extras|7||
 base|14||
@@ -79,4 +79,4 @@ tomcat8|1||
 tribblix-tools|3||
 x11|7||
 xfce-extras|5||
-xfce|5||
+xfce|6||

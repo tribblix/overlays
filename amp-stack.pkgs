@@ -7,4 +7,5 @@ TRIBlibidn
 TRIBlibxml2
 TRIBblix-apache-24
 TRIBblix-mysql-56
+TRIBblix-libmcrypt
 TRIBblix-php-56
