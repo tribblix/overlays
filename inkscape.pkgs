@@ -6,7 +6,8 @@ TRIBlib-desktop-pangomm
 TRIBlib-desktop-atkmm
 TRIBlib-desktop-gtkmm
 TRIBlibgsl
-TRIBboost
 TRIBlibpopt
 TRIBlibxslt
+TRIBenchant
+TRIBgtkspell
 TRIBinkscape
