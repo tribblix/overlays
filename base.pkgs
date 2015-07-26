@@ -117,6 +117,7 @@ TRIBzap
 TRIBzap-upgrade
 TRIBdatabase-sqlite-3
 TRIBdrv-misc-virtio
+TRIBdrv-storage-blkdev
 TRIBdrv-storage-vioblk
 TRIBdrv-xvm-pv
 TRIBrelease-name
