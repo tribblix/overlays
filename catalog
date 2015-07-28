@@ -24,7 +24,7 @@ fortran|2||
 gimp|1||
 gnumeric|2||
 gnupg2|1||
-go|2||
+go|3||
 groovy|3||
 gstreamer|1||
 gstreamer1|2||
@@ -44,6 +44,7 @@ legacy-services|1||
 libreoffice|1||
 lightdm|1||
 live555|1||
+mate|1||
 monitoring-extras|3||
 monitoring|4||
 mosh|1||
