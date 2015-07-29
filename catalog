@@ -9,12 +9,12 @@ all-storage-drivers|2||
 all-xorg-drivers|2||
 amp-stack|3||
 autotools|2||
-base-extras|7||
+base-extras|8||
 base|15||
 benchmark|1||
 boot-server|2||
 cde|1||
-cli-tools|5||
+cli-tools|6||
 clojure|2||
 dbus-glib|2||
 develop-extras|9||
