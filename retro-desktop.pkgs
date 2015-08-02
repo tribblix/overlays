@@ -20,8 +20,6 @@ TRIBx11-xmag
 TRIBx11-xkill
 TRIBlibxcb
 TRIBremote-desktop-tigervnc
-TRIBdrv-audio-audio810
-TRIBdrv-audio-audiohd
 TRIBsvc-storage-media-volmgr
 TRIBmedia-cdrw
 TRIBgdk-pixbuf

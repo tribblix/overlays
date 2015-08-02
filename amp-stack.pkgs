@@ -1,10 +1,5 @@
-TRIBcurl
 TRIBimage-libjpeg
 TRIBimage-libpng
-TRIBlib-security-openssl
-TRIBlib-zlib
-TRIBlibidn
-TRIBlibxml2
 TRIBblix-apache-24
 TRIBblix-mysql-56
 TRIBblix-libmcrypt

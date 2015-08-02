@@ -7,7 +7,7 @@ all-network-drivers|1||
 all-serial-drivers|1||
 all-storage-drivers|2||
 all-xorg-drivers|2||
-amp-stack|3||
+amp-stack|4||
 autotools|2||
 base-extras|8||
 base|15||
@@ -52,8 +52,8 @@ motif-apps-extras|2||
 motif-apps|1||
 motif|1||
 networked-system|12||
-node-010|2||
-node-012|1||
+node-010|3||
+node-012|2||
 office-utilities|1||
 openexr|1||
 perl-518|2||
@@ -65,7 +65,7 @@ qt5-base|1||
 r|2||
 retro-desktop-extras|12||
 retro-desktop-games|3||
-retro-desktop|12||
+retro-desktop|13||
 rsyslog|1||
 samba|1||
 scala|2||
