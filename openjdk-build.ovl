@@ -1,0 +1,5 @@
+VERSION=1
+NAME=OpenJDK Build Environment
+REQUIRES=develop
+REQUIRES=java
+REQUIRES=x11
