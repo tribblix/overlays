@@ -1,6 +1,10 @@
 TRIBdconf
+TRIBglib-networking
+TRIBlibsoup
 TRIBgtksourceview
 TRIBlibunique
+TRIBlibnotify
+TRIBlibtool
 TRIBmate-desktop
 TRIBmate-icon-theme
 TRIBmate-eom
@@ -8,3 +12,11 @@ TRIBmate-caja
 TRIBmate-atril
 TRIBmate-pluma
 TRIBmate-engrampa
+TRIBmate-weather
+TRIBmate-menus
+TRIBlibcanberra
+TRIBmate-panel
+TRIBmate-session
+TRIBzenity
+TRIBmate-marco
+TRIBmate-themes
