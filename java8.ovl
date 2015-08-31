@@ -1,2 +1,3 @@
-VERSION=7
+VERSION=8
 NAME=Java OpenJDK 8
+REQUIRES=java-prerequisite

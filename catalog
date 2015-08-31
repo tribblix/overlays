@@ -35,8 +35,9 @@ inkscape|5||
 java-desktop|3||
 java-developer|5||
 java-fun|3||
-java|7||
-java8|7||
+java-prerequisite|1||
+java|8||
+java8|8||
 jruby|3||
 kitchen-sink|5||
 legacy-audio|1||
