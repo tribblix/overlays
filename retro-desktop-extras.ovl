@@ -1,4 +1,4 @@
-VERSION=12
+VERSION=13
 NAME=Additional Desktop Environments and Utilities
 REQUIRES=retro-desktop
 REQUIRES=i3
