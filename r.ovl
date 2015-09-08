@@ -1,3 +1,4 @@
-VERSION=2
+VERSION=3
 NAME=The R statistical package
 REQUIRES=cli-tools
+REQUIRES=retro-desktop

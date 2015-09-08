@@ -64,9 +64,9 @@ qemu|1||
 qt4-apps|1||
 qt4-base|1||
 qt5-base|1||
-r|2||
+r|3||
 retro-desktop-extras|13||
-retro-desktop-games|3||
+retro-desktop-games|4||
 retro-desktop|15||
 retro-web|1||
 rsyslog|1||
