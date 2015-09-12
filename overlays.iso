@@ -21,7 +21,6 @@ java-prerequisite
 java
 kitchen-sink
 legacy-services
-lightdm
 monitoring
 motif-apps
 motif
