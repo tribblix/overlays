@@ -39,7 +39,7 @@ java-prerequisite|1||
 java|8||
 java8|8||
 jruby|3||
-kitchen-sink|5||
+kitchen-sink|6||
 legacy-audio|1||
 legacy-services|1||
 libreoffice|1||
@@ -67,7 +67,7 @@ qt5-base|1||
 r|3||
 retro-desktop-extras|14||
 retro-desktop-games|4||
-retro-desktop|15||
+retro-desktop|16||
 retro-web|1||
 rsyslog|1||
 s3-utilities|1||

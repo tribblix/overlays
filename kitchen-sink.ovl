@@ -1,4 +1,4 @@
-VERSION=5
+VERSION=6
 NAME=Everything but the kitchen sink
 REQUIRES=xfce-extras
 REQUIRES=develop
@@ -11,4 +11,3 @@ REQUIRES=gimp
 REQUIRES=monitoring
 REQUIRES=networked-system
 REQUIRES=tribblix-tools
-REQUIRES=motif-apps
