@@ -22,3 +22,10 @@ TRIBsunstudio-il-build
 TRIBdev-illumos-gcc
 TRIBopenssl-compat
 TRIBil-lintlibs
+TRIBimage-libjpeg
+TRIBimage-libpng
+TRIBimage-libtiff
+TRIBsys-lib-fontconfig
+TRIBx11-lib-toolkit-libxt
+TRIBx11-libice
+TRIBx11-libsm
