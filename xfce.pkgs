@@ -26,6 +26,8 @@ TRIBxfce-notes-plugin
 TRIBxfce-places-plugin
 TRIBxfce-eyes-plugin
 TRIBxfce-equake-plugin
+TRIBglib-networking
+TRIBlibsoup
 TRIBxfce-weather-plugin
 TRIBxfce-systemload-plugin
 TRIBxfce-datetime-plugin
