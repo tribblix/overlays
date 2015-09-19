@@ -1,2 +1,3 @@
-VERSION=9
-NAME=Base packages, not in the live image
+VERSION=21
+NAME=Common packages, atop the base
+REQUIRES=base
