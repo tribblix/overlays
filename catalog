@@ -3,7 +3,7 @@ all-audio-drivers|1||
 all-crypto-drivers|1||
 all-fabric-drivers|1||
 all-locales|1||
-all-network-drivers|1||
+all-network-drivers|2||
 all-serial-drivers|1||
 all-storage-drivers|2||
 all-xorg-drivers|2||
@@ -19,7 +19,7 @@ cli-tools|6||
 clojure|2||
 dbus-glib|2||
 develop-extras|9||
-develop|8||
+develop|9||
 e19|2||
 fortran|2||
 gimp|1||
