@@ -7,6 +7,7 @@ all-crypto-drivers
 all-serial-drivers
 all-xorg-drivers
 base-extras
+base-iso
 base
 cli-tools
 dbus-glib
