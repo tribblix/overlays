@@ -36,9 +36,6 @@ TRIBcompress-bzip2
 TRIBcompress-gzip
 TRIBcompress-unzip
 TRIBcompress-zip
-TRIBperl-510
-TRIBperl-510-extra
-TRIBperl-510-module-sun-solaris
 TRIBsys-esu
 TRIBnet-ssh
 TRIBnet-ssh-ssh-key
