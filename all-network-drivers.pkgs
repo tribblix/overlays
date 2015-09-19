@@ -53,6 +53,7 @@ TRIBdrv-net-uath
 TRIBdrv-net-ural
 TRIBdrv-net-urtw
 TRIBdrv-net-usbecm
+TRIBdrv-net-vioif
 TRIBdrv-net-vr
 TRIBdrv-net-wpi
 TRIBdrv-net-xge
