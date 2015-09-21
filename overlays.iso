@@ -12,10 +12,8 @@ base
 cli-tools
 dbus-glib
 develop
-e19
 gimp
 gnumeric
-gstreamer1
 java-developer
 java-fun
 java-prerequisite

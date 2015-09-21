@@ -1,8 +1,7 @@
-VERSION=6
+VERSION=7
 NAME=Everything but the kitchen sink
 REQUIRES=xfce-extras
 REQUIRES=develop
-REQUIRES=e19
 REQUIRES=java
 REQUIRES=java-fun
 REQUIRES=abiword
