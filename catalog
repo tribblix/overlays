@@ -10,8 +10,8 @@ all-xorg-drivers|2||
 amp-stack|4||
 autotools|2||
 base-extras|21||
-base-iso|1||
-base|21||
+base-iso|2||
+base|22||
 benchmark|1||
 boot-server|2||
 cde|1||

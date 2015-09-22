@@ -97,7 +97,6 @@ TRIBdrv-net-rtls
 TRIBdrv-net-sfe
 TRIBdrv-net-vr
 TRIBdrv-net-yge
-TRIBfile-gnu-coreutils
 TRIBlocale-en
 TRIBsys-libfcoe
 TRIBsys-lib-storage-fc-hbaapi
