@@ -75,7 +75,7 @@ samba|1||
 scala|2||
 server-manage|2||
 storage-nas|2||
-storage-server|4||
+storage-server|5||
 tls|2||
 tomcat6|1||
 tomcat7|1||
