@@ -1,9 +1,8 @@
-VERSION=7
+VERSION=8
 NAME=Everything but the kitchen sink
 REQUIRES=xfce-extras
 REQUIRES=develop
 REQUIRES=java
-REQUIRES=java-fun
 REQUIRES=abiword
 REQUIRES=gnumeric
 REQUIRES=gimp
