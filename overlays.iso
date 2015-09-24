@@ -1,10 +1,11 @@
 abiword
 all-audio-drivers
+all-crypto-drivers
+all-fabric-drivers
 all-locales
 all-network-drivers
-all-storage-drivers
-all-crypto-drivers
 all-serial-drivers
+all-storage-drivers
 all-xorg-drivers
 base-extras
 base-iso
