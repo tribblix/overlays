@@ -5,7 +5,6 @@ TRIBsys-data-hardware-registry
 TRIBsys-file-system-udfs
 TRIBsys-xopen-xcu4
 TRIBsys-xopen-xcu6
-TRIBlib-gmp
 TRIBtext-doctools
 TRIBtext-gnu-sed
 TRIBtext-gnu-grep
