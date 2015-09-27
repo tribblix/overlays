@@ -17,7 +17,6 @@ TRIBnet-bridging
 TRIBsys-net
 TRIBsys-lib-math
 TRIBdev-dtrace
-TRIBgcc4runtime
 TRIBsys-file-system-autofs
 TRIBsys-kernel-secure-rpc
 TRIBsys-file-system-nfs
