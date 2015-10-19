@@ -60,6 +60,7 @@ office-utilities|1||
 openexr|1||
 openjdk-build|1||
 pidgin|3||
+pkgsrc|1||
 qemu|1||
 qt4-apps|1||
 qt4-base|1||
@@ -84,4 +85,4 @@ tribblix-tools|3||
 x11|7||
 xfce-extras|6||
 xfce|7||
-zabbix-server|1||
+zabbix-server|2||
