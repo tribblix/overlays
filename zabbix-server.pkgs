@@ -4,5 +4,6 @@ TRIBimage-libjpeg
 TRIBimage-libpng
 TRIBsys-lib-freetype-2
 TRIBblix-postgres94
+TRIBblix-php-56
 TRIBblix-php-56pg
 TRIBblix-zabbix
