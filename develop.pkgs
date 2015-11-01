@@ -42,7 +42,6 @@ TRIBtext-locale
 TRIBv-cmake-33
 TRIBv-ruby-22
 TRIBdata-docbook
-TRIBlib-mpfr
 TRIBmercurial
 TRIBnet-ipfilter-header
 TRIBsys-libdiskmgt-header
