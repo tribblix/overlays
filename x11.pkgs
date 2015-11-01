@@ -78,7 +78,6 @@ TRIBx11-libxvmc
 TRIBx11-xfs-xfs-utilities
 TRIBx11-xmessage
 TRIBdev-build-imake
-TRIBxdm
 TRIBsvc-gnome-desktop-cache
 TRIBxrestop
 TRIBxorg-driver-input-hotkey
