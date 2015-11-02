@@ -25,3 +25,4 @@ TRIBdrv-storage-smp
 TRIBdrv-storage-sv
 TRIBdrv-misc-virtio
 TRIBdrv-storage-vioblk
+TRIBdrv-storage-nvme

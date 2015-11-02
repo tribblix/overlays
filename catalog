@@ -5,7 +5,7 @@ all-fabric-drivers|1||
 all-locales|1||
 all-network-drivers|2||
 all-serial-drivers|1||
-all-storage-drivers|2||
+all-storage-drivers|3||
 all-xorg-drivers|2||
 amp-stack|4||
 autotools|2||
@@ -46,7 +46,7 @@ legacy-services|1||
 libreoffice|1||
 live555|1||
 mate|4||
-monitoring-extras|3||
+monitoring-extras|4||
 monitoring|4||
 mosh|1||
 motif-apps-extras|3||
@@ -82,6 +82,7 @@ tomcat6|1||
 tomcat7|1||
 tomcat8|1||
 tribblix-tools|3||
+wifi|1||
 x11|8||
 xfce-extras|6||
 xfce|7||
