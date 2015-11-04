@@ -29,8 +29,6 @@ TRIBgnu-m4
 TRIBgnu-gettext
 TRIBbison
 TRIBdebug-gdb
-TRIBlib-nspr-header-nspr
-TRIBsys-lib-mozilla-nss-header
 TRIBtext-gawk
 TRIBneon
 TRIBtcl
