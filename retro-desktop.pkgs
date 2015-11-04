@@ -19,6 +19,7 @@ TRIBx11-xlock
 TRIBx11-xmag
 TRIBx11-xkill
 TRIBlibxcb
+TRIBfltk
 TRIBremote-desktop-tigervnc
 TRIBsvc-storage-media-volmgr
 TRIBmedia-cdrw
