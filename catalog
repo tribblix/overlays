@@ -7,7 +7,7 @@ all-network-drivers|2||
 all-serial-drivers|1||
 all-storage-drivers|3||
 all-xorg-drivers|2||
-amp-stack|4||
+amp-stack|5||
 autotools|2||
 base-extras|21||
 base-iso|3||

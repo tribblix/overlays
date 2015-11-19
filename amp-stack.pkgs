@@ -1,5 +1,6 @@
 TRIBimage-libjpeg
 TRIBimage-libpng
+TRIBsys-lib-freetype-2
 TRIBblix-apache-24
 TRIBblix-mysql-56
 TRIBblix-libmcrypt
