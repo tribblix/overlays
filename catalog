@@ -14,7 +14,7 @@ base-extras|21||
 base-iso|3||
 base|24||
 benchmark|1||
-boot-server|2||
+boot-server|3||
 cde|1||
 cli-tools|6||
 clojure|2||
