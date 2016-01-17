@@ -16,7 +16,7 @@ base|24||
 benchmark|1||
 boot-server|3||
 cde|1||
-cli-tools|6||
+cli-tools|7||
 clojure|2||
 dbus-glib|2||
 develop-extras|10||
