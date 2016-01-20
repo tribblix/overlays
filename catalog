@@ -32,13 +32,14 @@ gstreamer|1||
 gstreamer1|2||
 gtk3|2||
 i3|3||
-illumos-build|10||
+illumos-build|11||
 inkscape|5||
 java-desktop|3||
 java-developer|5||
 java-fun|3||
 java-prerequisite|1||
-java|8||
+java|9||
+java7|1||
 java8|10||
 jruby|3||
 kitchen-sink|8||

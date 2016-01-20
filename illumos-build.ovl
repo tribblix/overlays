@@ -1,4 +1,4 @@
-VERSION=10
+VERSION=11
 NAME=Illumos Build Environment
 REQUIRES=develop
-REQUIRES=java
+REQUIRES=java7
