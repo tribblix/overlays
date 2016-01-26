@@ -21,7 +21,7 @@ clojure|3||
 dbus-glib|2||
 develop-extras|10||
 develop|14||
-e19|2||
+e19|3||
 fortran|2||
 gimp|3||
 gnumeric|2||
@@ -70,7 +70,7 @@ qt5-base|1||
 r|3||
 retro-desktop-extras|18||
 retro-desktop-games|4||
-retro-desktop|19||
+retro-desktop|20||
 retro-web|2||
 rsyslog|1||
 s3-utilities|1||
@@ -87,5 +87,5 @@ tribblix-tools|3||
 wifi|1||
 x11|8||
 xfce-extras|6||
-xfce|7||
+xfce|8||
 zabbix-server|2||

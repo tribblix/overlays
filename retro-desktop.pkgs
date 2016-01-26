@@ -1,4 +1,5 @@
 TRIBterminal-mrxvt
+TRIBgiflib
 TRIBwmaker
 TRIBwmaker-themes
 TRIBx11-data-workspace-patterns
@@ -23,6 +24,7 @@ TRIBfltk
 TRIBremote-desktop-tigervnc
 TRIBsvc-storage-media-volmgr
 TRIBmedia-cdrw
+TRIBshared-mime-info
 TRIBgdk-pixbuf
 TRIBimage-librsvg
 TRIBlib-desktop-cairo
@@ -41,6 +43,7 @@ TRIBrdesktop
 TRIBgpl-ghostscript
 TRIBimage-libexif
 TRIBlib-lcms
+TRIBlib-lcms2
 TRIBdjvulibre
 TRIBgraphics-jasper
 TRIBlib-openjpeg
