@@ -80,7 +80,6 @@ server-manage|2||
 storage-nas|2||
 storage-server|5||
 tls|2||
-tomcat6|1||
 tomcat7|1||
 tomcat8|1||
 tribblix-tools|3||
