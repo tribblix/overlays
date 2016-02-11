@@ -1,7 +1,8 @@
-VERSION=21
+VERSION=22
 NAME=Retro Desktop environments and utilities
 REQUIRES=x11
 REQUIRES=cli-tools
 REQUIRES=base-extras
 REQUIRES=tls
 REQUIRES=all-audio-drivers
+REQUIRES=tcl-tk

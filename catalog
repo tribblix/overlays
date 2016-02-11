@@ -20,7 +20,7 @@ cli-tools|7||
 clojure|3||
 dbus-glib|2||
 develop-extras|10||
-develop|14||
+develop|15||
 e19|3||
 fortran|2||
 gimp|3||
@@ -70,7 +70,7 @@ qt5-base|1||
 r|3||
 retro-desktop-extras|18||
 retro-desktop-games|4||
-retro-desktop|21||
+retro-desktop|22||
 retro-web|2||
 rsyslog|1||
 s3-utilities|1||
@@ -79,6 +79,7 @@ scala|2||
 server-manage|2||
 storage-nas|2||
 storage-server|5||
+tcl-tk|1||
 tls|2||
 tomcat7|1||
 tomcat8|1||

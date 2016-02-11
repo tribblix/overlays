@@ -31,12 +31,11 @@ TRIBbison
 TRIBdebug-gdb
 TRIBtext-gawk
 TRIBneon
-TRIBtcl
-TRIBtk
 TRIBtkdiff
 TRIBdev-versioning-git
 TRIBv-python-27
 TRIBtext-locale
+TRIBncurses
 TRIBv-cmake-34
 TRIBv-ruby-22
 TRIBdata-docbook

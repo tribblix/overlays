@@ -1,5 +1,6 @@
-VERSION=14
+VERSION=15
 NAME=Development Tools
 REQUIRES=cli-tools
 REQUIRES=base-extras
 REQUIRES=dbus-glib
+REQUIRES=tcl-tk

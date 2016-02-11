@@ -1,0 +1,11 @@
+TRIBtcl
+TRIBtk
+TRIBsys-lib-fontconfig
+TRIBsys-lib-freetype-2
+TRIBx11-libx11
+TRIBx11-libxext
+TRIBx11-libxft
+TRIBx11-libxrender
+TRIBlib-expat
+TRIBx11-libxau
+TRIBx11-libxdmcp
