@@ -14,6 +14,7 @@ base
 boot-server
 cli-tools
 dbus-glib
+tcl-tk
 develop
 gimp
 gnumeric
