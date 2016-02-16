@@ -17,7 +17,6 @@ TRIBfile-gnu-findutils
 TRIBdev-build-gnu-make
 TRIBdev-build-make
 TRIBdev-build-as
-TRIBdev-dtrace-toolkit
 TRIBdev-gnu-binutils
 TRIBdev-object-file
 TRIBshell-zsh
