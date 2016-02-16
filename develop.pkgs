@@ -42,4 +42,6 @@ TRIBdata-docbook
 TRIBmercurial
 TRIBnet-ipfilter-header
 TRIBsys-libdiskmgt-header
-TRIBv-subversion-17
+TRIBfile-magic
+TRIBv-subversion-19
+TRIBscons
