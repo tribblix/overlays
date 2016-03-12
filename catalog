@@ -37,7 +37,7 @@ inkscape|5||
 java-desktop|3||
 java-developer|5||
 java-fun|3||
-java-prerequisite|1||
+java-prerequisite|2||
 java|9||
 java7|1||
 java8|10||
@@ -79,7 +79,7 @@ scala|2||
 server-manage|2||
 storage-nas|2||
 storage-server|5||
-tcl-tk|1||
+tcl-tk|2||
 tls|2||
 tomcat7|1||
 tomcat8|1||

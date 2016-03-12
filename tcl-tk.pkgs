@@ -1,6 +1,7 @@
 TRIBtcl
 TRIBtk
 TRIBsys-lib-fontconfig
+TRIBimage-libpng
 TRIBsys-lib-freetype-2
 TRIBx11-libx11
 TRIBx11-libxext
