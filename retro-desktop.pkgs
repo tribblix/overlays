@@ -57,6 +57,7 @@ TRIBevince
 TRIBfont-ttype-dejavu
 TRIBfont-ttype-bitstream-vera
 TRIBfont-ttype-liberation
+TRIBeditor-vim-gtk2
 TRIBv-emacs-24
 TRIBxdaliclock
 TRIBxcpustate
