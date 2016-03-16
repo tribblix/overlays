@@ -1,0 +1,6 @@
+VERSION=1
+NAME=Desktop Publishing Tools
+REQUIRES=gimp
+REQUIRES=inkscape
+REQUIRES=qt4-base
+REQUIRES=libreoffice
