@@ -1,0 +1,3 @@
+VERSION=1
+NAME=Extra X11 packages
+REQUIRES=x11
