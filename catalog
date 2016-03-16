@@ -20,7 +20,7 @@ cli-tools|7||
 clojure|3||
 dbus-glib|2||
 desktop-publishing|1||
-develop-extras|11||
+develop-extras|12||
 develop|17||
 e19|3||
 fortran|2||
@@ -69,7 +69,7 @@ qt4-apps|3||
 qt4-base|1||
 qt5-base|1||
 r|3||
-retro-desktop-extras|18||
+retro-desktop-extras|19||
 retro-desktop-games|4||
 retro-desktop|23||
 retro-web|2||
@@ -86,7 +86,7 @@ tomcat7|1||
 tomcat8|1||
 tribblix-tools|3||
 wifi|1||
-x11-extras|1||
+x11-extras|2||
 x11|8||
 xfce-extras|6||
 xfce|9||
