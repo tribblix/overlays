@@ -20,7 +20,7 @@ cli-tools|7||
 clojure|3||
 dbus-glib|2||
 desktop-publishing|1||
-develop-extras|12||
+develop-extras|13||
 develop|17||
 e19|3||
 fortran|2||
@@ -34,6 +34,7 @@ gstreamer1|2||
 gtk3|2||
 i3|3||
 illumos-build|11||
+imaging|1||
 inkscape|5||
 java-desktop|3||
 java-developer|5||
@@ -50,12 +51,12 @@ libreoffice|1||
 live555|1||
 mate|4||
 monitoring-extras|5||
-monitoring|4||
+monitoring|5||
 mosh|1||
 motif-apps-extras|3||
 motif-apps|1||
 motif|1||
-networked-system|13||
+networked-system|14||
 node-010|3||
 node-012|2||
 node-v4|2||

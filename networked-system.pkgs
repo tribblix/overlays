@@ -21,3 +21,5 @@ TRIBsys-file-system-smb
 TRIBsvc-file-system-smb
 TRIBsvc-net-network-clients
 TRIBdev-build-make
+TRIBlibpcap
+TRIBcdpr
