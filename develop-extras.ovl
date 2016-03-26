@@ -1,7 +1,8 @@
-VERSION=13
+VERSION=14
 NAME=Extra Development Tools
 REQUIRES=develop
 REQUIRES=groovy
 REQUIRES=scala
 REQUIRES=jruby
 REQUIRES=clojure
+REQUIRES=x11

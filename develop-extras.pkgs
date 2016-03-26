@@ -24,3 +24,13 @@ TRIBnasm
 TRIBboehm-gc
 TRIBzile
 TRIBdoxygen
+TRIBa2ps
+TRIBdateutils
+TRIBdocutils-python-27
+TRIBgnome-doc-utils
+TRIBhtmldoc
+TRIBiso-codes
+TRIBhelp2man
+TRIBmawk
+TRIBmultitail
+TRIBfltk

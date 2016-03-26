@@ -6,6 +6,7 @@ TRIBlibunique
 TRIBlibnotify
 TRIBlibtool
 TRIBmate-desktop
+TRIBtango-icon-theme
 TRIBmate-icon-theme
 TRIBmate-eom
 TRIBmate-caja
@@ -24,3 +25,4 @@ TRIBlibxklavier
 TRIBlibmatekbd
 TRIBmate-settings-daemon
 TRIBmate-control-center
+TRIBmate-backgrounds
