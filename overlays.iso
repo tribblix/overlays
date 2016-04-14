@@ -11,6 +11,7 @@ autotools
 base-extras
 base-iso
 base
+benchmark
 boot-server
 cli-tools
 dbus-glib
@@ -18,6 +19,7 @@ tcl-tk
 develop
 gimp
 gnumeric
+gnupg2
 java-prerequisite
 java
 kitchen-sink
