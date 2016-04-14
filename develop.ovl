@@ -1,4 +1,4 @@
-VERSION=17
+VERSION=18
 NAME=Development Tools
 REQUIRES=cli-tools
 REQUIRES=base-extras
