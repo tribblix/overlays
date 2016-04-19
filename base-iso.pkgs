@@ -16,8 +16,6 @@ TRIBsys-kernel-dtrace
 TRIBnet-bridging
 TRIBsys-net
 TRIBsys-lib-math
-TRIBdev-dtrace
-TRIBsys-file-system-autofs
 TRIBsys-kernel-secure-rpc
 TRIBsys-file-system-nfs
 TRIBsys-file-system-zfs
@@ -30,25 +28,18 @@ TRIBsys-net-routing
 TRIBsys-libdiskmgt
 TRIBlib-zlib
 TRIBshell-bash
-TRIBdev-linker
-TRIBcompress-bzip2
 TRIBcompress-gzip
 TRIBcompress-unzip
-TRIBcompress-zip
 TRIBsys-esu
 TRIBnet-ssh
 TRIBnet-ssh-ssh-key
 TRIBsvc-net-ssh
 TRIBsvc-picl
-TRIBsvc-fma
-TRIBsvc-mgmt-sysidtool
 TRIBsys-boot-grub
 TRIBsvc-resource-pools
 TRIBsys-zones
-TRIBlib-nspr
 TRIBsys-lib-security-libsasl
 TRIBdatabase-sqlite-3
-TRIBsys-lib-mozilla-nss
 TRIBdrv-net-fcp
 TRIBdrv-net-fp
 TRIBdrv-storage-glm
@@ -58,8 +49,6 @@ TRIBdrv-storage-lsimega
 TRIBdrv-storage-mr-sas
 TRIBdrv-storage-mega-sas
 TRIBdrv-storage-mpt-sas
-TRIBdev-debug-mdb
-TRIBdev-debug-mdb-module-fc
 TRIBdrv-storage-marvell88sx
 TRIBdrv-storage-bcm-sata
 TRIBdrv-storage-nv-sata
@@ -71,9 +60,6 @@ TRIBdrv-i86pc-platform
 TRIBdrv-i86pc-ioat
 TRIBdrv-i86pc-fipe
 TRIBsys-kernel-security-gss
-TRIBsys-kernel-power
-TRIBsys-kernel-dr-i86pc
-TRIBsys-kernel-suspend-resume
 TRIBdrv-net-iprb
 TRIBdrv-net-pcn
 TRIBdrv-net-elxl
@@ -108,7 +94,6 @@ TRIBsys-lib-iconv-utf-8
 TRIBsys-scheduler-fss
 TRIBlibidn
 TRIBca-bundle
-TRIBcurl
 TRIBwget
 TRIBzap
 TRIBzap-upgrade
@@ -118,3 +103,5 @@ TRIBdrv-storage-vioblk
 TRIBdrv-net-vioif
 TRIBdrv-xvm-pv
 TRIBlib-security-trousers
+TRIBsys-kernel-dr-i86pc
+TRIBsvc-fma

@@ -11,8 +11,8 @@ amp-stack|5||
 autotools|2||
 awesome|1||
 base-extras|21||
-base-iso|3||
-base|25||
+base-iso|4||
+base|26||
 benchmark|1||
 boot-server|3||
 cde|1||
@@ -21,7 +21,7 @@ clojure|3||
 dbus-glib|2||
 desktop-publishing|1||
 develop-extras|14||
-develop|18||
+develop|19||
 e19|3||
 fortran|2||
 gimp|3||
