@@ -1,4 +1,4 @@
-VERSION=24
+VERSION=25
 NAME=Retro Desktop environments and utilities
 REQUIRES=x11
 REQUIRES=cli-tools

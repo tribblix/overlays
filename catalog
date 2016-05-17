@@ -51,7 +51,7 @@ legacy-audio|1||
 legacy-services|1||
 libreoffice|2||
 live555|1||
-mate|5||
+mate|6||
 monitoring-extras|5||
 monitoring|6||
 mosh|1||
@@ -75,7 +75,7 @@ qt5-base|1||
 r|3||
 retro-desktop-extras|19||
 retro-desktop-games|4||
-retro-desktop|24||
+retro-desktop|25||
 retro-web|2||
 rsyslog|2||
 s3-utilities|2||
