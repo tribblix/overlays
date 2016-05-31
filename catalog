@@ -14,7 +14,7 @@ base-extras|21||
 base-iso|4||
 base|26||
 benchmark|1||
-boot-server|3||
+boot-server|4||
 cde|1||
 cli-tools|8||
 clojure|3||
@@ -75,7 +75,7 @@ qt5-base|1||
 r|3||
 retro-desktop-extras|19||
 retro-desktop-games|4||
-retro-desktop|25||
+retro-desktop|26||
 retro-web|2||
 rsyslog|2||
 s3-utilities|3||

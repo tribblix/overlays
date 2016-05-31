@@ -1,2 +1,5 @@
-VERSION=3
+VERSION=4
 NAME=Boot/install server
+SERVICE=svc:/network/tftp/udp6:default
+SERVICE=svc:/network/rarp:default
+SERVICE=svc:/network/rpc/bootparams:default
