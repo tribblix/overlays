@@ -36,7 +36,7 @@ gstreamer1|2||
 gtk3|2||
 i3|3||
 illumos-build|11||
-imaging|2||
+imaging|3||
 inkscape|5||
 java-desktop|3||
 java-developer|5||
@@ -58,6 +58,7 @@ mosh|1||
 motif-apps-extras|3||
 motif-apps|1||
 motif|1||
+multimedia|1||
 networked-system|15||
 node-010|3||
 node-012|2||
@@ -89,7 +90,9 @@ tls|2||
 tomcat7|1||
 tomcat8|1||
 tribblix-tools|3||
+webdev|1||
 wifi|1||
+wine|1||
 x11-extras|2||
 x11|8||
 xfce-extras|8||
