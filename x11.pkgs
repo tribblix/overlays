@@ -24,6 +24,7 @@ TRIBx11-libxfont
 TRIBimage-libjpeg
 TRIBimage-libpng
 TRIBimage-libtiff
+TRIBlibtiff-compat
 TRIBlib-graphics-pixman
 TRIBx11-server-xvnc
 TRIBfont-xorg-core
