@@ -1,0 +1,4 @@
+VERSION=1
+NAME=VLC media player
+REQUIRES=qt4-base
+REQUIRES=multimedia
