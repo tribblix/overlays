@@ -30,3 +30,4 @@ TRIBsys-lib-storage-mpscsi-vhci
 TRIBsys-lib-svm-rcm
 TRIBsys-mgmt-wbem-data-mgmt
 TRIBsys-storage-luxadm
+TRIBlsi-decode-loginfo

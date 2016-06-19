@@ -82,9 +82,9 @@ rsyslog|2||
 s3-utilities|3||
 samba|1||
 scala|2||
-server-manage|2||
-storage-nas|2||
-storage-server|5||
+server-manage|3||
+storage-nas|3||
+storage-server|6||
 tcl-tk|2||
 tls|2||
 tomcat7|1||
