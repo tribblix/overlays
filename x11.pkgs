@@ -23,6 +23,7 @@ TRIBsys-lib-freetype-2
 TRIBx11-libxfont
 TRIBimage-libjpeg
 TRIBimage-libpng
+TRIBcompress-xz
 TRIBimage-libtiff
 TRIBlibtiff-compat
 TRIBlib-graphics-pixman

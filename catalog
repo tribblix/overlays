@@ -77,7 +77,7 @@ r|3||
 retro-desktop-extras|20||
 retro-desktop-games|5||
 retro-desktop|27||
-retro-web|2||
+retro-web|3||
 rsyslog|2||
 s3-utilities|3||
 samba|1||
@@ -95,7 +95,7 @@ webdev|1||
 wifi|1||
 wine|1||
 x11-extras|2||
-x11|9||
+x11|10||
 xfce-extras|8||
 xfce|9||
 zabbix-server|3||
