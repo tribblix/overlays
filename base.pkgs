@@ -1,6 +1,8 @@
 TRIBcompress-bzip2
 TRIBcompress-zip
 TRIBlib-nspr
+TRIBlibssh2
+TRIBlibnghttp2
 TRIBcurl
 TRIBsys-lib-mozilla-nss
 TRIBsys-file-system-autofs

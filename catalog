@@ -12,7 +12,7 @@ autotools|2||
 awesome|1||
 base-extras|21||
 base-iso|4||
-base|26||
+base|27||
 benchmark|1||
 boot-server|4||
 cde|1||
@@ -21,7 +21,7 @@ clojure|3||
 dbus-glib|2||
 desktop-mail|2||
 desktop-publishing|1||
-develop-extras|14||
+develop-extras|15||
 develop|20||
 e19|3||
 fortran|2||
@@ -63,7 +63,7 @@ networked-system|15||
 node-010|3||
 node-012|2||
 node-v4|2||
-node-v5|1||
+node-v6|1||
 office-utilities|1||
 openexr|1||
 openjdk-build|1||
