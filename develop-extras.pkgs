@@ -27,6 +27,7 @@ TRIBdoxygen
 TRIBa2ps
 TRIBdateutils
 TRIBdocutils-python-27
+TRIBvirtualenv-python-27
 TRIBgnome-doc-utils
 TRIBhtmldoc
 TRIBiso-codes
