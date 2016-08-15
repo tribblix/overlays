@@ -12,7 +12,7 @@ autotools|2||
 awesome|1||
 base-extras|21||
 base-iso|4||
-base|27||
+base|28||
 benchmark|1||
 boot-server|4||
 cde|1||
@@ -34,7 +34,7 @@ groovy|3||
 gstreamer|1||
 gstreamer1|3||
 gtk3|2||
-i3|3||
+i3|4||
 illumos-build|11||
 imaging|3||
 inkscape|5||
@@ -91,11 +91,11 @@ tomcat7|1||
 tomcat8|1||
 tribblix-tools|3||
 vlc|1||
-webdev|1||
+webdev|2||
 wifi|1||
 wine|1||
 x11-extras|2||
 x11|10||
-xfce-extras|9||
-xfce|9||
+xfce-extras|10||
+xfce|10||
 zabbix-server|3||

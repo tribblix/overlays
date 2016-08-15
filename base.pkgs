@@ -2,6 +2,7 @@ TRIBcompress-bzip2
 TRIBcompress-zip
 TRIBlib-nspr
 TRIBlibssh2
+TRIBlibev
 TRIBlibnghttp2
 TRIBcurl
 TRIBsys-lib-mozilla-nss
