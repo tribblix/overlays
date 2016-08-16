@@ -8,8 +8,6 @@ TRIBx11-diagnostic-xev
 TRIBx11-diagnostic-xscope
 TRIBx11-info-clients
 TRIBx11-lib-dps
-TRIBx11-lib-toolkit-libxaw5
-TRIBx11-lib-toolkit-libxaw4
 TRIBx11-lib-xtrans
 TRIBx11-libdga
 TRIBx11-server-xephyr
