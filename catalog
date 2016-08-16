@@ -76,7 +76,7 @@ qt5-base|1||
 r|3||
 retro-desktop-extras|21||
 retro-desktop-games|5||
-retro-desktop|28||
+retro-desktop|29||
 retro-web|3||
 rsyslog|2||
 s3-utilities|3||
@@ -94,7 +94,7 @@ vlc|1||
 webdev|2||
 wifi|1||
 wine|1||
-x11-extras|2||
+x11-extras|3||
 x11|10||
 xfce-extras|10||
 xfce|10||
