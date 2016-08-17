@@ -3,7 +3,7 @@ all-audio-drivers|1||
 all-crypto-drivers|1||
 all-fabric-drivers|1||
 all-locales|1||
-all-network-drivers|2||
+all-network-drivers|3||
 all-serial-drivers|1||
 all-storage-drivers|3||
 all-xorg-drivers|2||
@@ -11,7 +11,7 @@ amp-stack|5||
 autotools|2||
 awesome|1||
 base-extras|21||
-base-iso|4||
+base-iso|5||
 base|28||
 benchmark|1||
 boot-server|4||

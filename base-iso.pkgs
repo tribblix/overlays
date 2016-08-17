@@ -101,6 +101,7 @@ TRIBdrv-misc-virtio
 TRIBdrv-storage-blkdev
 TRIBdrv-storage-vioblk
 TRIBdrv-net-vioif
+TRIBdrv-net-vmxnet3s
 TRIBdrv-xvm-pv
 TRIBlib-security-trousers
 TRIBsys-kernel-dr-i86pc
