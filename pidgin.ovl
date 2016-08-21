@@ -1,4 +1,4 @@
-VERSION=3
+VERSION=4
 NAME=Pidgin
 REQUIRES=retro-desktop
-REQUIRES=gstreamer
+REQUIRES=gstreamer1
