@@ -23,6 +23,8 @@ TRIBlib-desktop-cairo
 TRIBafterstep
 TRIBlib-desktop-atk
 TRIBlib-desktop-gtk
+TRIBdesktop-file-utils
+TRIBsvc-gnome-desktop-cache
 TRIBlibicu
 TRIBharfbuzz
 TRIBlib-desktop-pango
