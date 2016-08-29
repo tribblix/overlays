@@ -76,7 +76,7 @@ qt5-base|1||
 r|3||
 retro-desktop-extras|21||
 retro-desktop-games|5||
-retro-desktop|30||
+retro-desktop|31||
 retro-web|3||
 rsyslog|2||
 s3-utilities|3||
@@ -95,7 +95,7 @@ webdev|2||
 wifi|1||
 wine|1||
 x11-extras|3||
-x11|12||
+x11|13||
 xfce-extras|10||
 xfce|11||
 zabbix-server|3||
