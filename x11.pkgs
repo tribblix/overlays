@@ -52,6 +52,7 @@ TRIBx11-libxrandr
 TRIBx11-libxxf86misc
 TRIBx11-libxxf86vm
 TRIBx11-x11-server-utilities
+TRIBdev-linker
 TRIBx11-session-xinit
 TRIBxorg-driver-video-vesa
 TRIBxorg-driver-input-vmmouse
