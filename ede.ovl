@@ -1,0 +1,3 @@
+VERSION=1
+NAME=Equinox Desktop Environment
+REQUIRES=retro-desktop
