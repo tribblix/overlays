@@ -1,0 +1,3 @@
+VERSION=1
+NAME=Plan9 from User Space
+REQUIRES=x11
