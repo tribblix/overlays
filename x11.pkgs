@@ -25,7 +25,6 @@ TRIBimage-libjpeg
 TRIBimage-libpng
 TRIBcompress-xz
 TRIBimage-libtiff
-TRIBlibtiff-compat
 TRIBlib-graphics-pixman
 TRIBx11-server-xvnc
 TRIBfont-xorg-core
