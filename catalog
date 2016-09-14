@@ -11,12 +11,12 @@ amp-stack|5||
 autotools|2||
 awesome|1||
 base-extras|21||
-base-iso|5||
+base-iso|6||
 base|28||
 benchmark|1||
 boot-server|4||
 cde|1||
-cli-tools|8||
+cli-tools|9||
 clojure|3||
 dbus-glib|2||
 desktop-mail|4||

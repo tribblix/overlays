@@ -106,3 +106,5 @@ TRIBdrv-xvm-pv
 TRIBlib-security-trousers
 TRIBsys-kernel-dr-i86pc
 TRIBsvc-fma
+TRIBfile-magic
+TRIBeditor-nano
