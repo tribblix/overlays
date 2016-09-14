@@ -26,6 +26,7 @@ kitchen-sink
 legacy-audio
 legacy-services
 monitoring
+nameserver
 networked-system
 retro-desktop
 rsyslog
