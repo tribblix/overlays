@@ -1,4 +1,4 @@
-abiword|2||
+abiword|3||
 all-audio-drivers|1||
 all-crypto-drivers|1||
 all-fabric-drivers|1||
@@ -19,7 +19,7 @@ cde|1||
 cli-tools|8||
 clojure|3||
 dbus-glib|2||
-desktop-mail|3||
+desktop-mail|4||
 desktop-publishing|2||
 develop-extras|15||
 develop|20||
@@ -37,8 +37,8 @@ gstreamer1|3||
 gtk3|3||
 i3|4||
 illumos-build|11||
-imaging|3||
-inkscape|5||
+imaging|4||
+inkscape|6||
 java-desktop|3||
 java-developer|5||
 java-fun|3||
@@ -52,7 +52,7 @@ legacy-audio|1||
 legacy-services|1||
 libreoffice|2||
 live555|1||
-mate|8||
+mate|9||
 monitoring-extras|5||
 monitoring|6||
 mosh|1||
@@ -69,7 +69,7 @@ node-v6|1||
 office-utilities|1||
 openexr|1||
 openjdk-build|1||
-pidgin|4||
+pidgin|5||
 pkgsrc|1||
 plan9|1||
 qemu|1||
@@ -79,7 +79,7 @@ qt5-base|2||
 r|3||
 retro-desktop-extras|22||
 retro-desktop-games|5||
-retro-desktop|32||
+retro-desktop|33||
 retro-web|4||
 rsyslog|2||
 s3-utilities|3||
@@ -87,14 +87,14 @@ samba|1||
 scala|2||
 server-manage|3||
 storage-nas|3||
-storage-server|6||
+storage-server|7||
 tcl-tk|2||
 tls|2||
 tomcat7|1||
 tomcat8|1||
 tribblix-tools|3||
 vlc|1||
-webdev|2||
+webdev|3||
 wifi|1||
 wine|2||
 x11-extras|3||
