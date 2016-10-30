@@ -65,7 +65,8 @@ networked-system|15||
 node-010|3||
 node-012|2||
 node-v4|2||
-node-v6|1||
+node-v6|2||
+node-v7|1||
 office-utilities|1||
 openexr|1||
 openjdk-build|1||
