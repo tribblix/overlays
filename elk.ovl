@@ -1,0 +1,7 @@
+VERSION=1
+NAME=The ELK Stack
+REQUIRES=java8
+REQUIRES=node-v6
+SERVICE=svc:/network/elasticsearch:default
+SERVICE=svc:/network/logstash:default
+SERVICE=svc:/network/kibana:default
