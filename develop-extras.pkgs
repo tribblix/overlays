@@ -1,7 +1,6 @@
 TRIBrcs
 TRIBcvs
-TRIBv-ruby-193
-TRIBv-python-35
+TRIBv-python-36
 TRIBv-gccgo-483
 TRIBgnu-texinfo
 TRIBdev-dtrace-toolkit
