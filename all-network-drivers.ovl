@@ -1,2 +1,3 @@
-VERSION=3
+VERSION=4
 NAME=All Network Drivers
+REQUIRES=usb-network-drivers

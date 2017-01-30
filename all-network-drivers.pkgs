@@ -22,6 +22,7 @@ TRIBdrv-net-fcsm
 TRIBdrv-net-fp
 TRIBdrv-net-hme
 TRIBdrv-net-hxge
+TRIBdrv-net-i40e
 TRIBdrv-net-ib
 TRIBdrv-net-igb
 TRIBdrv-net-iprb
@@ -29,6 +30,7 @@ TRIBdrv-net-ipw
 TRIBdrv-net-iwh
 TRIBdrv-net-iwi
 TRIBdrv-net-iwk
+TRIBdrv-net-iwn
 TRIBdrv-net-iwp
 TRIBdrv-net-ixgb
 TRIBdrv-net-ixgbe
@@ -49,10 +51,7 @@ TRIBdrv-net-rum
 TRIBdrv-net-rwd
 TRIBdrv-net-rwn
 TRIBdrv-net-sfe
-TRIBdrv-net-uath
-TRIBdrv-net-ural
-TRIBdrv-net-urtw
-TRIBdrv-net-usbecm
+TRIBdrv-net-sfxge
 TRIBdrv-net-vioif
 TRIBdrv-net-vmxnet3s
 TRIBdrv-net-vr

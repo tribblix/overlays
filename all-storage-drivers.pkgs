@@ -15,6 +15,7 @@ TRIBdrv-storage-mpt-sas
 TRIBdrv-storage-mr-sas
 TRIBdrv-storage-nv-sata
 TRIBdrv-storage-pmcs
+TRIBdrv-storage-pvscsi
 TRIBdrv-storage-sbp2
 TRIBdrv-storage-scsa1394
 TRIBdrv-storage-sdcard

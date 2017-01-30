@@ -109,3 +109,4 @@ TRIBsys-kernel-dr-i86pc
 TRIBsvc-fma
 TRIBfile-magic
 TRIBeditor-nano
+TRIBdiagnostic-diskinfo
