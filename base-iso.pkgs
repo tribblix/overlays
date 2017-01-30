@@ -6,6 +6,7 @@ TRIBsys-data-zoneinfo
 SUNWcs
 TRIBsys-library
 TRIBlibxml2
+TRIBdrv-graphics-agpgart
 TRIBsys-kernel
 TRIBsys-kernel-platform
 TRIBdrv-ser-usbser

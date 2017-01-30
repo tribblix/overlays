@@ -11,7 +11,7 @@ amp-stack|5||
 autotools|2||
 awesome|1||
 base-extras|21||
-base-iso|6||
+base-iso|7||
 base|28||
 benchmark|1||
 boot-server|4||
@@ -22,7 +22,7 @@ dbus-glib|2||
 desktop-mail|4||
 desktop-publishing|2||
 develop-extras|16||
-develop|22||
+develop|23||
 e19|3||
 ede|1||
 elk|1||
@@ -79,7 +79,7 @@ qt4-apps|3||
 qt4-base|1||
 qt5-base|2||
 r|3||
-retro-desktop-extras|22||
+retro-desktop-extras|23||
 retro-desktop-games|5||
 retro-desktop|33||
 retro-web|4||

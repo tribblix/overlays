@@ -3,7 +3,6 @@ TRIBdev-debug-mdb-module-fc
 TRIBdev-linker
 TRIBsys-header
 TRIBx11-header-x11-protocols
-TRIBsys-lib-storage-ima-header
 TRIBsys-header-audio
 TRIBsys-header-agp
 TRIBsys-header-picl
@@ -39,6 +38,7 @@ TRIBv-python-27
 TRIBtext-locale
 TRIBncurses
 TRIBv-cmake-36
+TRIBlibyaml
 TRIBv-ruby-24
 TRIBdata-docbook
 TRIBmercurial
