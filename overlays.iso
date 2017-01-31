@@ -36,7 +36,10 @@ server-manage
 storage-nas
 tls
 tribblix-tools
+usb-network-drivers
+webdev
 x11
+x11-extras
 xfce-extras
 xfce
 wifi

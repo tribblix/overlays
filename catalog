@@ -48,7 +48,7 @@ java|13||
 java7|1||
 java8|14||
 jruby|3||
-kitchen-sink|8||
+kitchen-sink|9||
 legacy-audio|1||
 legacy-services|1||
 libreoffice|2||
@@ -98,7 +98,7 @@ tribblix-tools|3||
 usb-network-drivers|1||
 vlc|1||
 webdev|3||
-wifi|1||
+wifi|2||
 wine|2||
 x11-extras|3||
 x11|14||

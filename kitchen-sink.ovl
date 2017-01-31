@@ -1,4 +1,4 @@
-VERSION=8
+VERSION=9
 NAME=Everything but the kitchen sink
 REQUIRES=xfce-extras
 REQUIRES=develop
@@ -9,3 +9,4 @@ REQUIRES=gimp
 REQUIRES=monitoring
 REQUIRES=networked-system
 REQUIRES=tribblix-tools
+REQUIRES=webdev
