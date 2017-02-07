@@ -50,6 +50,7 @@ TRIBevince
 TRIBfont-ttype-dejavu
 TRIBfont-ttype-bitstream-vera
 TRIBfont-ttype-liberation
+TRIBfont-ttype-go
 TRIBeditor-vim-gtk2
 TRIBdconf
 TRIBv-emacs-24

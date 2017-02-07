@@ -38,7 +38,7 @@ gstreamer1|3||
 gtk3|3||
 i3|4||
 illumos-build|11||
-imaging|4||
+imaging|5||
 inkscape|6||
 java-desktop|3||
 java-developer|5||
@@ -81,7 +81,7 @@ qt5-base|2||
 r|3||
 retro-desktop-extras|23||
 retro-desktop-games|5||
-retro-desktop|33||
+retro-desktop|34||
 retro-web|4||
 rsyslog|2||
 s3-utilities|3||
