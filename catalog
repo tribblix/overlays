@@ -21,7 +21,7 @@ clojure|3||
 dbus-glib|2||
 desktop-mail|4||
 desktop-publishing|2||
-develop-extras|16||
+develop-extras|17||
 develop|23||
 e19|3||
 ede|1||
@@ -96,7 +96,7 @@ tomcat7|1||
 tomcat8|1||
 tribblix-tools|3||
 usb-network-drivers|1||
-vlc|1||
+vlc|2||
 webdev|3||
 wifi|2||
 wine|2||
