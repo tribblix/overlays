@@ -13,6 +13,7 @@ TRIBpackage-pkg
 TRIBdev-astdev
 TRIBdev-opensolaris-osnet
 TRIBdev-build-onbld
+TRIBlib-lcms2
 TRIBgpl-ghostscript
 TRIBsys-lib-install
 TRIBsys-mgmt-snmp-net-snmp
