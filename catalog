@@ -38,7 +38,7 @@ gstreamer1|4||
 gtk3|3||
 i3|5||
 illumos-build|12||
-imaging|5||
+imaging|6||
 inkscape|6||
 java-desktop|3||
 java-developer|5||
@@ -97,7 +97,7 @@ tomcat8|1||
 tribblix-tools|3||
 usb-network-drivers|1||
 vlc|2||
-webdev|3||
+webdev|4||
 wifi|2||
 wine|2||
 x11-extras|3||
