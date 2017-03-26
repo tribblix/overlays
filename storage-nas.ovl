@@ -1,2 +1,3 @@
-VERSION=3
+VERSION=4
 NAME=Network Attached Storage cluster
+REQUIRES=samba

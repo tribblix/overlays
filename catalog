@@ -1,9 +1,9 @@
 abiword|3||
 all-audio-drivers|1||
 all-crypto-drivers|1||
-all-fabric-drivers|1||
+all-fabric-drivers|2||
 all-locales|1||
-all-network-drivers|4||
+all-network-drivers|5||
 all-serial-drivers|1||
 all-storage-drivers|4||
 all-xorg-drivers|2||
@@ -88,8 +88,8 @@ s3-utilities|3||
 samba|2||
 scala|3||
 server-manage|3||
-storage-nas|3||
-storage-server|7||
+storage-nas|4||
+storage-server|8||
 tcl-tk|2||
 tls|2||
 tomcat7|1||

@@ -15,10 +15,8 @@ TRIBdrv-net-dmfe
 TRIBdrv-net-e1000g
 TRIBdrv-net-efe
 TRIBdrv-net-elxl
-TRIBdrv-net-emlxs
 TRIBdrv-net-fcip
 TRIBdrv-net-fcp
-TRIBdrv-net-fcsm
 TRIBdrv-net-fp
 TRIBdrv-net-hme
 TRIBdrv-net-hxge
@@ -42,7 +40,6 @@ TRIBdrv-net-ntxn
 TRIBdrv-net-nxge
 TRIBdrv-net-pcn
 TRIBdrv-net-platform
-TRIBdrv-net-qlc
 TRIBdrv-net-ral
 TRIBdrv-net-rge
 TRIBdrv-net-rtls
