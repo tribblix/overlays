@@ -1,9 +1,9 @@
-VERSION=35
+VERSION=36
 NAME=Retro Desktop environments and utilities
 REQUIRES=x11
 REQUIRES=cli-tools
 REQUIRES=base-extras
 REQUIRES=tls
-REQUIRES=all-audio-drivers
+REQUIRES=legacy-audio
 REQUIRES=tcl-tk
 SERVICE=svc:/system/slim:default
