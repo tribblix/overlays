@@ -1,3 +1,4 @@
-VERSION=11
+VERSION=12
 NAME=The Xfce Desktop
 REQUIRES=retro-desktop
+REQUIRES=gstreamer1
