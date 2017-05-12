@@ -51,7 +51,7 @@ jruby|3||
 kitchen-sink|9||
 legacy-audio|1||
 legacy-services|1||
-libreoffice|2||
+libreoffice|3||
 live555|1||
 mate|9||
 monitoring-extras|6||
@@ -72,7 +72,7 @@ ocr|1||
 office-utilities|1||
 openexr|1||
 openjdk-build|1||
-pidgin|5||
+pidgin|6||
 pkgsrc|1||
 plan9|1||
 qemu|2||
@@ -82,7 +82,7 @@ qt5-base|3||
 r|3||
 retro-desktop-extras|23||
 retro-desktop-games|5||
-retro-desktop|36||
+retro-desktop|37||
 retro-web|4||
 rsyslog|2||
 s3-utilities|4||
