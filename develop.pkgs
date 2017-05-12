@@ -47,3 +47,5 @@ TRIBsys-libdiskmgt-header
 TRIBfile-magic
 TRIBv-subversion-19
 TRIBscons
+TRIBgperf
+TRIBpkg-config
