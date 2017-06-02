@@ -2,7 +2,6 @@ TRIBdrv-ipmi
 TRIBdrv-net-usbecm
 TRIBsys-mgmt-pcitool
 TRIBsys-flash-fwflash
-TRIBsys-mgmt-intel-amt
 TRIBsys-storage-sasinfo
 TRIBsys-fru-id
 TRIBsys-fru-id-platform
