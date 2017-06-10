@@ -89,6 +89,7 @@ rsyslog|2||
 s3-utilities|4||
 samba|2||
 scala|3||
+security|1||
 server-manage|4||
 storage-nas|4||
 storage-server|8||
