@@ -11,4 +11,7 @@ TRIBdocutils-python-27
 TRIBrsa-python-27
 TRIBlibyaml
 TRIByaml-python-27
+TRIBfutures-python-27
+TRIBpyasn1-python-27
 TRIBawscli-python-27
+TRIBec2-api-tools
