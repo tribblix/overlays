@@ -56,7 +56,7 @@ libreoffice|3||
 live555|1||
 mate|9||
 monitoring-extras|6||
-monitoring|6||
+monitoring|7||
 mosh|1||
 motif-apps-extras|3||
 motif-apps|1||
@@ -89,7 +89,7 @@ rsyslog|2||
 s3-utilities|5||
 samba|2||
 scala|3||
-security|1||
+security|2||
 server-manage|4||
 storage-nas|4||
 storage-server|8||
