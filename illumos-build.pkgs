@@ -17,7 +17,6 @@ TRIBlib-lcms2
 TRIBgpl-ghostscript
 TRIBsys-lib-install
 TRIBsys-mgmt-snmp-net-snmp
-TRIBblix-apache-22
 TRIBsys-mgmt-product-registry
 TRIBsunstudio-il-build
 TRIBdev-illumos-gcc
