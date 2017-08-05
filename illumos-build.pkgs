@@ -22,6 +22,7 @@ TRIBsunstudio-il-build
 TRIBdev-illumos-gcc
 TRIBopenssl-compat
 TRIBil-lintlibs
+TRIBblix-lintlibs
 TRIBimage-libjpeg
 TRIBimage-libpng
 TRIBimage-libtiff
