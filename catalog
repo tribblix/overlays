@@ -35,8 +35,8 @@ gnupg2|1||
 go|6||
 graphical|1||
 groovy|3||
-gstreamer|1||
-gstreamer1|4||
+gstreamer|2||
+gstreamer1|5||
 gtk3|3||
 i3|5||
 illumos-build|14||
@@ -87,7 +87,7 @@ retro-desktop-games|5||
 retro-desktop|37||
 retro-web|4||
 rsyslog|2||
-s3-utilities|5||
+s3-utilities|6||
 samba|4||
 scala|3||
 security|2||

@@ -6,6 +6,9 @@ TRIBlibflac
 TRIBlibspeex
 TRIBlibcddb
 TRIBlibcdio
+TRIBaalib
+TRIBlibsoup
+TRIBglib-networking
 TRIBgstreamer
 TRIBgstreamer-plugins-base
 TRIBgstreamer-plugins-good
