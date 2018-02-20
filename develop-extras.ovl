@@ -1,4 +1,4 @@
-VERSION=17
+VERSION=18
 NAME=Extra Development Tools
 REQUIRES=develop
 REQUIRES=groovy
