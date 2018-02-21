@@ -111,3 +111,4 @@ TRIBfile-magic
 TRIBeditor-nano
 TRIBdiagnostic-diskinfo
 TRIBsys-boot-loader
+TRIBsys-data-console-fonts
