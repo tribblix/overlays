@@ -13,3 +13,6 @@ TRIBpipe-viewer
 TRIBscreen
 TRIBtmux
 TRIBagedu
+TRIBncurses
+TRIBncdu
+TRIBhtop
