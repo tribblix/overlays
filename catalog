@@ -7,7 +7,7 @@ all-network-drivers|5||
 all-serial-drivers|1||
 all-storage-drivers|4||
 all-xorg-drivers|2||
-amp-stack|6||
+amp-stack|7||
 autotools|2||
 awesome|1||
 base-extras|23||
