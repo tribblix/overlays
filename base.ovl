@@ -1,3 +1,3 @@
-VERSION=29
+VERSION=30
 NAME=Base packages, not in the live image
 REQUIRES=base-iso

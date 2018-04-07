@@ -12,11 +12,11 @@ autotools|2||
 awesome|1||
 base-extras|23||
 base-iso|9||
-base|29||
+base|30||
 benchmark|1||
 boot-server|4||
 cde|1||
-cli-tools|10||
+cli-tools|11||
 clojure|3||
 dbus-glib|2||
 desktop-mail|4||
@@ -85,7 +85,7 @@ r|3||
 retro-desktop-extras|25||
 retro-desktop-games|5||
 retro-desktop|37||
-retro-web|4||
+retro-web|5||
 rsyslog|2||
 s3-utilities|6||
 samba|4||
