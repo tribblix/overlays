@@ -38,7 +38,7 @@ TRIBdev-versioning-git
 TRIBv-python-27
 TRIBtext-locale
 TRIBncurses
-TRIBv-cmake-36
+TRIBcmake
 TRIBlibyaml
 TRIBv-ruby-24
 TRIBdata-docbook
