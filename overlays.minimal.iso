@@ -1,0 +1,14 @@
+all-audio-drivers
+all-crypto-drivers
+all-fabric-drivers
+all-locales
+all-network-drivers
+all-serial-drivers
+all-storage-drivers
+base-extras
+base-iso
+base
+cli-tools
+dbus-glib
+ec2-baseline
+pkgsrc
