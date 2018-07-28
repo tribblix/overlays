@@ -1,4 +1,4 @@
-VERSION=8
+VERSION=9
 NAME=Multi Protocol Storage Server cluster
 REQUIRES=storage-nas
 REQUIRES=all-fabric-drivers

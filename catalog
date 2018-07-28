@@ -5,7 +5,7 @@ all-fabric-drivers|2||
 all-locales|1||
 all-network-drivers|5||
 all-serial-drivers|1||
-all-storage-drivers|4||
+all-storage-drivers|5||
 all-xorg-drivers|2||
 amp-stack|7||
 autotools|2||
@@ -94,7 +94,7 @@ scala|3||
 security|2||
 server-manage|4||
 storage-nas|4||
-storage-server|8||
+storage-server|9||
 tcl-tk|2||
 tls|2||
 tomcat7|1||

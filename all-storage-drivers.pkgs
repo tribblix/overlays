@@ -23,7 +23,6 @@ TRIBdrv-storage-ses
 TRIBdrv-storage-si3124
 TRIBdrv-storage-skd
 TRIBdrv-storage-smp
-TRIBdrv-storage-sv
 TRIBdrv-misc-virtio
 TRIBdrv-storage-vioblk
 TRIBdrv-storage-nvme

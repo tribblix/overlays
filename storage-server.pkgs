@@ -1,12 +1,8 @@
 TRIBdrv-storage-smp
-TRIBdrv-storage-sv
 TRIBnet-iscsi-iser
 TRIBnet-iscsi-target
-TRIBsvc-storage-avs-cache-mgmt
 TRIBsvc-storage-fc-fc-fabric
 TRIBsvc-storage-isns
-TRIBstorage-avs-p-i-t-copy
-TRIBstorage-avs-remote-mirror
 TRIBstorage-mpathadm
 TRIBstorage-stmf
 TRIBsys-lib-storage-fc-libsun
