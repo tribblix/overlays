@@ -48,7 +48,7 @@ java-developer|7||
 java-fun|3||
 java-prerequisite|2||
 java|19||
-java7|2||
+java7|3||
 java8|20||
 jruby|3||
 kitchen-sink|9||
@@ -74,7 +74,7 @@ node-v8|1||
 ocr|1||
 office-utilities|1||
 openexr|1||
-openjdk-build|1||
+openjdk-build|2||
 pidgin|6||
 pkgsrc|3||
 plan9|1||
