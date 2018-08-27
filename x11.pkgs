@@ -3,6 +3,7 @@ TRIBdrv-x11-winlock
 TRIBx11-keyboard-data-xkb
 TRIBx11-libxau
 TRIBx11-libxdmcp
+TRIBlibxcb
 TRIBx11-libx11
 TRIBx11-libxext
 TRIBx11-libxkbfile

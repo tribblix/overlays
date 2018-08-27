@@ -11,7 +11,6 @@ TRIBx11-server-xephyr
 TRIBx11-xclipboard
 TRIBx11-xmag
 TRIBx11-xkill
-TRIBlibxcb
 TRIBfltk
 TRIBremote-desktop-tigervnc
 TRIBmedia-cdrw

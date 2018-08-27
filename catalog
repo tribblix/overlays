@@ -46,7 +46,7 @@ inkscape|6||
 java-desktop|3||
 java-developer|7||
 java-fun|3||
-java-prerequisite|2||
+java-prerequisite|3||
 java|19||
 java7|3||
 java8|20||
@@ -81,11 +81,11 @@ plan9|1||
 qemu|2||
 qt4-apps|3||
 qt4-base|1||
-qt5-base|3||
+qt5-base|4||
 r|3||
 retro-desktop-extras|25||
 retro-desktop-games|5||
-retro-desktop|37||
+retro-desktop|38||
 retro-web|5||
 rsyslog|2||
 s3-utilities|6||
@@ -95,7 +95,7 @@ security|2||
 server-manage|4||
 storage-nas|4||
 storage-server|9||
-tcl-tk|2||
+tcl-tk|3||
 tls|2||
 tomcat7|1||
 tomcat8|1||
@@ -104,9 +104,9 @@ usb-network-drivers|1||
 vlc|3||
 webdev|7||
 wifi|2||
-wine|3||
+wine|4||
 x11-extras|4||
-x11|14||
+x11|15||
 xfce-extras|10||
 xfce|12||
 zabbix-server|4||
