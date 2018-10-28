@@ -1,2 +1,3 @@
-VERSION=1
+VERSION=2
+REQUIRES=xfce
 NAME=Desktop wallpaper for Xfce and MATE

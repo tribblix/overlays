@@ -21,7 +21,7 @@ clojure|3||
 dbus-glib|2||
 desktop-mail|4||
 desktop-publishing|2||
-desktop-wallpaper|1||
+desktop-wallpaper|2||
 develop-extras|18||
 develop|27||
 e19|3||
@@ -58,7 +58,7 @@ legacy-services|1||
 libreoffice|3||
 live555|1||
 mate|9||
-monitoring-extras|6||
+monitoring-extras|7||
 monitoring|7||
 mosh|1||
 motif-apps-extras|3||
@@ -83,7 +83,7 @@ qemu|2||
 qt4-apps|3||
 qt4-base|1||
 qt5-base|4||
-r|3||
+r|4||
 retro-desktop-extras|25||
 retro-desktop-games|5||
 retro-desktop|39||
@@ -92,7 +92,7 @@ rsyslog|2||
 s3-utilities|6||
 samba|4||
 scala|3||
-security|2||
+security|3||
 server-manage|4||
 storage-nas|4||
 storage-server|9||
