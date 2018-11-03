@@ -98,8 +98,8 @@ storage-nas|4||
 storage-server|9||
 tcl-tk|3||
 tls|2||
-tomcat7|1||
 tomcat8|1||
+tomcat9|1||
 tribblix-tools|3||
 usb-network-drivers|1||
 vlc|3||

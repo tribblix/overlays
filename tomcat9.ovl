@@ -1,0 +1,3 @@
+VERSION=1
+NAME=Tomcat 9 servlet container
+REQUIRES=java
