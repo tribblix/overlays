@@ -20,6 +20,7 @@ TRIBsys-mgmt-snmp-net-snmp
 TRIBsys-mgmt-product-registry
 TRIBsunstudio-il-build
 TRIBdev-illumos-gcc
+TRIBdev-illumos-gcc7
 TRIBopenssl-compat
 TRIBil-lintlibs
 TRIBblix-lintlibs
