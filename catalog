@@ -45,7 +45,7 @@ illumos-docs|1||
 imaging|6||
 inkscape|6||
 java-desktop|3||
-java-developer|7||
+java-developer|8||
 java-fun|3||
 java-prerequisite|3||
 java|20||
@@ -109,4 +109,4 @@ x11-extras|4||
 x11|15||
 xfce-extras|10||
 xfce|12||
-zabbix-server|4||
+zabbix-server|5||
