@@ -30,3 +30,4 @@ TRIBperl-522
 TRIBperl-522-module-sun-solaris
 TRIBgnupg
 TRIBsys-ficl
+TRIBsys-lib-iconv-utf-8

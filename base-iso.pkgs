@@ -91,7 +91,6 @@ TRIBpackage-svr4
 TRIBsys-boot-real-mode
 TRIBinstall-beadm
 TRIBnet-ftp
-TRIBsys-lib-iconv-utf-8
 TRIBsys-scheduler-fss
 TRIBlibidn
 TRIBca-bundle
