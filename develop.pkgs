@@ -21,6 +21,7 @@ TRIBdev-build-gnu-make
 TRIBdev-build-make
 TRIBdev-build-as
 TRIBdev-gnu-binutils
+TRIBsys-lib-demangle
 TRIBdev-object-file
 TRIBshell-zsh
 TRIBcdrtools
