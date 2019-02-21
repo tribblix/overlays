@@ -92,7 +92,6 @@ TRIBsys-boot-real-mode
 TRIBinstall-beadm
 TRIBnet-ftp
 TRIBsys-scheduler-fss
-TRIBlibidn
 TRIBca-bundle
 TRIBwget
 TRIBzap

@@ -31,6 +31,7 @@ TRIBgnome-hicolor-icon-theme
 TRIBgnome-icon-theme
 TRIBv-browser-52
 TRIBrdesktop
+TRIBlibidn
 TRIBgpl-ghostscript
 TRIBimage-libexif
 TRIBlib-lcms2

@@ -1,4 +1,4 @@
-VERSION=5
+VERSION=6
 NAME=Retro internet clients
 REQUIRES=motif
 REQUIRES=gnupg2

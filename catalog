@@ -11,7 +11,7 @@ amp-stack|8||
 autotools|2||
 awesome|1||
 base-extras|23||
-base-iso|10||
+base-iso|11||
 base|31||
 benchmark|1||
 boot-server|4||
@@ -40,7 +40,7 @@ gstreamer|2||
 gstreamer1|5||
 gtk3|3||
 i3|5||
-illumos-build|19||
+illumos-build|20||
 illumos-docs|1||
 imaging|6||
 inkscape|6||
@@ -85,8 +85,8 @@ qt5-base|4||
 r|4||
 retro-desktop-extras|25||
 retro-desktop-games|5||
-retro-desktop|41||
-retro-web|5||
+retro-desktop|42||
+retro-web|6||
 rsyslog|2||
 s3-utilities|6||
 samba|4||
