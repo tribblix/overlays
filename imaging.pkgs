@@ -5,7 +5,7 @@ TRIBdcraw
 TRIBexif
 TRIBexiftool
 TRIBexiv2
-TRIBimaging-python-27
+TRIBpillow-python-27
 TRIBjomic
 TRIBlensfun
 TRIBlibart
