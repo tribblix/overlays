@@ -12,7 +12,7 @@ autotools|2||
 awesome|1||
 base-extras|23||
 base-iso|11||
-base|31||
+base|32||
 benchmark|1||
 boot-server|4||
 cde|1||
@@ -107,7 +107,7 @@ webdev|7||
 wifi|2||
 wine|4||
 x11-extras|5||
-x11|16||
+x11|17||
 xfce-extras|10||
 xfce|12||
 zabbix-server|5||
