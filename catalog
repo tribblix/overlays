@@ -11,8 +11,8 @@ amp-stack|8||
 autotools|2||
 awesome|1||
 base-extras|23||
-base-iso|11||
-base|32||
+base-iso|12||
+base|33||
 benchmark|1||
 boot-server|4||
 cde|1||
@@ -87,7 +87,7 @@ r|4||
 retro-desktop-extras|25||
 retro-desktop-games|5||
 retro-desktop|43||
-retro-web|6||
+retro-web|7||
 rsyslog|2||
 s3-utilities|6||
 samba|5||

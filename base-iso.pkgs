@@ -90,7 +90,6 @@ TRIBsys-storage-fc-port-utility
 TRIBpackage-svr4
 TRIBsys-boot-real-mode
 TRIBinstall-beadm
-TRIBnet-ftp
 TRIBsys-scheduler-fss
 TRIBca-bundle
 TRIBwget
@@ -105,8 +104,6 @@ TRIBdrv-xvm-pv
 TRIBlib-security-trousers
 TRIBsys-kernel-dr-i86pc
 TRIBsvc-fma
-TRIBfile-magic
-TRIBeditor-nano
 TRIBdiagnostic-diskinfo
 TRIBsys-boot-loader
 TRIBsys-data-console-fonts
