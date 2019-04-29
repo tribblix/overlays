@@ -2,10 +2,13 @@ TRIBtext-locale
 TRIBblix-postgres11
 TRIBblix-etcd
 TRIBblix-haproxy
+TRIBlibyaml
 TRIBv-python-27
+TRIByaml-python-27
 TRIBecdsa-python-27
 TRIBpycryptodome-python-27
 TRIBcertifi-python-27
+TRIBsetuptools-python-27
 TRIBchardet-python-27
 TRIBcryptography-python-27
 TRIBdnspython-python-27
