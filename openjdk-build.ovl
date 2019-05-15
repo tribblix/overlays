@@ -1,4 +1,4 @@
-VERSION=3
+VERSION=4
 NAME=OpenJDK Build Environment
 REQUIRES=develop
 REQUIRES=java
