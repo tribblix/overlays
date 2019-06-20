@@ -4,6 +4,7 @@ TRIBnettle
 TRIBffmpeg
 TRIBgnutls
 TRIBharfbuzz
+TRIBfribidi
 TRIBcups
 TRIBgdk-pixbuf
 TRIBgraphics-jasper

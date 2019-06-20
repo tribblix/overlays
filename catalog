@@ -1,4 +1,4 @@
-abiword|3||
+abiword|4||
 all-audio-drivers|2||
 all-crypto-drivers|1||
 all-fabric-drivers|2||
@@ -24,7 +24,7 @@ desktop-publishing|2||
 desktop-wallpaper|2||
 develop-extras|20||
 develop|30||
-e19|4||
+e19|5||
 ec2-baseline|2||
 ede|1||
 elk|1||
@@ -65,7 +65,7 @@ mosh|1||
 motif-apps-extras|3||
 motif-apps|1||
 motif|1||
-multimedia|2||
+multimedia|3||
 nameserver|1||
 networked-system|16||
 node-v10|1||
@@ -83,11 +83,11 @@ plan9|1||
 qemu|2||
 qt4-apps|3||
 qt4-base|1||
-qt5-base|4||
+qt5-base|5||
 r|4||
-retro-desktop-extras|25||
+retro-desktop-extras|26||
 retro-desktop-games|5||
-retro-desktop|43||
+retro-desktop|44||
 retro-web|7||
 rsyslog|2||
 s3-utilities|7||
