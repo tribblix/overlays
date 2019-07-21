@@ -1,5 +1,7 @@
-VERSION=26
+VERSION=27
 NAME=Additional Desktop Environments and Utilities
 REQUIRES=retro-desktop
 REQUIRES=i3
 REQUIRES=pidgin
+REQUIRES=gimp
+REQUIRES=webdev

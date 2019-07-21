@@ -15,7 +15,6 @@ cli-tools
 dbus-glib
 tcl-tk
 develop
-gimp
 gnumeric
 gstreamer1
 java-prerequisite
@@ -30,7 +29,6 @@ server-manage
 tls
 tribblix-tools
 usb-network-drivers
-webdev
 x11
 xfce-extras
 xfce

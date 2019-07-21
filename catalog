@@ -53,7 +53,7 @@ java11|1||
 java7|3||
 java8|23||
 jruby|4||
-kitchen-sink|9||
+kitchen-sink|10||
 legacy-audio|1||
 legacy-services|1||
 libreoffice|3||
@@ -85,7 +85,7 @@ qt4-apps|3||
 qt4-base|1||
 qt5-base|5||
 r|4||
-retro-desktop-extras|26||
+retro-desktop-extras|27||
 retro-desktop-games|5||
 retro-desktop|44||
 retro-web|7||
