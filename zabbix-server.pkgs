@@ -3,6 +3,7 @@ TRIBblix-apache-24
 TRIBimage-libjpeg
 TRIBimage-libpng
 TRIBsys-lib-freetype-2
+TRIBtext-locale
 TRIBblix-postgres11
 TRIBblix-php-7
 TRIBblix-php-7pg
