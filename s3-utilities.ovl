@@ -1,2 +1,3 @@
-VERSION=7
+VERSION=8
 NAME=Python utilities for AWS and S3
+REQUIRES=awscli
