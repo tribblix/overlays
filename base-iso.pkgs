@@ -62,6 +62,8 @@ TRIBdrv-i86pc-ioat
 TRIBdrv-i86pc-fipe
 TRIBsys-kernel-security-gss
 TRIBdrv-net-iprb
+TRIBdrv-net-i40e
+TRIBdrv-net-mxfe
 TRIBdrv-net-pcn
 TRIBdrv-net-elxl
 TRIBdrv-net-platform
