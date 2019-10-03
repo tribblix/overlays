@@ -3,8 +3,6 @@ TRIBdrv-net-usbecm
 TRIBsys-mgmt-pcitool
 TRIBsys-flash-fwflash
 TRIBsys-storage-sasinfo
-TRIBsys-fru-id
-TRIBsys-fru-id-platform
 TRIBstorage-mpathadm
 TRIBsys-storage-luxadm
 TRIBsys-monitoring-arcstat
