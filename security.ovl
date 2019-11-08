@@ -1,3 +1,4 @@
-VERSION=4
+VERSION=5
 NAME=Security tools
 REQUIRES=retro-desktop
+REQUIRES=wfuzz

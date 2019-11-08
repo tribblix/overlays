@@ -92,7 +92,7 @@ rsyslog|2||
 s3-utilities|8||
 samba|5||
 scala|4||
-security|4||
+security|5||
 server-manage|5||
 storage-nas|4||
 storage-server|9||
@@ -104,6 +104,7 @@ tribblix-tools|3||
 usb-network-drivers|1||
 vlc|3||
 webdev|7||
+wfuzz|1||
 wifi|2||
 wine|4||
 x11-extras|5||

@@ -12,14 +12,8 @@ TRIBcommix
 TRIBlynis
 TRIBwireshark
 TRIBlibyaml
+TRIBjansson
 TRIBsuricata
 TRIBlib-perl-5-net-ssleay
 TRIBnikto
 TRIBlibssh
-TRIBchardet-python-27
-TRIBconfigparser-python-27
-TRIBfuture-python-27
-TRIBpycurl-python-27
-TRIBpyparsing-python-27
-TRIBsix-python-27
-TRIBwfuzz-python-27
