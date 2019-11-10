@@ -5,9 +5,7 @@ TRIBdev-build-onbld
 TRIBlib-lcms2
 TRIBlibidn
 TRIBgpl-ghostscript
-TRIBsys-lib-install
 TRIBsys-mgmt-snmp-net-snmp
-TRIBsys-mgmt-product-registry
 TRIBdev-illumos-gcc
 TRIBdev-illumos-gcc7
 TRIBopenssl-compat
