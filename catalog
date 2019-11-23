@@ -10,7 +10,7 @@ all-xorg-drivers|2||
 amp-stack|8||
 autotools|2||
 awesome|1||
-awscli|1||
+awscli|2||
 base-extras|23||
 base-iso|13||
 base|34||
@@ -75,7 +75,7 @@ ocr|1||
 office-utilities|1||
 openexr|1||
 openjdk-build|4||
-patroni|3||
+patroni|4||
 pidgin|6||
 pkgsrc|3||
 plan9|1||
