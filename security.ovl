@@ -1,4 +1,5 @@
-VERSION=5
+VERSION=6
 NAME=Security tools
 REQUIRES=retro-desktop
 REQUIRES=wfuzz
+REQUIRES=wapiti
