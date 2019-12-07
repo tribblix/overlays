@@ -7,6 +7,8 @@ TRIBsix-python-27
 TRIBrsa-python-27
 TRIBpyasn1-python-27
 TRIBcertifi-python-27
+TRIBlibffi
+TRIBpycparser-python-27
 TRIBcffi-python-27
 TRIBenum-python-27
 TRIBcryptography-python-27

@@ -10,6 +10,8 @@ TRIBpycryptodome-python-27
 TRIBcertifi-python-27
 TRIBsetuptools-python-27
 TRIBchardet-python-27
+TRIBlibffi
+TRIBpycparser-python-27
 TRIBcffi-python-27
 TRIBcryptography-python-27
 TRIBdnspython-python-27
