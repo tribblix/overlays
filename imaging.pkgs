@@ -1,11 +1,11 @@
 TRIBgnu-libiconv
-TRIBv-python-27
+TRIBv-python-37
 TRIBcompress-unrar
 TRIBdcraw
 TRIBexif
 TRIBexiftool
 TRIBexiv2
-TRIBpillow-python-27
+TRIBpillow-python-37
 TRIBjomic
 TRIBlensfun
 TRIBlibart
