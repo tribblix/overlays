@@ -4,3 +4,8 @@ TRIBlocale-es
 TRIBshell-tcsh
 TRIBsvc-storage-removable-media
 TRIBtop
+TRIBsys-boot-grub
+TRIBsys-scheduler-fss
+TRIBsys-kernel-dr-i86pc
+TRIBsvc-resource-cap
+TRIBdrv-cpu-sensor

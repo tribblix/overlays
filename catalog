@@ -3,7 +3,7 @@ all-audio-drivers|2||
 all-crypto-drivers|1||
 all-fabric-drivers|2||
 all-locales|1||
-all-network-drivers|5||
+all-network-drivers|6||
 all-serial-drivers|1||
 all-storage-drivers|5||
 all-xorg-drivers|2||
@@ -11,9 +11,9 @@ amp-stack|8||
 autotools|2||
 awesome|1||
 awscli|3||
-base-extras|23||
-base-iso|13||
-base|34||
+base-extras|24||
+base-iso|14||
+base|35||
 benchmark|1||
 boot-server|4||
 cde|2||
@@ -24,12 +24,12 @@ desktop-mail|4||
 desktop-publishing|2||
 desktop-wallpaper|2||
 develop-extras|20||
-develop|30||
+develop|31||
 e19|5||
 ec2-baseline|2||
 ede|1||
 elk|1||
-fortran|2||
+fortran|3||
 game-emulators|1||
 gimp|3||
 gnumeric|2||
@@ -83,7 +83,7 @@ qemu|2||
 qt4-apps|3||
 qt4-base|1||
 qt5-base|5||
-r|4||
+r|5||
 retro-desktop-extras|27||
 retro-desktop-games|5||
 retro-desktop|44||

@@ -36,11 +36,9 @@ TRIBnet-ssh
 TRIBnet-ssh-ssh-key
 TRIBsvc-net-ssh
 TRIBsvc-picl
-TRIBsys-boot-grub
 TRIBsvc-resource-pools
 TRIBsys-zones
 TRIBsys-lib-security-libsasl
-TRIBdatabase-sqlite-3
 TRIBdrv-net-fcp
 TRIBdrv-net-fp
 TRIBdrv-storage-glm
@@ -92,7 +90,6 @@ TRIBsys-storage-fc-port-utility
 TRIBpackage-svr4
 TRIBsys-boot-real-mode
 TRIBinstall-beadm
-TRIBsys-scheduler-fss
 TRIBca-bundle
 TRIBwget
 TRIBzap
@@ -104,8 +101,9 @@ TRIBdrv-net-vioif
 TRIBdrv-net-vmxnet3s
 TRIBdrv-xvm-pv
 TRIBlib-security-trousers
-TRIBsys-kernel-dr-i86pc
 TRIBsvc-fma
 TRIBdiagnostic-diskinfo
 TRIBsys-boot-loader
 TRIBsys-data-console-fonts
+TRIBsys-microcode-amd
+TRIBsys-microcode-intel

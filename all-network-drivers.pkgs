@@ -56,3 +56,5 @@ TRIBdrv-net-wpi
 TRIBdrv-net-xge
 TRIBdrv-net-yge
 TRIBdrv-net-zyd
+TRIBdrv-net-mlxcx
+TRIBdrv-net-qede

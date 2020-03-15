@@ -32,3 +32,4 @@ TRIBsys-ficl
 TRIBsys-lib-iconv-utf-8
 TRIBfile-magic
 TRIBeditor-nano
+TRIBdatabase-sqlite-3
