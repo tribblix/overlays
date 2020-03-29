@@ -1,4 +1,4 @@
-VERSION=8
+VERSION=9
 NAME=Security tools
 REQUIRES=retro-desktop
 REQUIRES=wfuzz
