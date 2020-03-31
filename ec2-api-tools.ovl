@@ -1,0 +1,3 @@
+VERSION=1
+NAME=EC2 API tools
+REQUIRES=cli-tools

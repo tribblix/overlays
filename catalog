@@ -10,7 +10,7 @@ all-xorg-drivers|2||
 amp-stack|8||
 autotools|2||
 awesome|1||
-awscli|3||
+awscli|4||
 base-extras|24||
 base-iso|14||
 base|35||
@@ -26,6 +26,7 @@ desktop-wallpaper|2||
 develop-extras|20||
 develop|31||
 e19|5||
+ec2-api-tools|1||
 ec2-baseline|2||
 ede|1||
 elk|1||
@@ -90,7 +91,7 @@ retro-desktop-games|5||
 retro-desktop|44||
 retro-web|7||
 rsyslog|2||
-s3-utilities|8||
+s3-utilities|9||
 samba|5||
 scala|4||
 security|9||
