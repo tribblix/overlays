@@ -17,6 +17,7 @@ tcl-tk
 develop
 gnumeric
 gstreamer1
+gtk3
 java-prerequisite
 java
 kitchen-sink
