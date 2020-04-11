@@ -1,7 +1,9 @@
-VERSION=27
+VERSION=28
 NAME=Additional Desktop Environments and Utilities
 REQUIRES=retro-desktop
 REQUIRES=i3
 REQUIRES=pidgin
 REQUIRES=gimp
 REQUIRES=webdev
+REQUIRES=abiword
+REQUIRES=gnumeric
