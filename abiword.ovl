@@ -1,3 +1,3 @@
-VERSION=4
+VERSION=5
 NAME=AbiWord word processor
-REQUIRES=retro-desktop
+REQUIRES=gtk3
