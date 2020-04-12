@@ -21,7 +21,7 @@ cli-tools|11||
 clojure|5||
 dbus-glib|2||
 desktop-mail|4||
-desktop-publishing|2||
+desktop-publishing|3||
 desktop-wallpaper|2||
 develop-extras|20||
 develop|31||
@@ -106,7 +106,7 @@ tribblix-tools|3||
 usb-network-drivers|1||
 vlc|3||
 wapiti|1||
-webdev|7||
+webdev|8||
 wfuzz|1||
 wifi|2||
 wine|4||

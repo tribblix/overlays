@@ -1,4 +1,5 @@
-VERSION=7
+VERSION=8
 NAME=Some web development utilities
 REQUIRES=develop
 REQUIRES=gimp
+REQUIRES=gtk3

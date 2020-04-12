@@ -1,6 +1,7 @@
-VERSION=2
+VERSION=3
 NAME=Desktop Publishing Tools
 REQUIRES=gimp
 REQUIRES=inkscape
 REQUIRES=qt4-base
 REQUIRES=libreoffice
+REQUIRES=gtk3
