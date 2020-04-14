@@ -40,7 +40,7 @@ TRIBtext-locale
 TRIBncurses
 TRIBcmake
 TRIBlibyaml
-TRIBv-ruby-25
+TRIBv-ruby-26
 TRIBdata-docbook
 TRIBmercurial
 TRIBnet-ipfilter-header

@@ -1,4 +1,4 @@
-VERSION=31
+VERSION=32
 NAME=Development Tools
 REQUIRES=cli-tools
 REQUIRES=base-extras
