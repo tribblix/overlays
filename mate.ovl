@@ -1,4 +1,5 @@
-VERSION=9
+VERSION=10
 NAME=MATE desktop applications
+REQUIRES=gtk3
 REQUIRES=retro-desktop
 REQUIRES=gstreamer1

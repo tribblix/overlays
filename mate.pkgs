@@ -1,8 +1,10 @@
-TRIBlibwnck
 TRIBglib-networking
 TRIBlibsoup
-TRIBgtksourceview
-TRIBlibunique
+TRIBgtksourceview3
+TRIBlibspectre
+TRIBlibwnck3
+TRIBgobject-introspection
+TRIBlibpeas
 TRIBlibnotify
 TRIBlibtool
 TRIBmate-desktop
