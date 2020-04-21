@@ -1,3 +1,4 @@
-VERSION=17
+VERSION=18
 NAME=Base X11 packages
 REQUIRES=dbus-glib
+REQUIRES=tls
