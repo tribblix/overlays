@@ -61,7 +61,7 @@ legacy-services|1||
 libreoffice|3||
 live555|1||
 mate|10||
-monitoring-extras|7||
+monitoring-extras|8||
 monitoring|7||
 mosh|1||
 motif-apps-extras|3||
@@ -95,7 +95,7 @@ rsyslog|2||
 s3-utilities|9||
 samba|5||
 scala|4||
-security|9||
+security|10||
 server-manage|5||
 storage-nas|4||
 storage-server|9||

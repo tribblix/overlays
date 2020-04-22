@@ -1,5 +1,6 @@
-VERSION=9
+VERSION=10
 NAME=Security tools
 REQUIRES=retro-desktop
 REQUIRES=wfuzz
 REQUIRES=wapiti
+REQUIRES=gtk3
