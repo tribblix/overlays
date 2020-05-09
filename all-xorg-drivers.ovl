@@ -1,3 +1,3 @@
-VERSION=2
+VERSION=3
 NAME=All Xorg drivers
 REQUIRES=x11
