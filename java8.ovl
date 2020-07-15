@@ -1,3 +1,3 @@
-VERSION=27
+VERSION=28
 NAME=Java OpenJDK 8
 REQUIRES=java-prerequisite
