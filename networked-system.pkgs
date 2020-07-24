@@ -4,7 +4,6 @@ TRIBnaming-ldap
 TRIBsvc-net-dns-mdns
 TRIBsvc-file-system-nfs
 TRIBbind9
-TRIBdhcp-server
 TRIBsys-security-kerberos-5
 TRIBsys-lib-security-gss-spnego
 TRIBsys-lib-security-gss-dh
