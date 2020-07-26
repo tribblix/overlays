@@ -10,7 +10,6 @@ all-xorg-drivers
 base-extras
 base-iso
 base
-boot-server
 cli-tools
 dbus-glib
 tcl-tk
@@ -31,6 +30,5 @@ tls
 tribblix-tools
 usb-network-drivers
 x11
-xfce-extras
 xfce
 wifi
