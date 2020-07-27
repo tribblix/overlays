@@ -1,3 +1,3 @@
-VERSION=24
+VERSION=25
 NAME=Common packages, atop the base
 REQUIRES=base

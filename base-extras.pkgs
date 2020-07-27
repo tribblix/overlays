@@ -9,3 +9,6 @@ TRIBsys-scheduler-fss
 TRIBsys-kernel-dr-i86pc
 TRIBsvc-resource-cap
 TRIBdrv-cpu-sensor
+TRIBdrv-misc-ccid
+TRIBsys-libpcsc
+TRIBsys-libutempter
