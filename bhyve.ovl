@@ -1,0 +1,3 @@
+VERSION=4
+NAME=bhyve
+REQUIRES=base
