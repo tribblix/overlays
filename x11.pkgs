@@ -84,9 +84,7 @@ TRIBdev-build-imake
 TRIBxrestop
 TRIBxorg-driver-input-hotkey
 TRIBxorg-driver-input-synaptics
-TRIBxorg-driver-video-i740
 TRIBxorg-driver-video-nv
 TRIBxorg-driver-video-ati
-TRIBxorg-driver-video-radeonhd
 TRIBblix-session
 TRIBsvc-storage-media-volmgr

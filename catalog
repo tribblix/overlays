@@ -7,7 +7,7 @@ all-locales|1||
 all-network-drivers|8||
 all-serial-drivers|1||
 all-storage-drivers|5||
-all-xorg-drivers|3||
+all-xorg-drivers|4||
 amp-stack|8||
 autotools|2||
 awesome|1||
@@ -111,7 +111,7 @@ wfuzz|1||
 wifi|2||
 wine|4||
 x11-extras|5||
-x11|18||
+x11|19||
 xfce-extras|10||
 xfce|12||
 zabbix-server|6||
