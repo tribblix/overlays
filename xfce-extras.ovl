@@ -1,3 +1,3 @@
-VERSION=10
+VERSION=11
 NAME=Additional utilities for Xfce
 REQUIRES=xfce
