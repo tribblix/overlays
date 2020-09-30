@@ -1,4 +1,4 @@
-VERSION=14
+VERSION=15
 NAME=The Xfce Desktop
 REQUIRES=gtk3
 REQUIRES=retro-desktop
