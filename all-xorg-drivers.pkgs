@@ -18,6 +18,5 @@ TRIBxorg-driver-video-vesa
 TRIBxorg-driver-video-vmware
 TRIBdrv-graphics-agpgart
 TRIBdrv-graphics-drm
-TRIBdrv-graphics-nvidia
 TRIBdrv-graphics-usbvc
 TRIBdrv-graphics-atiatom
