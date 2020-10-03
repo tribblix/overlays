@@ -58,6 +58,7 @@ TRIBx11-session-xinit
 TRIBxorg-driver-video-vesa
 TRIBxorg-driver-input-vmmouse
 TRIBxorg-driver-video-vmware
+TRIBxorg-driver-video-vbox
 TRIBx11-libxfixes
 TRIBx11-libxdamage
 TRIBdiagnostic-constype

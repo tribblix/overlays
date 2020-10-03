@@ -14,6 +14,7 @@ TRIBxorg-driver-video-openchrome
 TRIBxorg-driver-video-r128
 TRIBxorg-driver-video-savage
 TRIBxorg-driver-video-trident
+TRIBxorg-driver-video-vbox
 TRIBxorg-driver-video-vesa
 TRIBxorg-driver-video-vmware
 TRIBdrv-graphics-agpgart
