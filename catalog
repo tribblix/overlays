@@ -41,7 +41,7 @@ graphical|2||
 groovy|5||
 gstreamer|2||
 gstreamer1|5||
-gtk3|4||
+gtk3|5||
 i3|5||
 illumos-build|25||
 illumos-docs|4||
@@ -88,7 +88,7 @@ qt5-base|5||
 r|5||
 retro-desktop-extras|29||
 retro-desktop-games|5||
-retro-desktop|44||
+retro-desktop|45||
 retro-web|8||
 rsyslog|2||
 s3-utilities|9||
