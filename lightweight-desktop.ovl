@@ -1,0 +1,5 @@
+VERSION=1
+NAME=Lightweight Desktop Tools
+REQUIRES=gtk3
+REQUIRES=gnumeric
+REQUIRES=abiword
