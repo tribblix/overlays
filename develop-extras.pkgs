@@ -26,7 +26,13 @@ TRIBa2ps
 TRIBdateutils
 TRIBlibxml2-python-27
 TRIBdocutils-python-27
-TRIBvirtualenv-python-27
+TRIBmore-itertools-python-37
+TRIBzipp-python-37
+TRIBappdirs-python-37
+TRIBdistlib-python-37
+TRIBimportlib-python-37
+TRIBsix-python-37
+TRIBvirtualenv-python-37
 TRIBgnome-doc-utils
 TRIBhtmldoc
 TRIBiso-codes
