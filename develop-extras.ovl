@@ -1,4 +1,4 @@
-VERSION=22
+VERSION=23
 NAME=Extra Development Tools
 REQUIRES=develop
 REQUIRES=groovy
@@ -6,3 +6,4 @@ REQUIRES=scala
 REQUIRES=jruby
 REQUIRES=clojure
 REQUIRES=x11
+REQUIRES=sphinx

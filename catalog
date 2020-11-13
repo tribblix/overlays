@@ -25,7 +25,7 @@ dbus-glib|2||
 desktop-mail|4||
 desktop-publishing|3||
 desktop-wallpaper|2||
-develop-extras|22||
+develop-extras|23||
 develop|32||
 e19|5||
 ec2-api-tools|2||
@@ -97,6 +97,7 @@ samba|5||
 scala|4||
 security|10||
 server-manage|6||
+sphinx|1||
 storage-nas|4||
 storage-server|9||
 tcl-tk|3||
