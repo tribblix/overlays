@@ -1,3 +1,3 @@
-VERSION=5
+VERSION=6
 NAME=GStreamer 1.0 and codecs
-REQUIRES=retro-desktop
+REQUIRES=x11
