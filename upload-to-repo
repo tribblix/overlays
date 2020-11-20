@@ -6,7 +6,7 @@
 REPOHOST="pkgs.tribblix.org"
 REPODIR="/var/repo"
 
-REPO="overlays-m23"
+REPO="overlays-m24"
 
 #
 # sanity check
