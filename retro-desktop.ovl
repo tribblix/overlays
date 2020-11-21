@@ -6,6 +6,7 @@ REQUIRES=base-extras
 REQUIRES=tls
 REQUIRES=legacy-audio
 REQUIRES=tcl-tk
+REQUIRES=gtk2
 REQUIRES=gtk3
 REQUIRES=gstreamer1
 SERVICE=svc:/system/slim:default

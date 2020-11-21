@@ -3,17 +3,10 @@ TRIBlibsdl
 TRIBnettle
 TRIBffmpeg
 TRIBgnutls
-TRIBharfbuzz
-TRIBfribidi
 TRIBcups
 TRIBgdk-pixbuf
 TRIBgraphics-jasper
-TRIBlib-desktop-atk
-TRIBlib-desktop-cairo
-TRIBlib-desktop-gtk
-TRIBlib-desktop-pango
 TRIBlib-lcms2
-TRIBlibicu
 TRIBlibmng
 TRIBlibwebp
 TRIBlibxkbcommon
