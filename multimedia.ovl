@@ -2,3 +2,4 @@ VERSION=3
 NAME=Some multimedia utilities
 REQUIRES=gstreamer1
 REQUIRES=samba
+REQUIRES=gtk2

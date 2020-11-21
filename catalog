@@ -35,7 +35,7 @@ fortran|3||
 game-emulators|1||
 gemini-clients|1||
 gimp|3||
-gnumeric|3||
+gnumeric|4||
 gnupg2|2||
 go|12||
 graphical|2||
@@ -60,7 +60,7 @@ kitchen-sink|11||
 legacy-audio|1||
 legacy-services|1||
 libreoffice|3||
-lightweight-desktop|1||
+lightweight-desktop|2||
 live555|1||
 mate|10||
 monitoring-extras|9||
@@ -107,7 +107,7 @@ tomcat8|1||
 tomcat9|1||
 tribblix-tools|5||
 usb-network-drivers|1||
-vlc|3||
+vlc|5||
 wapiti|2||
 webdev|8||
 wfuzz|1||
