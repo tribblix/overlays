@@ -1,6 +1,7 @@
-VERSION=23
+VERSION=24
 NAME=Extra Development Tools
 REQUIRES=develop
+REQUIRES=go
 REQUIRES=groovy
 REQUIRES=scala
 REQUIRES=jruby

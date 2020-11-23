@@ -32,7 +32,6 @@ TRIBgnu-gettext
 TRIBbison
 TRIBdebug-gdb
 TRIBtext-gawk
-TRIBneon
 TRIBtkdiff
 TRIBdev-versioning-git
 TRIBv-python-27
@@ -43,12 +42,13 @@ TRIBcmake
 TRIBlibyaml
 TRIBv-ruby-26
 TRIBdata-docbook
-TRIBmercurial
 TRIBnet-ipfilter-header
 TRIBsys-libdiskmgt-header
 TRIBfile-magic
-TRIBv-subversion-19
 TRIBscons
 TRIBgperf
 TRIBpkg-config
 TRIBintltool
+TRIBninja
+TRIBtqdm-python-37
+TRIBmeson-python-37

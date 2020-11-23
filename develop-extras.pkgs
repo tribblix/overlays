@@ -1,6 +1,5 @@
 TRIBrcs
 TRIBcvs
-TRIBv-python-37
 TRIBgnu-texinfo
 TRIBdev-dtrace-toolkit
 TRIBfossil
@@ -41,6 +40,6 @@ TRIBmawk
 TRIBmultitail
 TRIBfltk
 TRIBtree
-TRIBninja
-TRIBtqdm-python-37
-TRIBmeson-python-37
+TRIBv-subversion-19
+TRIBneon
+TRIBmercurial
