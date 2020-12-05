@@ -1,5 +1,7 @@
+TRIBcompress-xz
 TRIBimage-libjpeg
 TRIBimage-libpng
+TRIBlibzip
 TRIBsys-lib-freetype-2
 TRIBblix-apache-24
 TRIBblix-mysql-56

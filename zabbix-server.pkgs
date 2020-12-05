@@ -1,5 +1,7 @@
 TRIBblix-libmcrypt
 TRIBblix-apache-24
+TRIBcompress-xz
+TRIBlibzip
 TRIBimage-libjpeg
 TRIBimage-libpng
 TRIBsys-lib-freetype-2
