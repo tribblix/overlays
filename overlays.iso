@@ -16,6 +16,7 @@ tcl-tk
 develop
 gnumeric
 gstreamer1
+gtk2
 gtk3
 java-prerequisite
 java
