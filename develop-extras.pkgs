@@ -40,6 +40,8 @@ TRIBmawk
 TRIBmultitail
 TRIBfltk
 TRIBtree
-TRIBv-subversion-19
+TRIBv-subversion-114
 TRIBneon
 TRIBmercurial
+TRIBscons
+TRIBv-ruby-27

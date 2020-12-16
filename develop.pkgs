@@ -40,12 +40,10 @@ TRIBtext-locale
 TRIBncurses
 TRIBcmake
 TRIBlibyaml
-TRIBv-ruby-26
 TRIBdata-docbook
 TRIBnet-ipfilter-header
 TRIBsys-libdiskmgt-header
 TRIBfile-magic
-TRIBscons
 TRIBgperf
 TRIBpkg-config
 TRIBintltool
