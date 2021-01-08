@@ -21,12 +21,14 @@ boot-server|4||
 cde|2||
 cli-tools|11||
 clojure|5||
+cloudsec|1||
 dbus-glib|2||
 desktop-mail|4||
 desktop-publishing|3||
 desktop-wallpaper|2||
 develop-extras|26||
 develop|35||
+dmarc|1||
 e19|5||
 ec2-api-tools|2||
 ec2-baseline|3||
