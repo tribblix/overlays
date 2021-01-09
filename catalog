@@ -13,13 +13,13 @@ autotools|2||
 awesome|1||
 awscli|4||
 base-extras|26||
-base-iso|14||
-base|36||
+base-iso|15||
+base|39||
 benchmark|1||
 bhyve|5||
 boot-server|4||
 cde|2||
-cli-tools|11||
+cli-tools|12||
 clojure|5||
 cloudsec|1||
 dbus-glib|2||

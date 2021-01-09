@@ -30,6 +30,8 @@ TRIBsys-libdiskmgt
 TRIBlib-zlib
 TRIBshell-bash
 TRIBcompress-gzip
+TRIBcompress-bzip2
+TRIBcompress-pbzip2
 TRIBcompress-unzip
 TRIBsys-esu
 TRIBnet-ssh

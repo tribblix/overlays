@@ -5,7 +5,6 @@ TRIBncftp
 TRIBnet-telnet
 TRIBcompress-p7zip
 TRIBcompress-xz
-TRIBcompress-pbzip2
 TRIBcompress-pigz
 TRIBcompress-lzip
 TRIBpipe-viewer
