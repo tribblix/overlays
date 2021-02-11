@@ -10,6 +10,7 @@ TRIBsys-lib-security-gss-dh
 TRIBsys-lib-security-rpcsec
 TRIBsvc-net-smtp-sendmail
 TRIBsys-net-mailwrapper
+TRIBsys-libutempter
 TRIBscreen
 TRIBtmux
 TRIBmbuffer
