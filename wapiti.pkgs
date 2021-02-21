@@ -1,4 +1,3 @@
-TRIBv-python-37
 TRIBpycparser-python-37
 TRIBcffi-python-37
 TRIBwebencodings-python-37
@@ -10,12 +9,9 @@ TRIBidna-python-37
 TRIBlibxslt
 TRIBmarkupsafe-python-37
 TRIBpyopenssl-37
-TRIBsix-python-37
 TRIBsoupsieve-python-37
 TRIBurllib3-python-37
 TRIBbeautifulsoup4-python-37
-TRIBcompress-xz
-TRIBlibffi
 TRIBlxml-python-37
 TRIBmako-python-37
 TRIBpysocks-python-37

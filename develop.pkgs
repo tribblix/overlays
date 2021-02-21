@@ -35,7 +35,6 @@ TRIBtext-gawk
 TRIBtkdiff
 TRIBdev-versioning-git
 TRIBv-python-27
-TRIBv-python-37
 TRIBtext-locale
 TRIBncurses
 TRIBcmake

@@ -1,13 +1,10 @@
 TRIBpycparser-python-37
 TRIBcffi-python-37
-TRIBsix-python-37
 TRIBcertifi-python-37
 TRIBchardet-python-37
-TRIBcompress-xz
 TRIBcryptography-python-37
 TRIBecdsa-python-37
 TRIBidna-python-37
-TRIBlibffi
 TRIBpycryptodome-python-37
 TRIBpyopenssl-37
 TRIBpysocks-python-37
@@ -18,7 +15,6 @@ TRIBpublicsuffix2-python-37
 TRIBpyleri-python-37
 TRIBrequests-python-37
 TRIBto-decorator-python-37
-TRIBv-python-37
 TRIBcheckdmarc-python-37
 TRIBdateutil-python-37
 TRIBhtml2text-python-37

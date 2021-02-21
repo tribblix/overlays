@@ -1,12 +1,9 @@
-TRIBv-python-37
 TRIBpycparser-python-37
 TRIBcffi-python-37
 TRIBcertifi-python-37
 TRIBchardet-python-37
-TRIBcompress-xz
 TRIBcryptography-python-37
 TRIBidna-python-37
-TRIBlibffi
 TRIBpyasn1-python-37
 TRIBpyopenssl-37
 TRIBpysocks-python-37
@@ -20,7 +17,6 @@ TRIBpyasn1-modules-python-37
 TRIBpytz-python-37
 TRIBrequests-python-37
 TRIBrsa-python-37
-TRIBsix-python-37
 TRIBuritemplate-python-37
 TRIBgoogle-api-core-python-37
 TRIBgoogle-api-python-37

@@ -1,3 +1,4 @@
-VERSION=6
+VERSION=7
 NAME=Patroni
 REQUIRES=base
+REQUIRES=python37

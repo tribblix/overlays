@@ -1,4 +1,4 @@
-VERSION=31
+VERSION=32
 NAME=Additional Desktop Environments and Utilities
 REQUIRES=retro-desktop
 REQUIRES=i3
@@ -7,3 +7,4 @@ REQUIRES=gimp
 REQUIRES=webdev
 REQUIRES=abiword
 REQUIRES=gnumeric
+REQUIRES=python37

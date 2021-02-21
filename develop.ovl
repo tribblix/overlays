@@ -1,7 +1,8 @@
-VERSION=35
+VERSION=36
 NAME=Development Tools
 REQUIRES=cli-tools
 REQUIRES=base-extras
 REQUIRES=dbus-glib
 REQUIRES=tcl-tk
 REQUIRES=tls
+REQUIRES=python37

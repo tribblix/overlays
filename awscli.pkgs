@@ -1,13 +1,9 @@
-TRIBcompress-xz
-TRIBv-python-37
 TRIBcolorama-python-37
 TRIBdateutil-python-37
 TRIBdocutils-python-37
-TRIBsix-python-37
 TRIBrsa-python-37
 TRIBpyasn1-python-37
 TRIBcertifi-python-37
-TRIBlibffi
 TRIBpycparser-python-37
 TRIBcffi-python-37
 TRIBcryptography-python-37

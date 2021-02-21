@@ -1,3 +1,4 @@
-VERSION=1
+VERSION=2
 NAME=Gemini clients
 REQUIRES=tcl-tk
+REQUIRES=python37

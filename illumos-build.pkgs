@@ -14,7 +14,6 @@ TRIBsys-lib-fontconfig
 TRIBx11-lib-toolkit-libxt
 TRIBx11-libice
 TRIBx11-libsm
-TRIBv-python-37
 TRIBcertifi-python-37
 TRIBcffi-python-37
 TRIBcryptography-python-37
@@ -29,7 +28,6 @@ TRIBpycurl-python-37
 TRIBpyopenssl-37
 TRIBrapidjson-python-37
 TRIBsimplejson-python-37
-TRIBsix-python-37
 TRIBdev-pkg5
 TRIBlib-openjpeg
 TRIBidnkit

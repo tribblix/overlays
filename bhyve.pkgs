@@ -1,10 +1,7 @@
 TRIBsocat
-TRIBcompress-xz
-TRIBlibffi
 TRIBdrv-x11-xsvc
 TRIBdev-acpi
 TRIBsys-lib-bhyve
 TRIBsys-bhyve
 TRIBsys-bhyve-firmware
-TRIBv-python-37
 TRIBbhyve-brand

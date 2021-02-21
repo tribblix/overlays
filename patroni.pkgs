@@ -3,14 +3,11 @@ TRIBblix-postgres11
 TRIBblix-etcd
 TRIBblix-haproxy
 TRIBlibyaml
-TRIBcompress-xz
-TRIBv-python-37
 TRIByaml-python-37
 TRIBecdsa-python-37
 TRIBpycryptodome-python-37
 TRIBcertifi-python-37
 TRIBchardet-python-37
-TRIBlibffi
 TRIBpycparser-python-37
 TRIBcffi-python-37
 TRIBcryptography-python-37
@@ -27,7 +24,6 @@ TRIBprettytable-python-37
 TRIBpsutil-python-37
 TRIBpsycopg2-37
 TRIBrequests-python-37
-TRIBsix-python-37
 TRIBtzlocal-python-37
 TRIBurllib3-python-37
 TRIBpatroni-python-37
