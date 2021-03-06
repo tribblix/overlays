@@ -7,9 +7,12 @@ TRIBcompress-p7zip
 TRIBcompress-xz
 TRIBcompress-pigz
 TRIBcompress-lzip
+TRIBcompress-lz4
+TRIBcompress-zstd
 TRIBpipe-viewer
 TRIBscreen
 TRIBtmux
+TRIBduviz
 TRIBagedu
 TRIBncurses
 TRIBncdu
