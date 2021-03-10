@@ -3,9 +3,7 @@ TRIBcffi-python-37
 TRIBcertifi-python-37
 TRIBchardet-python-37
 TRIBcryptography-python-37
-TRIBecdsa-python-37
 TRIBidna-python-37
-TRIBpycryptodome-python-37
 TRIBpyopenssl-37
 TRIBpysocks-python-37
 TRIBurllib3-python-37
@@ -14,6 +12,7 @@ TRIBexpiringdict-python-37
 TRIBpublicsuffix2-python-37
 TRIBpyleri-python-37
 TRIBrequests-python-37
+TRIBrequests-tb-python-37
 TRIBto-decorator-python-37
 TRIBcheckdmarc-python-37
 TRIBdateutil-python-37
