@@ -11,6 +11,7 @@ TRIBchardet-python-37
 TRIBpycparser-python-37
 TRIBcffi-python-37
 TRIBcryptography-python-37
+TRIBrequests-tb-python-37
 TRIBdnspython-python-37
 TRIBidna-python-37
 TRIBpyopenssl-37

@@ -19,7 +19,7 @@ benchmark|1||
 bhyve|6||
 boot-server|4||
 cde|2||
-cli-tools|13||
+cli-tools|14||
 clojure|5||
 cloudsec|2||
 dbus-glib|2||
@@ -84,7 +84,7 @@ office-utilities|1||
 openexr|1||
 openjdk-build|4||
 openlook|1||
-patroni|7||
+patroni|8||
 pidgin|6||
 pkgsrc|3||
 plan9|1||
