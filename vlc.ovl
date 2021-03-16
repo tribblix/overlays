@@ -1,4 +1,5 @@
-VERSION=5
+VERSION=6
 NAME=VLC media player
 REQUIRES=qt4-base
 REQUIRES=multimedia
+REQUIRES=gtk3

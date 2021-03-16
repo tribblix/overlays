@@ -21,7 +21,7 @@ boot-server|4||
 cde|2||
 cli-tools|14||
 clojure|5||
-cloudsec|2||
+cloudsec|3||
 dbus-glib|2||
 desktop-mail|4||
 desktop-publishing|3||
@@ -115,7 +115,7 @@ tomcat8|1||
 tomcat9|1||
 tribblix-tools|5||
 usb-network-drivers|1||
-vlc|5||
+vlc|6||
 wapiti|3||
 webdev|8||
 wfuzz|2||
