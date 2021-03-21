@@ -1,5 +1,7 @@
 TRIBcups
 TRIBlibxslt
 TRIBneon
-TRIBglew
+TRIBdconf
+TRIBlib-lcms2
+TRIBlibzmf
 TRIBlibreoffice

@@ -1,5 +1,6 @@
-VERSION=3
+VERSION=4
 NAME=LibreOffice Office Suite
 REQUIRES=gstreamer1
-REQUIRES=retro-desktop
+REQUIRES=gtk3
+REQUIRES=python37
 REQUIRES=office-utilities
