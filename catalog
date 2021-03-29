@@ -9,7 +9,7 @@ all-serial-drivers|1||
 all-storage-drivers|5||
 all-xorg-drivers|6||
 amp-stack|9||
-autotools|2||
+autotools|3||
 awesome|1||
 awscli|5||
 base-extras|26||
@@ -66,7 +66,7 @@ legacy-services|1||
 libreoffice|4||
 lightweight-desktop|2||
 live555|1||
-mate|10||
+mate|11||
 monitoring-extras|9||
 monitoring|8||
 mosh|1||
