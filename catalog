@@ -14,12 +14,12 @@ awesome|1||
 awscli|5||
 base-extras|26||
 base-iso|16||
-base|40||
+base|41||
 benchmark|1||
 bhyve|6||
 boot-server|4||
 cde|2||
-cli-tools|14||
+cli-tools|15||
 clojure|5||
 cloudsec|3||
 dbus-glib|2||

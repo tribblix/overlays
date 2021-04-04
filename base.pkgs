@@ -28,6 +28,9 @@ TRIBperl-522
 TRIBperl-522-module-sun-solaris
 TRIBgnupg
 TRIBcompress-pbzip2
+TRIBcompress-xz
+TRIBcompress-lz4
+TRIBcompress-zstd
 TRIBsys-ficl
 TRIBsys-lib-iconv-utf-8
 TRIBfile-magic
