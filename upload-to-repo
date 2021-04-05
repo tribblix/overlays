@@ -5,8 +5,18 @@
 
 REPOHOST="pkgs.tribblix.org"
 REPODIR="/var/repo"
+REPOVER="m24"
+REPOTYPE=""
 
-REPO="overlays-m24"
+case $1 in
+    -r)
+	REPOVER="$2"
+	shift
+	shift
+	;;
+esac
+
+REPO="overlays-${REPOVER}${REPOTYPE}"
 
 #
 # sanity check
