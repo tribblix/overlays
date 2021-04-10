@@ -5,6 +5,7 @@ TRIBsys-data-terminfo
 TRIBsys-data-zoneinfo
 SUNWcs
 TRIBsys-library
+TRIBshell-ksh93
 TRIBlibxml2
 TRIBdrv-graphics-agpgart
 TRIBsys-kernel
