@@ -2,4 +2,10 @@ TRIBlib-babl
 TRIBlib-gegl
 TRIBaalib
 TRIBlibmng
+TRIBexiv2
+TRIBjson-c
+TRIBgexiv2
+TRIBjson-glib
+TRIBlibmypaint
+TRIBmypaint-brushes
 TRIBgimp
