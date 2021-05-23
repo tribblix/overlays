@@ -21,5 +21,6 @@ TRIBnikto
 TRIBlibssh
 TRIBsqlmap
 TRIByaml-python-37
+TRIBrequests-python-37
 TRIBdetect-secrets-python-37
 TRIBgraudit

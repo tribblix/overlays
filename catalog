@@ -103,7 +103,7 @@ rsyslog|2||
 s3-utilities|9||
 samba|5||
 scala|4||
-security|12||
+security|13||
 server-manage|6||
 sphinx|2||
 storage-nas|4||
@@ -115,7 +115,6 @@ tomcat9|1||
 tribblix-tools|5||
 usb-network-drivers|1||
 vlc|6||
-wapiti|3||
 webdev|8||
 wfuzz|2||
 wifi|2||

@@ -1,7 +1,6 @@
-VERSION=12
+VERSION=13
 NAME=Security tools
 REQUIRES=retro-desktop
 REQUIRES=python37
 REQUIRES=wfuzz
-REQUIRES=wapiti
 REQUIRES=gtk3
