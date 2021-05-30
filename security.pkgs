@@ -21,6 +21,14 @@ TRIBnikto
 TRIBlibssh
 TRIBsqlmap
 TRIByaml-python-37
+TRIBcertifi-python-37
+TRIBpycparser-python-37
+TRIBcffi-python-37
+TRIBcryptography-python-37
+TRIBidna-python-37
+TRIBpyopenssl-37
+TRIBpysocks-python-37
+TRIBurllib3-python-37
 TRIBrequests-python-37
 TRIBdetect-secrets-python-37
 TRIBgraudit
