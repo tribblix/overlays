@@ -1,3 +1,4 @@
-VERSION=6
+VERSION=7
 NAME=GStreamer 1.0 and codecs
 REQUIRES=x11
+REQUIRES=gtk3
