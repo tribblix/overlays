@@ -21,6 +21,7 @@ TRIBx11-libxtst
 TRIBx11-libfontenc
 TRIBsys-lib-freetype-2
 TRIBx11-libxfont
+TRIBx11-libxfont2
 TRIBimage-libjpeg
 TRIBimage-libpng
 TRIBcompress-xz
