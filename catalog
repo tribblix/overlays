@@ -19,7 +19,7 @@ benchmark|1||
 bhyve|6||
 boot-server|5||
 cde|2||
-cli-tools|15||
+cli-tools|16||
 clojure|5||
 cloudsec|3||
 dbus-glib|2||
