@@ -103,7 +103,7 @@ rsyslog|2||
 s3-utilities|9||
 samba|5||
 scala|4||
-security|14||
+security|15||
 server-manage|6||
 sphinx|2||
 storage-nas|4||
@@ -116,7 +116,7 @@ tribblix-tools|5||
 usb-network-drivers|1||
 vlc|6||
 webdev|8||
-wfuzz|2||
+wfuzz|3||
 wifi|2||
 wine|4||
 x11-extras|5||
