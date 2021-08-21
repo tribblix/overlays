@@ -16,6 +16,10 @@ TRIBnltk-python-37
 TRIBpygments-37
 TRIBtornado-python-37
 TRIByaml-python-37
+TRIBghp-import-python-37
+TRIBmergedeep-python-37
+TRIBpyyaml-env-python-37
+TRIBwatchdog-python-37
 TRIBmkdocs-python-37
 TRIBmkdocs-material-python-37
 TRIBmarkdown-inc-python-37
