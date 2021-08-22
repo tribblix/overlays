@@ -49,3 +49,5 @@ TRIBintltool
 TRIBninja
 TRIBtqdm-python-37
 TRIBmeson-python-37
+TRIBtoml-python-37
+TRIBsetup-scm-python-37
