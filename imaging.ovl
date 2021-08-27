@@ -1,4 +1,4 @@
-VERSION=9
+VERSION=10
 NAME=Utilities for handling images
 REQUIRES=retro-desktop
-REQUIRES=python37
+REQUIRES=python39
