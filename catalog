@@ -21,12 +21,12 @@ boot-server|5||
 cde|2||
 cli-tools|16||
 clojure|5||
-cloudsec|3||
+cloudsec|4||
 dbus-glib|2||
 desktop-mail|4||
 desktop-publishing|3||
 desktop-wallpaper|2||
-develop-extras|27||
+develop-extras|28||
 develop|37||
 dmarc|4||
 duplicity|1||
