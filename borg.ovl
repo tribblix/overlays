@@ -1,0 +1,3 @@
+VERSION=1
+NAME=BorgBackup
+REQUIRES=python39

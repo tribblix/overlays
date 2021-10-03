@@ -1,0 +1,3 @@
+VERSION=1
+NAME=Tomcat 10 servlet container
+REQUIRES=java

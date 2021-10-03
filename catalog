@@ -18,6 +18,7 @@ base|41||
 benchmark|1||
 bhyve|6||
 boot-server|5||
+borg|1||
 cde|2||
 cli-tools|16||
 clojure|5||
@@ -25,7 +26,7 @@ cloudsec|6||
 dbus-glib|2||
 desktop-mail|4||
 desktop-publishing|3||
-desktop-wallpaper|2||
+desktop-wallpaper|3||
 develop-extras|28||
 develop|37||
 dmarc|4||
@@ -66,7 +67,7 @@ legacy-services|1||
 libreoffice|4||
 lightweight-desktop|2||
 live555|1||
-mate|11||
+mate|12||
 monitoring-extras|9||
 monitoring|8||
 mosh|1||
@@ -88,6 +89,7 @@ patroni|8||
 pidgin|6||
 pkgsrc|3||
 plan9|1||
+postgres11|1||
 python37|1||
 python39|1||
 qemu|2||
@@ -110,6 +112,7 @@ storage-nas|4||
 storage-server|9||
 tcl-tk|3||
 tls|2||
+tomcat10|1||
 tomcat8|1||
 tomcat9|1||
 tribblix-tools|5||
@@ -121,6 +124,6 @@ wifi|2||
 wine|4||
 x11-extras|5||
 x11|23||
-xfce-extras|12||
+xfce-extras|13||
 xfce|17||
 zabbix-server|8||
