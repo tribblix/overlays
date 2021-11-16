@@ -5,7 +5,11 @@ TRIBdev-dtrace-toolkit
 TRIBfossil
 TRIBocaml
 TRIBjoe
-TRIBbzr
+TRIBconfigobj-python-39
+TRIBdulwich-python-39
+TRIBfastimport-python-39
+TRIBpatiencediff-python-39
+TRIBbreezy-python-39
 TRIBcppunit
 TRIBdev-versioning-tig
 TRIBdev-check
