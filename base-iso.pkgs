@@ -57,6 +57,7 @@ TRIBdrv-storage-amr
 TRIBdrv-storage-ahci
 TRIBdrv-storage-si3124
 TRIBdrv-storage-arcmsr
+TRIBdrv-storage-nvme
 TRIBdrv-i86pc-platform
 TRIBdrv-i86pc-ioat
 TRIBdrv-i86pc-fipe
