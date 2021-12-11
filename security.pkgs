@@ -29,7 +29,7 @@ TRIBidna-python-39
 TRIBpyopenssl-39
 TRIBpysocks-python-39
 TRIBurllib3-python-39
-TRIBchardet-python-39
+TRIBcharset-norm-python-39
 TRIBrequests-python-39
 TRIBdetect-secrets-python-39
 TRIBgraudit
