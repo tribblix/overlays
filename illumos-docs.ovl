@@ -1,4 +1,4 @@
-VERSION=8
+VERSION=9
 NAME=Illumos Docs Environment
 REQUIRES=develop
-REQUIRES=python37
+REQUIRES=python39
