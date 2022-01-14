@@ -1,4 +1,4 @@
-VERSION=7
+VERSION=8
 NAME=Cloud Security Tools
 REQUIRES=awscli
 REQUIRES=gtk2
