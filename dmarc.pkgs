@@ -24,6 +24,10 @@ TRIBpytz-python-39
 TRIBregex-python-39
 TRIBsimplejson-python-39
 TRIBtzlocal-python-39
+TRIBbotocore-python-39
+TRIBjmespath-python-39
+TRIBs3transfer-python-39
+TRIBboto3-python-39
 TRIBdateparser-python-39
 TRIBelastic-dsl-python-39
 TRIBelasticsearch-python-39
