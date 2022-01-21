@@ -1,4 +1,4 @@
-VERSION=17
+VERSION=18
 NAME=The Xfce Desktop
 REQUIRES=gtk3
 REQUIRES=retro-desktop
