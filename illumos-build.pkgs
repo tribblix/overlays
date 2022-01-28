@@ -5,7 +5,6 @@ TRIBlib-lcms2
 TRIBlibidn
 TRIBgpl-ghostscript
 TRIBnet-snmp
-TRIBdev-illumos-gcc
 TRIBdev-illumos-gcc7
 TRIBdev-illumos-gcc10
 TRIBimage-libjpeg
