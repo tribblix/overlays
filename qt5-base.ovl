@@ -1,3 +1,4 @@
-VERSION=6
+VERSION=7
 NAME=Qt base, version 5
-REQUIRES=gtk2
+REQUIRES=gtk3
+REQUIRES=gstreamer1

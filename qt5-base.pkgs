@@ -4,11 +4,12 @@ TRIBnettle
 TRIBffmpeg
 TRIBgnutls
 TRIBcups
-TRIBgdk-pixbuf
+TRIBdouble-conversion
+TRIBhunspell
+TRIBlibsdl2
 TRIBgraphics-jasper
 TRIBlib-lcms2
 TRIBlibmng
-TRIBlibwebp
 TRIBlibxkbcommon
 TRIBopenal
 TRIBqt5
