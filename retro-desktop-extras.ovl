@@ -1,4 +1,4 @@
-VERSION=35
+VERSION=37
 NAME=Additional Desktop Environments and Utilities
 REQUIRES=retro-desktop
 REQUIRES=i3
@@ -7,4 +7,3 @@ REQUIRES=gimp
 REQUIRES=webdev
 REQUIRES=abiword
 REQUIRES=gnumeric
-REQUIRES=python37
