@@ -65,7 +65,7 @@ jruby|4||
 kitchen-sink|11||
 legacy-audio|1||
 legacy-services|1||
-libreoffice|4||
+libreoffice|5||
 lightweight-desktop|2||
 live555|1||
 mate|12||
@@ -99,7 +99,7 @@ qt4-apps|3||
 qt4-base|1||
 qt5-base|7||
 r|5||
-retro-desktop-extras|36||
+retro-desktop-extras|37||
 retro-desktop-games|5||
 retro-desktop|47||
 retro-web|8||
