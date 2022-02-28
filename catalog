@@ -18,7 +18,7 @@ base|41||
 benchmark|1||
 bhyve|6||
 boot-server|5||
-borg|1||
+borg|2||
 cde|2||
 cli-tools|16||
 clojure|5||
