@@ -96,8 +96,9 @@ postgres11|1||
 python37|1||
 python39|1||
 qemu|2||
-qt4-apps|3||
+qt4-apps|4||
 qt4-base|1||
+qt5-apps|1||
 qt5-base|7||
 r|5||
 retro-desktop-extras|37||
