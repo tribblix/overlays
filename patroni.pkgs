@@ -4,7 +4,6 @@ TRIBblix-etcd
 TRIBblix-haproxy
 TRIBlibyaml
 TRIByaml-python-37
-TRIBecdsa-python-37
 TRIBpycryptodome-python-37
 TRIBcertifi-python-37
 TRIBcharset-norm-python-37
