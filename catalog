@@ -101,7 +101,7 @@ qt4-base|1||
 qt5-apps|1||
 qt5-base|7||
 r|5||
-retro-desktop-extras|37||
+retro-desktop-extras|38||
 retro-desktop-games|5||
 retro-desktop|47||
 retro-web|8||
@@ -126,7 +126,7 @@ webdev|8||
 wfuzz|3||
 wifi|2||
 wine|4||
-x11-extras|5||
+x11-extras|6||
 x11|23||
 xfce-extras|13||
 xfce|18||
