@@ -36,6 +36,7 @@ TRIBdistlib-python-39
 TRIBimportlib-python-39
 TRIBfilelock-python-39
 TRIBvirtualenv-python-39
+TRIBlibxml2-python-27
 TRIBgnome-doc-utils
 TRIBhtmldoc
 TRIBiso-codes
