@@ -1,3 +1,3 @@
-VERSION=41
+VERSION=42
 NAME=Base packages, not in the live image
 REQUIRES=base-iso
