@@ -30,11 +30,9 @@ TRIBflex
 TRIBgnu-m4
 TRIBgnu-gettext
 TRIBbison
-TRIBdebug-gdb
 TRIBtext-gawk
 TRIBtkdiff
 TRIBdev-versioning-git
-TRIBv-python-27
 TRIBtext-locale
 TRIBncurses
 TRIBcmake

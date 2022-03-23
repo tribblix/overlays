@@ -50,3 +50,5 @@ TRIBneon
 TRIBmercurial
 TRIBscons
 TRIBv-ruby-27
+TRIBdebug-gdb
+TRIBv-python-27
