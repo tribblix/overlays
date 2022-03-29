@@ -5,7 +5,10 @@ TRIBlibmad
 TRIBlibmng
 TRIBlibao
 TRIBlibsdl
+TRIBopusfile
 TRIBvorbis-tools
+TRIBlibopusenc
+TRIBopus-tools
 TRIBsmpeg
 TRIBmplayer
 TRIBffmpeg
