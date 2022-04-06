@@ -7,4 +7,7 @@ TRIBncurses
 TRIBlibassuan
 TRIBgpgme
 TRIBjansson
+TRIBlibffi
+TRIBlib-glib2
+TRIBlibicu
 TRIBsamba4
