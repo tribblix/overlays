@@ -7,6 +7,8 @@ TRIBocaml
 TRIBjoe
 TRIBconfigobj-python-39
 TRIBdulwich-python-39
+TRIBcython-python-39
+TRIBfastbencode-python-39
 TRIBfastimport-python-39
 TRIBpatiencediff-python-39
 TRIBbreezy-python-39
