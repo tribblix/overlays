@@ -1,4 +1,4 @@
-abiword|8||
+abiword|9||
 all-1394-drivers|1||
 all-audio-drivers|2||
 all-crypto-drivers|1||
@@ -100,11 +100,11 @@ qemu|2||
 qt4-apps|4||
 qt4-base|1||
 qt5-apps|1||
-qt5-base|7||
+qt5-base|8||
 r|5||
 retro-desktop-extras|38||
 retro-desktop-games|5||
-retro-desktop|48||
+retro-desktop|49||
 retro-web|8||
 rsyslog|2||
 s3-utilities|10||

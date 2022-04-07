@@ -6,6 +6,7 @@ TRIBgnutls
 TRIBcups
 TRIBdouble-conversion
 TRIBhunspell
+TRIBspelldict-en
 TRIBlibsdl2
 TRIBgraphics-jasper
 TRIBlib-lcms2
