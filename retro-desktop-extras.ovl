@@ -1,9 +1,9 @@
-VERSION=39
+VERSION=40
 NAME=Additional Desktop Environments and Utilities
 REQUIRES=retro-desktop
 REQUIRES=i3
 REQUIRES=pidgin
 REQUIRES=gimp
 REQUIRES=webdev
-REQUIRES=abiword
-REQUIRES=gnumeric
+REQUIRES=lightweight-desktop
+REQUIRES=desktop-mail
