@@ -13,6 +13,7 @@ TRIBdev-dtrace
 TRIBgcc4runtime
 TRIBfile-gnu-coreutils
 TRIBlib-pcre
+TRIBlib-pcre2
 TRIBsys-data-hardware-registry
 TRIBsys-file-system-udfs
 TRIBsys-xopen-xcu4
