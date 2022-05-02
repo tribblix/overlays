@@ -5,7 +5,7 @@
 
 REPOHOST="pkgs.tribblix.org"
 REPODIR="/var/repo"
-REPOVER="m26"
+REPOVER="m27"
 REPOTYPE=""
 
 case $1 in
