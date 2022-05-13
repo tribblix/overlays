@@ -85,5 +85,6 @@ TRIBxorg-driver-input-hotkey
 TRIBxorg-driver-input-synaptics
 TRIBxorg-driver-video-nv
 TRIBxorg-driver-video-ati
+TRIBxorg-driver-video-vmware
 TRIBblix-session
 TRIBsvc-storage-media-volmgr
