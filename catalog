@@ -12,7 +12,7 @@ amp-stack|10||
 autotools|3||
 awesome|2||
 awscli|7||
-base-extras|26||
+base-extras|27||
 base-iso|18||
 base|44||
 benchmark|1||
@@ -21,7 +21,6 @@ boot-server|5||
 borg|2||
 cde|2||
 cli-tools|16||
-clojure|5||
 cloudsec|9||
 dbus-glib|2||
 desktop-mail|4||
