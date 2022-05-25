@@ -6,6 +6,7 @@ TRIBfossil
 TRIBocaml
 TRIBjoe
 TRIBconfigobj-python-39
+TRIBparamiko-python-39
 TRIBdulwich-python-39
 TRIBcython-python-39
 TRIBfastbencode-python-39
