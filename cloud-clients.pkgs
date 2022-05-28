@@ -1,0 +1,15 @@
+TRIBgpgme
+TRIBlibassuan
+TRIBlibgpg-error
+TRIBbcrypt-python-39
+TRIBcharset-norm-python-39
+TRIBpynacl-python-39
+TRIBparamiko-python-39
+TRIBrequests-python-39
+TRIBlibcloud-python-39
+TRIBs5cmd
+TRIBskopeo
+TRIBdoctl
+TRIBminio-client
+TRIBterraform
+TRIBrclone
