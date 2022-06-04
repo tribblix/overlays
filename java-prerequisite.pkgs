@@ -1,6 +1,8 @@
 TRIBfont-ttype-dejavu
 TRIBimage-libpng
 TRIBsys-lib-freetype-2
+TRIBlib-expat
+TRIBsys-lib-fontconfig
 TRIBlibxcb
 TRIBx11-libx11
 TRIBx11-libxau
