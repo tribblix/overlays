@@ -1,4 +1,4 @@
-VERSION=4
+VERSION=5
 NAME=Some multimedia utilities
 REQUIRES=gstreamer1
 REQUIRES=samba
