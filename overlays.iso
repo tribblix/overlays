@@ -23,6 +23,7 @@ java-prerequisite
 java
 kitchen-sink
 legacy-audio
+modern-cli-tools
 networked-system
 python39
 retro-desktop
