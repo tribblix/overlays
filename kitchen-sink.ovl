@@ -1,10 +1,9 @@
-VERSION=11
+VERSION=12
 NAME=Everything but the kitchen sink
 REQUIRES=xfce
 REQUIRES=develop
 REQUIRES=java
 REQUIRES=abiword
 REQUIRES=gnumeric
-REQUIRES=monitoring
 REQUIRES=networked-system
 REQUIRES=tribblix-tools
