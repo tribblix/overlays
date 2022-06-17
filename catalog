@@ -27,6 +27,7 @@ dbus-glib|2||
 desktop-mail|4||
 desktop-publishing|3||
 desktop-wallpaper|3||
+desktop|1||
 develop-extras|39||
 develop|39||
 dmarc|6||
@@ -62,7 +63,7 @@ java11|1||
 java17|1||
 java8|35||
 jruby|4||
-kitchen-sink|13||
+kitchen-sink|14||
 legacy-audio|1||
 legacy-services|1||
 libreoffice|5||

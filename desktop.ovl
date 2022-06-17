@@ -1,0 +1,5 @@
+VERSION=1
+NAME=Standard Desktop
+REQUIRES=xfce
+REQUIRES=lightweight-desktop
+REQUIRES=desktop-mail

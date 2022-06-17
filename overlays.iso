@@ -12,10 +12,13 @@ base-extras
 base-iso
 base
 cli-tools
+desktop
+desktop-mail
 dbus-glib
 tcl-tk
 develop
 gnumeric
+gnupg2
 gstreamer1
 gtk2
 gtk3
@@ -23,6 +26,7 @@ java-prerequisite
 java
 kitchen-sink
 legacy-audio
+lightweight-desktop
 modern-cli-tools
 networked-system
 python39
