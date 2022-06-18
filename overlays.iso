@@ -28,10 +28,9 @@ kitchen-sink
 legacy-audio
 lightweight-desktop
 modern-cli-tools
-networked-system
 python39
 retro-desktop
-samba
+server
 server-manage
 tls
 tribblix-tools

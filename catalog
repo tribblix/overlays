@@ -63,7 +63,7 @@ java11|1||
 java17|1||
 java8|35||
 jruby|4||
-kitchen-sink|14||
+kitchen-sink|15||
 legacy-audio|1||
 legacy-services|1||
 libreoffice|5||
@@ -112,6 +112,7 @@ samba|7||
 scala|4||
 security|19||
 server-manage|6||
+server|1||
 sphinx|4||
 storage-nas|4||
 storage-server|9||

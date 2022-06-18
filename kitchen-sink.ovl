@@ -1,8 +1,8 @@
-VERSION=14
+VERSION=15
 NAME=Everything but the kitchen sink
 REQUIRES=desktop
 REQUIRES=develop
 REQUIRES=java
-REQUIRES=networked-system
+REQUIRES=server
 REQUIRES=tribblix-tools
 REQUIRES=modern-cli-tools
