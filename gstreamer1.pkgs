@@ -16,6 +16,7 @@ TRIBharfbuzz
 TRIBgdk-pixbuf
 TRIBlib-desktop-cairo
 TRIBlib-desktop-pango
+TRIBlibvisual
 TRIBgstreamer1
 TRIBgstreamer1-plugins-base
 TRIBgstreamer1-plugins-good

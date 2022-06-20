@@ -46,7 +46,7 @@ gnupg2|2||
 go|15||
 graphical|2||
 groovy|5||
-gstreamer1|7||
+gstreamer1|8||
 gtk2|1||
 gtk3|6||
 i3|5||
@@ -67,7 +67,7 @@ kitchen-sink|15||
 legacy-audio|1||
 legacy-services|1||
 libreoffice|5||
-lightweight-desktop|4||
+lightweight-desktop|5||
 live555|1||
 lumina|1||
 mate|12||
@@ -78,7 +78,7 @@ mosh|2||
 motif-apps-extras|3||
 motif-apps|1||
 motif|1||
-multimedia|5||
+multimedia|6||
 nameserver|1||
 networked-system|18||
 node-v12|1||
@@ -123,11 +123,11 @@ tomcat8|1||
 tomcat9|1||
 tribblix-tools|5||
 usb-network-drivers|1||
-vlc|6||
+vlc|7||
 webdev|8||
 wfuzz|3||
 wifi|2||
-wine|4||
+wine|5||
 x11-extras|6||
 x11|24||
 xfce-extras|13||
