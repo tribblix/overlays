@@ -1,4 +1,4 @@
-VERSION=39
+VERSION=40
 NAME=Extra Development Tools
 REQUIRES=develop
 REQUIRES=go
@@ -7,4 +7,3 @@ REQUIRES=scala
 REQUIRES=jruby
 REQUIRES=x11
 REQUIRES=sphinx
-REQUIRES=python37
