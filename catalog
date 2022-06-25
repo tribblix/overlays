@@ -94,6 +94,7 @@ pkgsrc|3||
 plan9|1||
 postgres11|2||
 postgres13|1||
+python310|1||
 python37|1||
 python39|1||
 qemu|2||
