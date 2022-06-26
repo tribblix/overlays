@@ -1,4 +1,4 @@
-VERSION=14
+VERSION=15
 NAME=MATE desktop applications
 REQUIRES=gtk3
 REQUIRES=retro-desktop
