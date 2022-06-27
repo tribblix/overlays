@@ -1,4 +1,5 @@
-VERSION=3
+VERSION=4
 NAME=Gemini clients
 REQUIRES=tcl-tk
 REQUIRES=python39
+REQUIRES=gtk3
