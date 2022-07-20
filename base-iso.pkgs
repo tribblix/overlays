@@ -102,6 +102,7 @@ TRIBdrv-storage-blkdev
 TRIBdrv-storage-vioblk
 TRIBdrv-net-vioif
 TRIBdrv-net-vmxnet3s
+TRIBsys-net-overlay
 TRIBdrv-xvm-pv
 TRIBlib-security-trousers
 TRIBsvc-fma
