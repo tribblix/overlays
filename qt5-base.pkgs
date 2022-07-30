@@ -3,6 +3,7 @@ TRIBlibsdl
 TRIBnettle
 TRIBffmpeg
 TRIBgnutls
+TRIBsvc-net-dns-mdns
 TRIBcups
 TRIBdouble-conversion
 TRIBhunspell

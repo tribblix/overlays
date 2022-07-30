@@ -1,6 +1,7 @@
 TRIBcompress-xz
 TRIBlibpopt
 TRIBsys-libdbus
+TRIBsvc-net-dns-mdns
 TRIBcups
 TRIBlibarchive
 TRIBncurses

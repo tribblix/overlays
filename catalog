@@ -67,7 +67,7 @@ jruby|4||
 kitchen-sink|15||
 legacy-audio|1||
 legacy-services|1||
-libreoffice|5||
+libreoffice|6||
 lightweight-desktop|6||
 live555|1||
 lumina|1||
@@ -87,7 +87,7 @@ node-v14|4||
 ocr|1||
 office-utilities|1||
 openexr|1||
-openjdk-build|4||
+openjdk-build|5||
 openlook|1||
 patroni|11||
 pidgin|6||
@@ -103,7 +103,7 @@ qemu|2||
 qt4-apps|4||
 qt4-base|1||
 qt5-apps|1||
-qt5-base|8||
+qt5-base|9||
 r|5||
 retro-desktop-extras|42||
 retro-desktop-games|6||
@@ -111,7 +111,7 @@ retro-desktop|50||
 retro-web|9||
 rsyslog|2||
 s3-utilities|10||
-samba|7||
+samba|8||
 scala|4||
 security|19||
 server-manage|6||
