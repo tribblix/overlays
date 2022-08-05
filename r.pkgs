@@ -3,6 +3,6 @@ TRIBgfortran4runtime
 TRIBgnu-libiconv
 TRIBncurses
 TRIBreadline
-TRIBv-gfortran7
-TRIBv-gcc7
+TRIBv-gfortran10
+TRIBv-gcc10
 TRIBsys-header
