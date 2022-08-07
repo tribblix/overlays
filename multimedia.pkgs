@@ -14,3 +14,5 @@ TRIBsmpeg
 TRIBmplayer
 TRIBlibsdl2
 TRIBffmpeg
+TRIBlibid3tag
+TRIBmadplay
