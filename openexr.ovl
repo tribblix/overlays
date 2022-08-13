@@ -1,3 +1,2 @@
-VERSION=1
-NAME=ILM OpenEXR library and tools
-REQUIRES=x11
+VERSION=2
+NAME=ILM OpenEXR library
