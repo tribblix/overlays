@@ -100,6 +100,7 @@ TRIBzap-upgrade
 TRIBdrv-misc-virtio
 TRIBdrv-storage-blkdev
 TRIBdrv-storage-vioblk
+TRIBdrv-storage-vioscsi
 TRIBdrv-net-vioif
 TRIBdrv-net-vmxnet3s
 TRIBsys-net-overlay
