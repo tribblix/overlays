@@ -4,7 +4,6 @@ TRIBblix-etcd
 TRIBblix-haproxy
 TRIBlibyaml
 TRIByaml-python-39
-TRIBpycryptodome-python-39
 TRIBcertifi-python-39
 TRIBcharset-norm-python-39
 TRIBpycparser-python-39
