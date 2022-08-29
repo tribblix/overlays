@@ -20,7 +20,7 @@ bhyve|7||
 boot-server|5||
 borg|2||
 cde|2||
-clang|1||
+clang|2||
 cli-tools|16||
 cloud-clients|1||
 cloudsec|9||
