@@ -29,7 +29,7 @@ desktop-mail|4||
 desktop-publishing|4||
 desktop-wallpaper|3||
 desktop|1||
-develop-extras|41||
+develop-extras|42||
 develop|40||
 dmarc|7||
 duplicity|3||
@@ -75,7 +75,7 @@ lumina|1||
 mate|16||
 modern-cli-tools|5||
 monitoring-extras|9||
-monitoring|9||
+monitoring|10||
 mosh|2||
 motif-apps-extras|3||
 motif-apps|2||

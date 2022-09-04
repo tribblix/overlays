@@ -1,4 +1,4 @@
-VERSION=41
+VERSION=42
 NAME=Extra Development Tools
 REQUIRES=develop
 REQUIRES=go
