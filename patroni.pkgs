@@ -8,6 +8,7 @@ TRIBcertifi-python-39
 TRIBcharset-norm-python-39
 TRIBpycparser-python-39
 TRIBcffi-python-39
+TRIBbrotli-python-39
 TRIBcryptography-python-39
 TRIBrequests-tb-python-39
 TRIBdnspython-python-39

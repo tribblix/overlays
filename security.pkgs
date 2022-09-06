@@ -21,6 +21,7 @@ TRIBnikto
 TRIBlibssh
 TRIBsqlmap
 TRIByaml-python-39
+TRIBbrotli-python-39
 TRIBcertifi-python-39
 TRIBpycparser-python-39
 TRIBcffi-python-39

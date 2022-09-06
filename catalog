@@ -11,7 +11,7 @@ all-xorg-drivers|6||
 amp-stack|10||
 autotools|3||
 awesome|2||
-awscli|7||
+awscli|8||
 base-extras|27||
 base-iso|20||
 base|45||
@@ -31,7 +31,7 @@ desktop-wallpaper|3||
 desktop|1||
 develop-extras|42||
 develop|40||
-dmarc|7||
+dmarc|8||
 duplicity|3||
 e19|7||
 ec2-api-tools|2||
@@ -39,7 +39,7 @@ ec2-baseline|5||
 ede|1||
 fortran|4||
 game-emulators|2||
-gapi|5||
+gapi|6||
 gemini-clients|4||
 gimp|5||
 gnumeric|5||
@@ -50,7 +50,7 @@ groovy|5||
 gstreamer1|8||
 gtk2|1||
 gtk3|6||
-httpie|1||
+httpie|2||
 i3|5||
 illumos-build|32||
 illumos-docs|10||
@@ -91,7 +91,7 @@ office-utilities|1||
 openexr|2||
 openjdk-build|5||
 openlook|1||
-patroni|12||
+patroni|13||
 pidgin|6||
 pkgsrc|3||
 plan9|1||
@@ -115,10 +115,10 @@ rsyslog|2||
 s3-utilities|10||
 samba|8||
 scala|4||
-security|20||
+security|21||
 server-manage|6||
 server|1||
-sphinx|4||
+sphinx|5||
 storage-nas|4||
 storage-server|9||
 tcl-tk|3||
