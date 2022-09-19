@@ -79,7 +79,7 @@ monitoring|10||
 mosh|2||
 motif-apps-extras|3||
 motif-apps|2||
-motif|1||
+motif|2||
 multimedia|7||
 nameserver|1||
 networked-system|18||
@@ -135,7 +135,7 @@ wifi|2||
 wine|5||
 x11-extras|7||
 x11-fonts|1||
-x11|24||
+x11|25||
 xfce-extras|13||
 xfce|20||
 zabbix-server|9||
