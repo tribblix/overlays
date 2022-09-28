@@ -1,3 +1,4 @@
+TRIBcdrtools
 TRIBsocat
 TRIBdrv-x11-xsvc
 TRIBdev-acpi
@@ -5,3 +6,5 @@ TRIBsys-lib-bhyve
 TRIBsys-bhyve
 TRIBsys-bhyve-firmware
 TRIBbhyve-brand
+TRIBlibyaml
+TRIByaml-python-39
