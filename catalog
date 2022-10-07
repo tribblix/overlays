@@ -23,7 +23,7 @@ cde|2||
 clang|2||
 cli-tools|16||
 cloud-clients|1||
-cloudsec|9||
+cloudsec|10||
 dbus-glib|2||
 desktop-mail|4||
 desktop-publishing|4||
@@ -115,7 +115,7 @@ rsyslog|2||
 s3-utilities|10||
 samba|8||
 scala|4||
-security|21||
+security|22||
 server-manage|6||
 server|1||
 sphinx|6||
