@@ -10,6 +10,7 @@ TRIBlibcloud-python-39
 TRIBs5cmd
 TRIBskopeo
 TRIBdoctl
+TRIBvultr-cli
 TRIBminio-client
 TRIBterraform
 TRIBrclone
