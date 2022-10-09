@@ -2,7 +2,7 @@ abiword
 all-1394-drivers
 all-audio-drivers
 all-crypto-drivers
-all-fabric-drivers
+san-support
 all-locales
 all-network-drivers
 all-serial-drivers
