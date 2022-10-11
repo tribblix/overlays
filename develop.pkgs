@@ -19,6 +19,7 @@ TRIBfile-gnu-findutils
 TRIBdev-build-gnu-make
 TRIBdev-build-make
 TRIBdev-build-as
+TRIBmsgpack-c
 TRIBdev-gnu-binutils
 TRIBsys-lib-demangle
 TRIBdev-object-file
