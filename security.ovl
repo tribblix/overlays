@@ -1,4 +1,4 @@
-VERSION=22
+VERSION=23
 NAME=Security tools
 REQUIRES=retro-desktop
 REQUIRES=python39

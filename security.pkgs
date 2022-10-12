@@ -40,3 +40,4 @@ TRIBtestssl-sh
 TRIBflawfinder
 TRIBcrtsh
 TRIBffuf
+TRIBgitleaks
