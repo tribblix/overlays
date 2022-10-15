@@ -1,0 +1,3 @@
+VERSION=1
+NAME=Applications for DLNA and UPNP
+REQUIRES=gstreamer1
