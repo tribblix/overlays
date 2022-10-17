@@ -27,7 +27,6 @@ TRIBimage-libpng
 TRIBcompress-xz
 TRIBimage-libtiff
 TRIBlib-graphics-pixman
-TRIBsys-lib-cpp-sunpro
 TRIBx11-server-xvnc
 TRIBfont-xorg-core
 TRIBx11-xcalc
