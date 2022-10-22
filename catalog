@@ -65,7 +65,7 @@ java-prerequisite|6||
 java|35||
 java11|1||
 java17|1||
-java8|37||
+java8|38||
 jruby|4||
 kitchen-sink|15||
 legacy-audio|1||
