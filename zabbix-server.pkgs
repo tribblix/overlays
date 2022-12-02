@@ -6,7 +6,7 @@ TRIBimage-libpng
 TRIBsys-lib-freetype-2
 TRIBtext-locale
 TRIBblix-postgres13
-TRIBblix-php-7
-TRIBblix-php-7pg
+TRIBblix-php-8
+TRIBblix-php-8pg
 TRIBblix-zabbix
 TRIBfping
