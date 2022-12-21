@@ -17,6 +17,7 @@ TRIBpyopenssl-39
 TRIBpysocks-python-39
 TRIBpytz-python-39
 TRIBcdiff-python-39
+TRIBydiff-python-39
 TRIBclick-python-39
 TRIBdateutil-python-39
 TRIBconsul-python-39
