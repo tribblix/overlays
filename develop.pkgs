@@ -23,7 +23,6 @@ TRIBmsgpack-c
 TRIBdev-gnu-binutils
 TRIBsys-lib-demangle
 TRIBdev-object-file
-TRIBshell-zsh
 TRIBcdrtools
 TRIBlibxslt
 TRIBlib-perl-5-xml-parser

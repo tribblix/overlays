@@ -13,7 +13,7 @@ autotools|3||
 awesome|2||
 awscli|8||
 backup-utilities|1||
-base-extras|27||
+base-extras|28||
 base-iso|20||
 base|45||
 benchmark|1||
@@ -31,7 +31,7 @@ desktop-publishing|4||
 desktop-wallpaper|3||
 desktop|1||
 develop-extras|42||
-develop|42||
+develop|43||
 dlna|1||
 dmarc|8||
 duplicity|4||
