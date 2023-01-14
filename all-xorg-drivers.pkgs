@@ -17,6 +17,7 @@ TRIBxorg-driver-video-trident
 TRIBxorg-driver-video-vbox
 TRIBxorg-driver-video-vesa
 TRIBxorg-driver-video-vmware
+TRIBxorg-driver-video-voodoo
 TRIBdrv-graphics-agpgart
 TRIBdrv-graphics-drm
 TRIBdrv-graphics-usbvc
