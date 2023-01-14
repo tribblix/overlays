@@ -1,3 +1,4 @@
+TRIBx11-bitmap
 TRIBx11-demo
 TRIBx11-diagnostic-xev
 TRIBx11-diagnostic-xscope
@@ -9,8 +10,10 @@ TRIBx11-xedit
 TRIBx11-xless
 TRIBx11-xfd
 TRIBx11-xfontsel
+TRIBx11-xwd
 TRIBx11-colormap-utilities
 TRIBxboing
+TRIBxfishtank
 TRIBxgalaga
 TRIBjed
 TRIBslang
