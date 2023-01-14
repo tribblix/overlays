@@ -1,3 +1,3 @@
-VERSION=8
+VERSION=9
 NAME=Extra X11 packages
 REQUIRES=x11
