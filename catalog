@@ -8,7 +8,7 @@ all-network-drivers|8||
 all-serial-drivers|1||
 all-storage-drivers|6||
 all-xorg-drivers|7||
-amp-stack|10||
+amp-stack|11||
 autotools|3||
 awesome|2||
 awscli|8||
@@ -18,7 +18,7 @@ base-iso|20||
 base|45||
 benchmark|1||
 bhyve|8||
-boot-server|5||
+boot-server|6||
 borg|2||
 cde|2||
 clang|2||
@@ -140,4 +140,4 @@ x11-fonts|1||
 x11|26||
 xfce-extras|13||
 xfce|20||
-zabbix-server|10||
+zabbix-server|11||

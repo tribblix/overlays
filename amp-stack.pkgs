@@ -3,8 +3,9 @@ TRIBimage-libjpeg
 TRIBimage-libpng
 TRIBlibzip
 TRIBsys-lib-freetype-2
+TRIBbrotli
 TRIBblix-apache-24
 TRIBblix-mysql-56
-TRIBblix-php-7
+TRIBblix-php-8
 TRIBtext-gawk
 TRIBdehydrated
