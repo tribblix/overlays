@@ -1,4 +1,4 @@
-VERSION=15
+VERSION=16
 NAME=Everything but the kitchen sink
 REQUIRES=desktop
 REQUIRES=develop
@@ -6,3 +6,4 @@ REQUIRES=java
 REQUIRES=server
 REQUIRES=tribblix-tools
 REQUIRES=modern-cli-tools
+REQUIRES=tilde
