@@ -3,7 +3,18 @@
 # verify that the overlays on the iso(s) are consistent
 #
 
-OVLISO=overlays.iso
+case $# in
+    0)
+	OVLISO=overlays.iso
+	;;
+    1)
+	OVLISO=overlays.${1}.iso
+	;;
+    *)
+	echo "Usage: $0 [variant]"
+	exit 2
+	;;
+esac
 
 if [ ! -f ${OVLISO} ]; then
     echo "ERROR: no ${OVLISO} file"
