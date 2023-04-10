@@ -21,4 +21,9 @@ TRIBlibsdl
 TRIBlibsdl2
 TRIBffmpeg
 TRIBtimg
+TRIBimage-libspng
+TRIBlib-desktop-gsf
+TRIBlibde265
+TRIBlibheif
+TRIBopenexr
 TRIBlibvips
