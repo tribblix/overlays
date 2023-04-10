@@ -37,10 +37,9 @@ TRIBlibxml2-python-39
 TRIBdocutils-python-39
 TRIBmore-itertools-python-39
 TRIBzipp-python-39
-TRIBappdirs-python-39
 TRIBdistlib-python-39
-TRIBimportlib-python-39
 TRIBfilelock-python-39
+TRIBplatformdirs-python-39
 TRIBvirtualenv-python-39
 TRIBhtmldoc
 TRIBiso-codes
