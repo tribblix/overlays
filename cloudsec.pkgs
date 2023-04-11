@@ -11,6 +11,7 @@ TRIBpoppler
 TRIBtk
 TRIBargparse-python-39
 TRIBlibgd
+TRIBgiflib
 TRIBlibwebp
 TRIBgraphviz
 TRIBpyparsing-python-39

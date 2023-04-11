@@ -24,7 +24,7 @@ cde|2||
 clang|2||
 cli-tools|16||
 cloud-clients|2||
-cloudsec|11||
+cloudsec|12||
 dbus-glib|2||
 desktop-mail|4||
 desktop-publishing|5||
@@ -72,7 +72,7 @@ kitchen-sink|16||
 legacy-audio|1||
 legacy-services|1||
 libreoffice|6||
-lightweight-desktop|7||
+lightweight-desktop|8||
 live555|1||
 lumina|1||
 mate|16||
@@ -106,7 +106,7 @@ python311|1||
 python37|1||
 python39|1||
 qemu|2||
-qt5-apps|5||
+qt5-apps|6||
 qt5-base|9||
 r|6||
 retro-desktop-extras|42||
