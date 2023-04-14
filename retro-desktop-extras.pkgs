@@ -30,6 +30,8 @@ TRIBxclip
 TRIBx11-lib-toolkit-libxaw3d
 TRIBxfig
 TRIBterminal-urxvt
+TRIBlxterminal
+TRIBterminal-mlterm
 TRIBgftp
 TRIBgeany
 TRIBlibgit2
@@ -37,6 +39,7 @@ TRIBgeany-plugins
 TRIBncurses
 TRIBgrisbi
 TRIBqvwm
+TRIBleftwm
 TRIBhexchat
 TRIBnsxiv
 TRIBxsnow

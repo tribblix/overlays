@@ -1,4 +1,4 @@
-VERSION=43
+VERSION=44
 NAME=Additional Desktop Environments and Utilities
 REQUIRES=retro-desktop
 REQUIRES=i3
