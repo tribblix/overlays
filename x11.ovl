@@ -1,4 +1,4 @@
-VERSION=26
+VERSION=27
 NAME=Base X11 packages
 REQUIRES=dbus-glib
 REQUIRES=tls

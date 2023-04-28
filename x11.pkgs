@@ -49,7 +49,6 @@ TRIBsys-keyboard-kbd-mode
 TRIBx11-session-xauth
 TRIBdev-macro-cpp
 TRIBx11-libxrandr
-TRIBx11-libxxf86misc
 TRIBx11-libxxf86vm
 TRIBx11-x11-server-utilities
 TRIBdev-linker

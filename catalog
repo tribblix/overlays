@@ -87,7 +87,6 @@ motif|2||
 multimedia|7||
 nameserver|1||
 networked-system|18||
-node-v14|4||
 node-v16|1||
 node-v18|1||
 node-v20|1||
@@ -140,7 +139,7 @@ wifi|2||
 wine|5||
 x11-extras|9||
 x11-fonts|1||
-x11|26||
+x11|27||
 xfce-extras|13||
 xfce|20||
 zabbix-server|12||
