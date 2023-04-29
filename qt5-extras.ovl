@@ -1,0 +1,4 @@
+VERSION=1
+NAME=Extra applications for QT5
+REQUIRES=qt5-base
+REQUIRES=multimedia
