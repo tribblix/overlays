@@ -1,4 +1,4 @@
-VERSION=7
+VERSION=8
 NAME=VLC media player
 REQUIRES=qt5-base
 REQUIRES=multimedia
