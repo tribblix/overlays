@@ -10,3 +10,7 @@ TRIBsmpeg2
 TRIBlibsdl2
 TRIBlibsdl2-mixer
 TRIBfreeciv
+TRIBlibltdl
+TRIBlibcanberra
+TRIBlibnotify
+TRIBpioneers
