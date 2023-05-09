@@ -17,6 +17,7 @@ TRIBjson-glib
 TRIBlibgxps
 TRIBtracker
 TRIBgupnp-tools
+TRIBlibunistring
 TRIBrygel
 TRIBlibsdl
 TRIBlibsdl2
