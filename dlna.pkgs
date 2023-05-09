@@ -11,6 +11,10 @@ TRIBgupnp-av
 TRIBgupnp-dlna
 TRIBlibgee
 TRIBlibmediaart
+TRIBlibarchive
+TRIBgiflib
+TRIBjson-glib
+TRIBlibgxps
 TRIBtracker
 TRIBgupnp-tools
 TRIBrygel
