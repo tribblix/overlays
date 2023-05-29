@@ -25,6 +25,7 @@ clang|2||
 cli-tools|16||
 cloud-clients|3||
 cloudsec|13||
+compression-utilities|1||
 dbus-glib|4||
 desktop-mail|4||
 desktop-publishing|5||
