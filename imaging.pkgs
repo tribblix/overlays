@@ -27,3 +27,7 @@ TRIBlibde265
 TRIBlibheif
 TRIBopenexr
 TRIBlibvips
+TRIBlibsndfile
+TRIBlibimagequant
+TRIBlibsamplerate
+TRIBpngquant
