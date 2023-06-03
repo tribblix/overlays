@@ -14,6 +14,8 @@ TRIBsmpeg2
 TRIBlibcdio-paranoia
 TRIBopenal
 TRIBmplayer
+TRIBlibsndfile
+TRIBlibsamplerate
 TRIBlibsdl2
 TRIBffmpeg
 TRIBlibid3tag

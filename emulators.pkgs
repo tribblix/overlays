@@ -1,5 +1,11 @@
 TRIBsimh
 TRIBffmpeg
+TRIBlibflac
+TRIBlibogg
+TRIBlibvorbis
+TRIBopus
+TRIBlibsndfile
+TRIBlibsamplerate
 TRIBlibsdl2
 TRIBopenal
 TRIBfs-uae

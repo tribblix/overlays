@@ -19,6 +19,8 @@ TRIBtracker
 TRIBgupnp-tools
 TRIBlibunistring
 TRIBrygel
+TRIBlibsndfile
+TRIBlibsamplerate
 TRIBlibsdl
 TRIBlibsdl2
 TRIBffmpeg

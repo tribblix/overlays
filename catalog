@@ -33,14 +33,14 @@ desktop-wallpaper|4||
 desktop|1||
 develop-extras|44||
 develop|44||
-dlna|3||
+dlna|4||
 dmarc|10||
 duplicity|4||
 e19|7||
 ec2-api-tools|2||
 ec2-baseline|5||
 ede|1||
-emulators|1||
+emulators|2||
 fortran|4||
 game-emulators|2||
 gapi|6||
@@ -75,7 +75,7 @@ language-extras|1||
 legacy-audio|1||
 legacy-services|1||
 libreoffice|6||
-lightweight-desktop|10||
+lightweight-desktop|11||
 live555|1||
 lumina|1||
 mate|18||
@@ -86,7 +86,7 @@ mosh|2||
 motif-apps-extras|3||
 motif-apps|2||
 motif|3||
-multimedia|9||
+multimedia|10||
 nameserver|1||
 networked-system|18||
 node-v16|1||
@@ -109,11 +109,11 @@ python37|1||
 python39|1||
 qemu|2||
 qt5-apps|6||
-qt5-base|9||
+qt5-base|10||
 qt5-extras|1||
 r|6||
 retro-desktop-extras|46||
-retro-desktop-games|9||
+retro-desktop-games|10||
 retro-desktop|55||
 retro-web|11||
 rsyslog|2||
@@ -141,7 +141,7 @@ vlc|8||
 webdev|10||
 wfuzz|4||
 wifi|2||
-wine|5||
+wine|6||
 x11-extras|9||
 x11-fonts|1||
 x11|27||

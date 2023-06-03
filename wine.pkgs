@@ -1,4 +1,6 @@
 TRIBlibsdl
+TRIBlibsndfile
+TRIBlibsamplerate
 TRIBlibsdl2
 TRIBffmpeg
 TRIBlib-lcms2

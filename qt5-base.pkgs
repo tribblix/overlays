@@ -8,6 +8,8 @@ TRIBcups
 TRIBdouble-conversion
 TRIBhunspell
 TRIBspelldict-en
+TRIBlibsndfile
+TRIBlibsamplerate
 TRIBlibsdl2
 TRIBgraphics-jasper
 TRIBlib-lcms2

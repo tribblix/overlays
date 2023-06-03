@@ -7,6 +7,8 @@ TRIBlibgnome-games
 TRIBtali
 TRIBtetravex
 TRIBsmpeg2
+TRIBlibsndfile
+TRIBlibsamplerate
 TRIBlibsdl2
 TRIBlibsdl2-mixer
 TRIBfreeciv
