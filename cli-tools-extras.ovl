@@ -1,0 +1,4 @@
+VERSION=1
+NAME=Extra CLI tools
+REQUIRES=compression-utilities
+REQUIRES=tls
