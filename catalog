@@ -81,7 +81,7 @@ live555|1||
 lumina|1||
 mate|18||
 modern-cli-tools|6||
-monitoring-extras|10||
+monitoring-extras|11||
 monitoring|10||
 mosh|2||
 motif-apps-extras|3||
@@ -123,7 +123,7 @@ samba|9||
 san-support|1||
 scala|5||
 scipy|1||
-security|24||
+security|25||
 server-manage|6||
 server|1||
 sphinx|6||

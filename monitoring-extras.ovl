@@ -1,4 +1,4 @@
-VERSION=10
+VERSION=11
 NAME=Additional monitoring utilities
 REQUIRES=monitoring
-REQUIRES=gtk3
+REQUIRES=qt5-base

@@ -12,6 +12,8 @@ TRIBlynis
 TRIBlibogg
 TRIBlibspeex
 TRIBsnappy
+TRIBbrotli
+TRIBlibcares
 TRIBwireshark
 TRIBlibyaml
 TRIBjansson

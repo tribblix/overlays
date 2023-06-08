@@ -2,7 +2,10 @@ TRIBlibogg
 TRIBlibspeex
 TRIBrrdtool
 TRIBsnappy
+TRIBbrotli
+TRIBlibcares
 TRIBwireshark
+TRIBwireshark-qt
 TRIBdiagnostic-powertop
 TRIBdiagnostic-latencytop
 TRIBdiagnostic-cpu-counters
