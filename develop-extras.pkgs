@@ -57,3 +57,4 @@ TRIBdebug-gdb
 TRIBv-python-27
 TRIBcpuid
 TRIBpatchutils
+TRIBflamegraph
