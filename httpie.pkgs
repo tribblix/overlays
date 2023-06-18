@@ -12,7 +12,8 @@ TRIBdefusedxml-python-311
 TRIBmultidict-python-311
 TRIBrequests-python-311
 TRIBrequests-tb-python-311
-TRIBcommonmark-python-311
+TRIBmdurl-python-311
+TRIBmarkdown-it-python-311
 TRIBpygments-311
 TRIBrich-python-311
 TRIBhttpie-python-311
