@@ -1,4 +1,4 @@
-VERSION=7
+VERSION=8
 NAME=Enlightenment E19
 REQUIRES=retro-desktop
 REQUIRES=gstreamer1
