@@ -1,4 +1,6 @@
 TRIBlibaudiofile
-TRIBlibsdl
+TRIBlibsndfile
+TRIBlibsamplerate
+TRIBlibsdl2
 TRIBlibspectrum
 TRIBspectrum-fuse
