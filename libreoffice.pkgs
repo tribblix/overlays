@@ -5,5 +5,10 @@ TRIBneon
 TRIBdconf
 TRIBlib-lcms2
 TRIBlibzmf
+TRIBlibrevenge
+TRIBboost
+TRIBlibvisio
+TRIBlibwpd
+TRIBlibwpg
 TRIBlibreoffice
 TRIBxdg-open
