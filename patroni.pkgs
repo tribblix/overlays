@@ -1,5 +1,5 @@
 TRIBtext-locale
-TRIBblix-postgres13
+TRIBblix-postgres15
 TRIBblix-etcd
 TRIBblix-haproxy
 TRIBlibyaml
