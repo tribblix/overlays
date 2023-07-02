@@ -23,6 +23,6 @@ TRIBpgpool
 TRIBpgback
 TRIBpgbarman
 TRIBpgformatter
-TRIBblix-plproxy13
-TRIBblix-repmgr13
-TRIBblix-slony13
+TRIBblix-plproxy15
+TRIBblix-repmgr15
+TRIBblix-slony15
