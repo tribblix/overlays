@@ -1,5 +1,5 @@
-VERSION=25
+VERSION=26
 NAME=Security tools
 REQUIRES=retro-desktop
-REQUIRES=python39
+REQUIRES=python311
 REQUIRES=wfuzz
