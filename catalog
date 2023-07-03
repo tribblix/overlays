@@ -32,7 +32,7 @@ desktop-mail|4||
 desktop-publishing|6||
 desktop-wallpaper|4||
 desktop|1||
-develop-extras|45||
+develop-extras|46||
 develop|44||
 dlna|4||
 dmarc|10||
@@ -125,7 +125,7 @@ scipy|1||
 security|26||
 server-manage|6||
 server|1||
-sphinx|6||
+sphinx|7||
 storage-nas|4||
 storage-server|10||
 tcl-tk|4||
