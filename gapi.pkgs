@@ -23,3 +23,7 @@ TRIBuritemplate-python-311
 TRIBgoogle-api-core-python-311
 TRIBgoogle-api-python-311
 TRIBgoogle-auth-python-311
+TRIBgoog-cloud-core-python-311
+TRIBgoogle-crc32c-python-311
+TRIBgoog-res-media-python-311
+TRIBgcs-python-311
