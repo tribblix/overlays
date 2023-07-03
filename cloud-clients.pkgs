@@ -1,9 +1,7 @@
-TRIBbcrypt-python-39
-TRIBcharset-norm-python-39
-TRIBpynacl-python-39
-TRIBparamiko-python-39
-TRIBrequests-python-39
-TRIBlibcloud-python-39
+TRIBbcrypt-python-311
+TRIBpynacl-python-311
+TRIBparamiko-python-311
+TRIBlibcloud-python-311
 TRIBs5cmd
 TRIBdoctl
 TRIBvultr-cli
