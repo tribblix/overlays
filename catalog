@@ -24,7 +24,7 @@ cde|2||
 clang|2||
 cli-tools-extras|1||
 cli-tools|16||
-cloud-clients|3||
+cloud-clients|4||
 cloudsec|13||
 compression-utilities|1||
 dbus-glib|4||
@@ -124,7 +124,7 @@ scala|5||
 scipy|1||
 security|26||
 server-manage|6||
-server|1||
+server|2||
 sphinx|7||
 storage-nas|4||
 storage-server|10||

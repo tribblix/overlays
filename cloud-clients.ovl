@@ -1,4 +1,4 @@
-VERSION=3
+VERSION=4
 NAME=Clients for interacting with clouds
 REQUIRES=awscli
-REQUIRE=gapi
+REQUIRES=gapi
