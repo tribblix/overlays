@@ -45,9 +45,9 @@ TRIBgperf
 TRIBpkg-config
 TRIBintltool
 TRIBninja
-TRIBtqdm-python-39
-TRIBmeson-python-39
-TRIBtoml-python-39
-TRIBsetup-scm-python-39
-TRIBwheel-python-39
+TRIBtqdm-python-311
+TRIBmeson-python-311
+TRIBtoml-python-311
+TRIBsetup-scm-python-311
+TRIBwheel-python-311
 TRIBtext-colordiff

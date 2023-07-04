@@ -23,7 +23,7 @@ borg|3||
 cde|2||
 clang|2||
 cli-tools-extras|1||
-cli-tools|16||
+cli-tools|17||
 cloud-clients|5||
 cloudsec|14||
 compression-utilities|1||
@@ -33,7 +33,7 @@ desktop-publishing|6||
 desktop-wallpaper|4||
 desktop|1||
 develop-extras|47||
-develop|44||
+develop|45||
 dlna|4||
 dmarc|10||
 duplicity|5||
