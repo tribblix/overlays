@@ -1,5 +1,6 @@
-VERSION=13
+VERSION=14
 NAME=Cloud Security Tools
 REQUIRES=awscli
 REQUIRES=gtk2
 REQUIRES=gtk3
+REQUIRES=python311

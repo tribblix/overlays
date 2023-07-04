@@ -11,7 +11,7 @@ all-xorg-drivers|7||
 amp-stack|12||
 autotools|3||
 awesome|2||
-awscli|8||
+awscli|9||
 backup-utilities|1||
 base-extras|28||
 base-iso|20||
@@ -25,7 +25,7 @@ clang|2||
 cli-tools-extras|1||
 cli-tools|16||
 cloud-clients|5||
-cloudsec|13||
+cloudsec|14||
 compression-utilities|1||
 dbus-glib|4||
 desktop-mail|4||
@@ -36,7 +36,7 @@ develop-extras|47||
 develop|44||
 dlna|4||
 dmarc|10||
-duplicity|4||
+duplicity|5||
 e19|8||
 ec2-api-tools|2||
 ec2-baseline|5||
@@ -102,7 +102,7 @@ patroni|17||
 pidgin|6||
 pkgsrc|3||
 plan9|1||
-postgres-utils|2||
+postgres-utils|3||
 postgres13|1||
 postgres15|1||
 python311|1||
