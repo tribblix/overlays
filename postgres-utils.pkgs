@@ -9,6 +9,8 @@ TRIBdateutil-python-311
 TRIBhumanize-python-311
 TRIBpsutil-python-311
 TRIBpsycopg2-311
+TRIBsnappy
+TRIBsnappy-python-311
 TRIBlib-perl-5-cgi
 TRIBlib-perl-5-dbd-pg
 TRIBlib-perl-5-dbi
