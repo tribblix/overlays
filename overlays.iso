@@ -28,7 +28,7 @@ kitchen-sink
 legacy-audio
 lightweight-desktop
 modern-cli-tools
-python39
+python311
 retro-desktop
 server
 server-manage

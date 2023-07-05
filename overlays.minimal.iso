@@ -12,5 +12,5 @@ cli-tools
 dbus-glib
 ec2-baseline
 pkgsrc
-python39
+python311
 usb-network-drivers

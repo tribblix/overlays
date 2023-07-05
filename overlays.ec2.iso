@@ -3,4 +3,4 @@ base-iso
 base
 cli-tools
 ec2-baseline
-python39
+python311
