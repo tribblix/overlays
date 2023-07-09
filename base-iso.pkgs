@@ -35,7 +35,6 @@ TRIBcompress-bzip2
 TRIBcompress-unzip
 TRIBsys-esu
 TRIBnet-ssh
-TRIBnet-ssh-ssh-key
 TRIBsvc-net-ssh
 TRIBsvc-picl
 TRIBsvc-resource-pools
