@@ -25,6 +25,9 @@ TRIBgnome-hicolor-icon-theme
 TRIBgnome-icon-theme
 TRIBv-palemoon
 TRIBlibao
+TRIBlibsndfile
+TRIBlibsamplerate
+TRIBlibtasn1
 TRIBrdesktop
 TRIBlibidn
 TRIBgpl-ghostscript
