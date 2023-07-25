@@ -69,7 +69,7 @@ java-prerequisite|7||
 java|35||
 java11|1||
 java17|1||
-java8|40||
+java8|41||
 jruby|4||
 kitchen-sink|16||
 language-extras|1||
@@ -96,7 +96,7 @@ node-v20|2||
 ocr|1||
 office-utilities|3||
 openexr|2||
-openjdk-build|6||
+openjdk-build|7||
 openlook|1||
 patroni|17||
 pidgin|6||

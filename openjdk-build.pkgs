@@ -3,6 +3,4 @@ TRIBsvc-net-dns-mdns
 TRIBcups
 TRIBgnutls
 TRIBnettle
-TRIBsys-lib-cpp-sunpro
-TRIBsunstudio-il-build
 TRIBv-apache-ant-110
