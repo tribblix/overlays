@@ -1,12 +1,12 @@
 TRIBboehm-gc
+TRIBboost
 TRIBlibsigcpp
 TRIBlib-glibmm
 TRIBlib-desktop-cairomm
 TRIBlib-desktop-pangomm
 TRIBlib-desktop-atkmm
-TRIBlib-desktop-gtkmm
+TRIBlib-desktop-gtkmm3
 TRIBlibgsl
-TRIBlibpopt
 TRIBlibxslt
-TRIBgtkspell
+TRIBpotrace
 TRIBinkscape
