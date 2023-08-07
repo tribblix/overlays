@@ -10,7 +10,6 @@ TRIBpycparser-python-311
 TRIBcffi-python-311
 TRIBbrotli-python-311
 TRIBcryptography-python-311
-TRIBrequests-tb-python-311
 TRIBdnspython-python-311
 TRIBidna-python-311
 TRIBpyopenssl-311

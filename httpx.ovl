@@ -1,0 +1,3 @@
+NAME=httpx
+VERSION=1
+REQUIRES=python311
