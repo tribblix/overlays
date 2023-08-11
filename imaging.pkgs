@@ -31,4 +31,6 @@ TRIBlibsndfile
 TRIBlibimagequant
 TRIBlibsamplerate
 TRIBpngquant
+TRIBoptipng
+TRIBjpegoptim
 TRIBgeeqie
