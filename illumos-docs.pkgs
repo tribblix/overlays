@@ -26,6 +26,8 @@ TRIBpyyaml-env-python-311
 TRIBwatchdog-python-311
 TRIBpyparsing-python-311
 TRIBpackaging-python-311
+TRIBpathspec-python-311
+TRIBplatformdirs-python-311
 TRIBmkdocs-python-311
 TRIBmkdocs-material-python-311
 TRIBmarkdown-inc-python-311
