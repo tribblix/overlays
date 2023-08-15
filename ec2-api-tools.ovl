@@ -1,5 +1,0 @@
-VERSION=2
-NAME=EC2 API tools
-REQUIRES=cli-tools
-REQUIRES=awscli
-REQUIRES=java
