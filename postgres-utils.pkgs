@@ -17,6 +17,7 @@ TRIBlib-perl-5-dbi
 TRIBlib-perl-5-dbix-safe
 TRIBlib-perl-5-encode-locale
 TRIBlib-perl-5-text-csv-xs
+TRIBjson-c
 TRIBbucardo
 TRIBpgactivity
 TRIBpgbadger
