@@ -18,7 +18,6 @@ TRIBsys-data-hardware-registry
 TRIBsys-file-system-udfs
 TRIBsys-xopen-xcu4
 TRIBsys-xopen-xcu6
-TRIBtext-doctools
 TRIBtext-gnu-sed
 TRIBtext-gnu-grep
 TRIBblix-zones
