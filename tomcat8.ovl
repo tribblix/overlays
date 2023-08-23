@@ -1,3 +1,0 @@
-VERSION=1
-NAME=Tomcat 8 servlet container
-REQUIRES=java
