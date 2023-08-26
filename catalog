@@ -79,9 +79,9 @@ libreoffice|8||
 lightweight-desktop|12||
 live555|1||
 lumina|1||
-mate|18||
+mate|19||
 modern-cli-tools|6||
-monitoring-extras|11||
+monitoring-extras|12||
 monitoring|10||
 mosh|3||
 motif-apps-extras|3||
@@ -111,7 +111,7 @@ qt5-apps|6||
 qt5-base|10||
 qt5-extras|1||
 r|6||
-retro-desktop-extras|50||
+retro-desktop-extras|51||
 retro-desktop-games|11||
 retro-desktop|56||
 retro-web|11||
@@ -125,8 +125,8 @@ security|26||
 server-manage|6||
 server|2||
 sphinx|7||
-storage-nas|4||
-storage-server|10||
+storage-nas|5||
+storage-server|11||
 tcl-tk|4||
 tilde|1||
 tls|2||
@@ -144,6 +144,6 @@ wine|6||
 x11-extras|9||
 x11-fonts|1||
 x11|27||
-xfce-extras|14||
+xfce-extras|15||
 xfce|20||
 zabbix-server|13||

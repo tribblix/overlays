@@ -1,4 +1,4 @@
-VERSION=11
-NAME=Additional monitoring utilities
+VERSION=12
+NAME=Extra Monitoring Utilities
 REQUIRES=monitoring
 REQUIRES=qt5-base

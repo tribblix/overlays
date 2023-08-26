@@ -1,5 +1,5 @@
-VERSION=50
-NAME=Additional Desktop Environments and Utilities
+VERSION=51
+NAME=Extra Desktop Environments and Utilities
 REQUIRES=retro-desktop
 REQUIRES=i3
 REQUIRES=pidgin

@@ -1,5 +1,5 @@
-VERSION=18
-NAME=MATE desktop applications
+VERSION=19
+NAME=The MATE Desktop
 REQUIRES=gtk3
 REQUIRES=retro-desktop
 REQUIRES=gstreamer1
