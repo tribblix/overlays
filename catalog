@@ -1,13 +1,13 @@
 abiword|9||
-all-1394-drivers|1||
+all-1394-drivers|2||
 all-audio-drivers|2||
-all-crypto-drivers|1||
+all-crypto-drivers|2||
 all-fabric-drivers|2||
 all-locales|1||
 all-network-drivers|8||
-all-serial-drivers|1||
+all-serial-drivers|2||
 all-storage-drivers|6||
-all-xorg-drivers|7||
+all-xorg-drivers|8||
 amp-stack|12||
 autotools|3||
 awesome|2||
