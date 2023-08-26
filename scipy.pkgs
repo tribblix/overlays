@@ -22,3 +22,16 @@ TRIBopenpyxl-python-311
 TRIBpyxlsb-python-311
 TRIBxlsxwriter-python-311
 TRIBodfpy-python-311
+TRIBgiflib
+TRIBimage-libjpeg
+TRIBimage-libtiff
+TRIBlib-lcms2
+TRIBlib-openjpeg
+TRIBlibwebp
+TRIBcontourpy-python-311
+TRIBcycler-python-311
+TRIBfonttools-python-311
+TRIBkiwisolver-python-311
+TRIBpillow-python-311
+TRIBpyparsing-python-311
+TRIBmatplotlib-python-311
