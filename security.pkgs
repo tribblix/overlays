@@ -44,3 +44,4 @@ TRIBcrtsh
 TRIBffuf
 TRIBgitleaks
 TRIBosv-scanner
+TRIBshellcheck
