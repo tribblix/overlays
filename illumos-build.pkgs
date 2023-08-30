@@ -25,7 +25,6 @@ TRIBpycparser-python-311
 TRIBpyopenssl-311
 TRIBrapidjson-python-311
 TRIBsimplejson-python-311
-TRIBimportlib-python-311
 TRIBmore-itertools-python-311
 TRIBzipp-python-311
 TRIBdev-pkg5
