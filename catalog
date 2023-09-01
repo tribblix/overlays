@@ -32,7 +32,7 @@ desktop-mail|4||
 desktop-publishing|6||
 desktop-wallpaper|4||
 desktop|1||
-develop-extras|48||
+develop-extras|49||
 develop|47||
 dlna|4||
 dmarc|11||
@@ -57,8 +57,8 @@ gtk3|6||
 httpie|4||
 httpx|1||
 i3|5||
-illumos-build|35||
-illumos-docs|13||
+illumos-build|36||
+illumos-docs|14||
 imaging|18||
 inkscape|7||
 java-desktop|5||
@@ -124,7 +124,7 @@ scipy|4||
 security|27||
 server-manage|6||
 server|2||
-sphinx|7||
+sphinx|8||
 storage-nas|5||
 storage-server|11||
 tcl-tk|4||

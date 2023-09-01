@@ -37,7 +37,6 @@ TRIBa2ps
 TRIBdateutils
 TRIBlibxml2-python-311
 TRIBdocutils-python-311
-TRIBmore-itertools-python-311
 TRIBzipp-python-311
 TRIBdistlib-python-311
 TRIBfilelock-python-311
