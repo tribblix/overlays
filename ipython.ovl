@@ -1,0 +1,3 @@
+NAME=IPython - An enhanced Interactive Python
+VERSION=1
+REQUIRES=python311
