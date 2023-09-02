@@ -1,4 +1,4 @@
 NAME=Scipy, numpy, pandas and friends
-VERSION=4
+VERSION=5
 REQUIRES=python311
 REQUIRES=fortran
