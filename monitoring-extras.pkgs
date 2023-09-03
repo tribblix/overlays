@@ -11,6 +11,5 @@ TRIBdiagnostic-latencytop
 TRIBdiagnostic-cpu-counters
 TRIBnet-ipd
 TRIBnet-snmp
-TRIBmbrowse
 TRIBlibssh
 TRIBiftop
