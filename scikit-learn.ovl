@@ -1,0 +1,3 @@
+NAME=scikit-learn, Machine Learning in Python
+VERSION=1
+REQUIRES=scipy
