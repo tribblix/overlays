@@ -25,7 +25,7 @@ clang|2||
 cli-tools-extras|1||
 cli-tools|17||
 cloud-clients|5||
-cloudsec|14||
+cloudsec|15||
 compression-utilities|1||
 dbus-glib|4||
 desktop-mail|4||
@@ -100,7 +100,7 @@ patroni|18||
 pidgin|6||
 pkgsrc|3||
 plan9|1||
-postgres-utils|5||
+postgres-utils|6||
 postgres13|1||
 postgres15|1||
 python311|1||
