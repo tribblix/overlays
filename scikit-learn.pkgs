@@ -15,5 +15,9 @@ TRIBpillow-python-311
 TRIBpyparsing-python-311
 TRIBjoblib-python-311
 TRIBmatplotlib-python-311
+TRIBpytz-python-311
+TRIBtzdata-python-311
+TRIBpandas-python-311
+TRIBseaborn-python-311
 TRIBthreadpoolctl-python-311
 TRIBscikit-learn-python-311
