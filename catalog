@@ -96,6 +96,7 @@ ocr|2||
 office-utilities|3||
 openjdk-build|7||
 openlook|1||
+pandas|1||
 patroni|18||
 pidgin|6||
 pkgsrc|3||
@@ -119,7 +120,7 @@ s3-utilities|13||
 samba|9||
 san-support|1||
 scala|5||
-scipy|5||
+scipy|6||
 security|27||
 server-manage|6||
 server|2||

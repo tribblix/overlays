@@ -1,0 +1,4 @@
+NAME=Pandas, with extra modules
+VERSION=1
+REQUIRES=python311
+REQUIRES=fortran
