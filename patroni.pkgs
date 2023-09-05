@@ -1,7 +1,7 @@
 TRIBtext-locale
 TRIBblix-postgres15
 TRIBblix-etcd
-TRIBblix-haproxy
+TRIBblix-haproxy2
 TRIBlibyaml
 TRIByaml-python-311
 TRIBcertifi-python-311
