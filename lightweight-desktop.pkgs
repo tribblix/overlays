@@ -22,6 +22,8 @@ TRIBlibsndfile
 TRIBopus
 TRIBopusfile
 TRIBffmpeg
+TRIBlibid3tag
+TRIBlibmad
 TRIBsox
 TRIBimagination
 TRIBbluefish
