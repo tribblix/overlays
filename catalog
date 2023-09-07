@@ -105,7 +105,6 @@ postgres-utils|6||
 postgres13|1||
 postgres15|1||
 python311|1||
-python39|1||
 qemu|2||
 qt5-apps|6||
 qt5-base|10||
