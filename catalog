@@ -51,9 +51,9 @@ gnupg2|3||
 go|18||
 graphical|2||
 groovy|6||
-gstreamer1|8||
-gtk2|1||
-gtk3|6||
+gstreamer1|9||
+gtk2|2||
+gtk3|7||
 httpie|4||
 httpx|1||
 i3|5||
@@ -92,7 +92,7 @@ nameserver|1||
 networked-system|18||
 node-v18|2||
 node-v20|2||
-ocr|2||
+ocr|3||
 office-utilities|3||
 openjdk-build|7||
 openlook|1||

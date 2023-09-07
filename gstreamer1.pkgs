@@ -12,6 +12,7 @@ TRIBopus
 TRIBglib-networking
 TRIBlibicu
 TRIBfribidi
+TRIBlibgraphite2
 TRIBharfbuzz
 TRIBgdk-pixbuf
 TRIBlib-desktop-cairo
