@@ -36,7 +36,7 @@ develop-extras|49||
 develop|47||
 dlna|4||
 dmarc|11||
-duplicity|5||
+duplicity|6||
 e19|8||
 ec2-baseline|5||
 ede|1||
@@ -58,7 +58,7 @@ httpie|4||
 httpx|1||
 i3|5||
 illumos-build|36||
-illumos-docs|14||
+illumos-docs|15||
 imaging|18||
 inkscape|7||
 ipython|1||
@@ -139,7 +139,7 @@ usb-network-drivers|1||
 vlc|8||
 webdev|11||
 website-generators|1||
-wfuzz|4||
+wfuzz|5||
 wifi|2||
 wine|6||
 x11-extras|9||
