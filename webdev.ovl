@@ -1,4 +1,4 @@
-VERSION=11
+VERSION=12
 NAME=Some web development utilities
 REQUIRES=develop
 REQUIRES=gimp

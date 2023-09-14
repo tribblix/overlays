@@ -22,7 +22,7 @@ boot-server|7||
 borg|3||
 cde|2||
 clang|2||
-cli-tools-extras|1||
+cli-tools-extras|2||
 cli-tools|17||
 cloud-clients|5||
 cloudsec|15||
@@ -110,7 +110,7 @@ qt5-apps|6||
 qt5-base|10||
 qt5-extras|1||
 r|6||
-retro-desktop-extras|51||
+retro-desktop-extras|52||
 retro-desktop-games|12||
 retro-desktop|56||
 retro-web|11||
@@ -137,12 +137,12 @@ tribblix-tools|5||
 tuxpaint|1||
 usb-network-drivers|1||
 vlc|8||
-webdev|11||
+webdev|12||
 website-generators|1||
 wfuzz|5||
 wifi|2||
 wine|6||
-x11-extras|10||
+x11-extras|11||
 x11-fonts|1||
 x11|27||
 xfce-extras|15||
