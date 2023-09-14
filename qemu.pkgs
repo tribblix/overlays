@@ -1,3 +1,14 @@
+TRIBlibflac
+TRIBlibogg
+TRIBlibvorbis
+TRIBopus
+TRIBlibsndfile
+TRIBlibsamplerate
+TRIBlibssh
+TRIBlibxkbcommon
+TRIBvte
+TRIBlibsdl2
+TRIBlibsdl2-image
+TRIBlibslirp
 TRIBqemu
-TRIBlibsdl
 TRIBsnappy
