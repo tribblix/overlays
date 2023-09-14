@@ -19,3 +19,5 @@ TRIBdrv-net-sdp
 TRIBdrv-net-sdpib
 TRIBdrv-net-srpt
 TRIBdrv-net-tavor
+TRIBsys-net-udapl-udapl-tavor
+TRIBsys-net-udapl

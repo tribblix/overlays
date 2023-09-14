@@ -2,7 +2,7 @@ abiword|9||
 all-1394-drivers|2||
 all-audio-drivers|2||
 all-crypto-drivers|2||
-all-fabric-drivers|2||
+all-fabric-drivers|3||
 all-locales|1||
 all-network-drivers|8||
 all-serial-drivers|2||
