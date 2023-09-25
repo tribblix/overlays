@@ -1,0 +1,5 @@
+VERSION=1
+NAME=Print Services
+SERVICE=svc:/application/cups/scheduler:default
+SERVICE=svc:/application/cups/in-lpd:default
+REQUIRES=gimp
