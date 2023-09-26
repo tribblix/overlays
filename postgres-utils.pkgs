@@ -24,6 +24,5 @@ TRIBpgpool
 TRIBpgback
 TRIBpgbarman
 TRIBpgformatter
-TRIBblix-plproxy15
 TRIBblix-repmgr15
 TRIBblix-slony15
