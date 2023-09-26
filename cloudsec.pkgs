@@ -9,6 +9,9 @@ TRIBimage-librsvg
 TRIBmore-itertools-python-311
 TRIBpoppler
 TRIBtk
+TRIBlibde265
+TRIBlibheif
+TRIBlibimagequant
 TRIBlibgd
 TRIBgiflib
 TRIBlibwebp

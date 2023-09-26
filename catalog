@@ -25,7 +25,7 @@ clang|2||
 cli-tools-extras|2||
 cli-tools|17||
 cloud-clients|5||
-cloudsec|15||
+cloudsec|16||
 compression-utilities|1||
 dbus-glib|4||
 desktop-mail|4||
@@ -49,7 +49,7 @@ gimp|7||
 gnumeric|5||
 gnupg2|3||
 go|18||
-graphical|2||
+graphical|3||
 groovy|6||
 gstreamer1|9||
 gtk2|2||
@@ -138,7 +138,7 @@ tribblix-tools|5||
 tuxpaint|1||
 usb-network-drivers|1||
 vlc|8||
-webdev|12||
+webdev|13||
 website-generators|1||
 wfuzz|5||
 wifi|2||
