@@ -107,13 +107,13 @@ postgres15|1||
 printing|1||
 python311|1||
 qemu|3||
-qt5-apps|6||
+qt5-apps|7||
 qt5-base|10||
 qt5-extras|2||
 r|6||
 retro-desktop-extras|52||
 retro-desktop-games|12||
-retro-desktop|56||
+retro-desktop|57||
 retro-web|11||
 rsyslog|2||
 s3-utilities|13||
