@@ -23,15 +23,12 @@ TRIBargcomplete-python-311
 TRIBboto3-python-311
 TRIBimportlib-python-311
 TRIBjsonschema-python-311
-TRIBnetaddr-python-311
-TRIBopinel-python-311
 TRIBpackaging-python-311
 TRIBpydot-python-311
 TRIBtabulate-python-311
 TRIBc7n-python-311
 TRIBipgw-python-311
 TRIBpmapper-python-311
-TRIBscout2-python-311
 TRIBgibberish-det-python-311
 TRIBdetect-secrets-python-311
 TRIBjq
