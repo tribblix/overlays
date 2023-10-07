@@ -1,4 +1,4 @@
-VERSION=9
+VERSION=10
 NAME=LibreOffice Office Suite
 REQUIRES=gstreamer1
 REQUIRES=gtk3

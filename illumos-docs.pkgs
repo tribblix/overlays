@@ -26,5 +26,17 @@ TRIBpackaging-python-311
 TRIBpathspec-python-311
 TRIBplatformdirs-python-311
 TRIBmkdocs-python-311
+TRIBcolorama-python-311
+TRIBpaginate-python-311
+TRIBbrotli-python-311
+TRIBpycparser-python-311
+TRIBcffi-python-311
+TRIBcharset-norm-python-311
+TRIBcryptography-python-311
+TRIBidna-python-311
+TRIBpyopenssl-311
+TRIBpysocks-python-311
+TRIBurllib3-python-311
+TRIBrequests-python-311
 TRIBmkdocs-material-python-311
 TRIBmarkdown-inc-python-311
