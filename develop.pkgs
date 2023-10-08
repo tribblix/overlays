@@ -46,7 +46,8 @@ TRIBintltool
 TRIBninja
 TRIBtqdm-python-311
 TRIBmeson-python-311
-TRIBtoml-python-311
+TRIBpackaging-python-311
+TRIBtyping-ext-python-311
 TRIBsetup-scm-python-311
 TRIBwheel-python-311
 TRIBtext-colordiff
