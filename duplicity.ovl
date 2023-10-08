@@ -1,4 +1,4 @@
 NAME=Duplicity backup
-VERSION=6
+VERSION=7
 REQUIRES=python311
 REQUIRES=awscli

@@ -7,4 +7,7 @@ TRIBfasteners-python-311
 TRIBlibrsync
 TRIBparamiko-python-311
 TRIBrequests-python-311
+TRIBpackaging-python-311
+TRIBtyping-ext-python-311
+TRIBsetup-scm-python-311
 TRIBduplicity-python-311
