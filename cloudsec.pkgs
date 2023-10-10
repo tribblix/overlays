@@ -22,7 +22,11 @@ TRIBzipp-python-311
 TRIBargcomplete-python-311
 TRIBboto3-python-311
 TRIBimportlib-python-311
-TRIBjsonschema-python-311
+TRIBattrs-python-311
+TRIBjsonschema-spec-python-311
+TRIBreferencing-python-311
+TRIBrpds-py-python-311
+TRIBjsonschema4-python-311
 TRIBpackaging-python-311
 TRIBpydot-python-311
 TRIBtabulate-python-311
