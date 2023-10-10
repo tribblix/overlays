@@ -1,6 +1,9 @@
 TRIBbcrypt-python-311
 TRIBcharset-norm-python-311
 TRIBlibpopt
+TRIBncftp
+TRIBrclone
+TRIBrsync
 TRIBpynacl-python-311
 TRIBboto3-python-311
 TRIBfasteners-python-311
