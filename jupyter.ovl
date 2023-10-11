@@ -1,0 +1,3 @@
+NAME=JupyterLab and the Jupyter Notebook
+VERSION=1
+REQUIRES=python311
