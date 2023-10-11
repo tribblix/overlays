@@ -16,8 +16,6 @@ TRIBbrotli
 TRIBlibcares
 TRIBwireshark
 TRIBlibyaml
-TRIBjansson
-TRIBsuricata
 TRIBlib-perl-5-net-ssleay
 TRIBnikto
 TRIBlibssh
