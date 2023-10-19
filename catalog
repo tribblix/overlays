@@ -70,7 +70,7 @@ java-prerequisite|7||
 java|35||
 java11|1||
 java17|1||
-java8|41||
+java8|42||
 jruby|4||
 jupyter|1||
 kitchen-sink|16||
