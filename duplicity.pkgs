@@ -8,6 +8,7 @@ TRIBpynacl-python-311
 TRIBboto3-python-311
 TRIBfasteners-python-311
 TRIBlibrsync
+TRIBinvoke-python-311
 TRIBparamiko-python-311
 TRIBrequests-python-311
 TRIBpackaging-python-311

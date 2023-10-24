@@ -9,6 +9,7 @@ TRIBconfigobj-python-311
 TRIBbcrypt-python-311
 TRIBpyasn1-python-311
 TRIBpynacl-python-311
+TRIBinvoke-python-311
 TRIBparamiko-python-311
 TRIBdulwich-python-311
 TRIBcython-python-311
