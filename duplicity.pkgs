@@ -4,6 +4,7 @@ TRIBlibpopt
 TRIBncftp
 TRIBrclone
 TRIBrsync
+TRIBlibsodium
 TRIBpynacl-python-311
 TRIBboto3-python-311
 TRIBfasteners-python-311
