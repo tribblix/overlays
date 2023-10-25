@@ -1,4 +1,4 @@
-VERSION=9
+VERSION=10
 NAME=GStreamer 1.0 and codecs
 REQUIRES=x11
 REQUIRES=gtk3
