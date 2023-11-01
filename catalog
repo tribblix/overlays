@@ -79,7 +79,7 @@ legacy-audio|1||
 libreoffice|10||
 lightweight-desktop|13||
 live555|1||
-lumina|1||
+lumina|2||
 mate|19||
 modern-cli-tools|8||
 monitoring-extras|13||
@@ -145,7 +145,7 @@ website-generators|1||
 wfuzz|5||
 wifi|2||
 wine|6||
-x11-extras|11||
+x11-extras|12||
 x11-fonts|1||
 x11|27||
 xfce-extras|15||

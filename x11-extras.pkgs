@@ -13,6 +13,17 @@ TRIBx11-xfontsel
 TRIBx11-xwd
 TRIBx11-colormap-utilities
 TRIBxboing
+TRIBlibidn
+TRIBgdk-pixbuf
+TRIBgpl-ghostscript
+TRIBgraphics-jasper
+TRIBlib-lcms2
+TRIBlibde265
+TRIBlib-openjpeg
+TRIBlibheif
+TRIBlibraw
+TRIBlibspectre
+TRIBlibwebp
 TRIBgiflib
 TRIBlibid3tag
 TRIBimlib2
