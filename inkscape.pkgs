@@ -1,5 +1,6 @@
 TRIBboehm-gc
 TRIBboost
+TRIBdouble-conversion
 TRIBlibsigcpp
 TRIBlib-glibmm
 TRIBlib-desktop-cairomm

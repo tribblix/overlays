@@ -1,4 +1,4 @@
-VERSION=7
+VERSION=8
 NAME=Inkscape
 REQUIRES=retro-desktop
 REQUIRES=office-utilities
