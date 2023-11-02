@@ -6,7 +6,9 @@ TRIBlibzip
 TRIBsys-lib-freetype-2
 TRIBbrotli
 TRIBblix-apache-24
-TRIBblix-mysql-56
+TRIBlibedit
+TRIBsnappy
+TRIBblix-mariadb
 TRIBblix-php-8
 TRIBtext-gawk
 TRIBdehydrated
