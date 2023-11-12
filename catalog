@@ -108,7 +108,7 @@ postgres13|1||
 postgres15|1||
 printing|2||
 python311|1||
-qemu|3||
+qemu|4||
 qt5-apps|7||
 qt5-base|10||
 qt5-extras|2||
@@ -137,7 +137,7 @@ tls|2||
 tomcat10|1||
 tomcat9|1||
 tribblix-tools|5||
-tuxpaint|1||
+tuxpaint|2||
 usb-network-drivers|1||
 vlc|9||
 webdev|13||

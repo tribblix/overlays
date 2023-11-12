@@ -11,6 +11,8 @@ TRIBlibimagequant
 TRIBlibpaper
 TRIBlibsdl2
 TRIBlibsdl2-gfx
+TRIBgiflib
+TRIBlibwebp
 TRIBlibsdl2-image
 TRIBlibsdl2-mixer
 TRIBlibsdl2-pango

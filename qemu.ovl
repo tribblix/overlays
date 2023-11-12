@@ -1,4 +1,4 @@
-VERSION=3
+VERSION=4
 NAME=QEMU machine emulator
 REQUIRES=gtk3
 REQUIRES=tls

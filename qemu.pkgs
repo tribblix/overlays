@@ -8,6 +8,8 @@ TRIBlibssh
 TRIBlibxkbcommon
 TRIBvte
 TRIBlibsdl2
+TRIBgiflib
+TRIBlibwebp
 TRIBlibsdl2-image
 TRIBlibslirp
 TRIBqemu
