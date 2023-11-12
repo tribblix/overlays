@@ -14,6 +14,10 @@ TRIBlibsdl2-gfx
 TRIBgiflib
 TRIBlibwebp
 TRIBlibsdl2-image
+TRIBlibmodplug
+TRIBopenal
+TRIBmpg123
+TRIBopusfile
 TRIBlibsdl2-mixer
 TRIBlibsdl2-pango
 TRIBlibsdl2-ttf

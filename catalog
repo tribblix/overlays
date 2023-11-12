@@ -114,7 +114,7 @@ qt5-base|10||
 qt5-extras|2||
 r|6||
 retro-desktop-extras|53||
-retro-desktop-games|13||
+retro-desktop-games|14||
 retro-desktop|58||
 retro-web|11||
 rsyslog|3||
@@ -137,7 +137,7 @@ tls|2||
 tomcat10|1||
 tomcat9|1||
 tribblix-tools|5||
-tuxpaint|2||
+tuxpaint|3||
 usb-network-drivers|1||
 vlc|9||
 webdev|13||

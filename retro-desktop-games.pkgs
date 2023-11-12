@@ -11,6 +11,10 @@ TRIBsmpeg2
 TRIBlibsndfile
 TRIBlibsamplerate
 TRIBlibsdl2
+TRIBlibmodplug
+TRIBopenal
+TRIBmpg123
+TRIBopusfile
 TRIBlibsdl2-mixer
 TRIBfreeciv
 TRIBlibltdl
