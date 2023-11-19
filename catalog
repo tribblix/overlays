@@ -51,7 +51,7 @@ gnupg2|3||
 go|18||
 graphical|3||
 groovy|6||
-gstreamer1|10||
+gstreamer1|11||
 gtk2|2||
 gtk3|7||
 httpie|4||
@@ -114,7 +114,7 @@ qt5-extras|2||
 r|6||
 retro-desktop-extras|53||
 retro-desktop-games|14||
-retro-desktop|58||
+retro-desktop|59||
 retro-web|11||
 rsyslog|3||
 s3-utilities|13||

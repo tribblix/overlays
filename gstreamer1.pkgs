@@ -17,6 +17,12 @@ TRIBgdk-pixbuf
 TRIBlib-desktop-cairo
 TRIBlib-desktop-pango
 TRIBlibvisual
+TRIBlibsndfile
+TRIBlibsamplerate
+TRIBlibsdl2
+TRIBopenal
+TRIBmpg123
+TRIBtaglib
 TRIBgstreamer1
 TRIBgstreamer1-plugins-base
 TRIBgstreamer1-plugins-good
