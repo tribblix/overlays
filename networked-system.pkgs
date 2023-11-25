@@ -8,8 +8,8 @@ TRIBsys-security-kerberos-5
 TRIBsys-lib-security-gss-spnego
 TRIBsys-lib-security-gss-dh
 TRIBsys-lib-security-rpcsec
+TRIBlibicu
 TRIBsvc-net-smtp-sendmail
-TRIBsys-net-mailwrapper
 TRIBsys-libutempter
 TRIBscreen
 TRIBtmux
