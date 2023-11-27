@@ -1,4 +1,4 @@
-VERSION=7
+VERSION=8
 NAME=Boot/install server
 SERVICE=svc:/network/tftp/udp6:default
 SERVICE=svc:/network/rarp:default

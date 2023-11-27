@@ -18,7 +18,7 @@ base-iso|21||
 base|46||
 benchmark|1||
 bhyve|9||
-boot-server|7||
+boot-server|8||
 borg|3||
 cde|2||
 clang|2||

@@ -5,4 +5,4 @@ TRIBimage-libjpeg
 TRIBimage-libpng
 TRIBsvc-net-tftp
 TRIBsys-boot-net
-TRIBdhcp-server
+TRIBdnsmasq
