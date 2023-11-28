@@ -10,11 +10,14 @@ TRIBpsycopg2-311
 TRIBsnappy
 TRIBsnappy-python-311
 TRIBlib-perl-5-cgi
+TRIBlib-perl-5-common-sense
 TRIBlib-perl-5-dbd-pg
 TRIBlib-perl-5-dbi
 TRIBlib-perl-5-dbix-safe
 TRIBlib-perl-5-encode-locale
+TRIBlib-perl-5-json-xs
 TRIBlib-perl-5-text-csv-xs
+TRIBlib-perl-5-types-serialiser
 TRIBjson-c
 TRIBbucardo
 TRIBpgactivity
