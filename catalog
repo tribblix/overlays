@@ -9,7 +9,7 @@ all-serial-drivers|2||
 all-storage-drivers|6||
 all-xorg-drivers|8||
 amp-stack|13||
-autotools|4||
+autotools|5||
 awesome|2||
 awscli|9||
 backup-utilities|1||
@@ -27,7 +27,7 @@ cli-tools|17||
 cloud-clients|7||
 cloudsec|18||
 compression-utilities|1||
-dbus-glib|4||
+dbus-glib|5||
 desktop-mail|5||
 desktop-publishing|6||
 desktop-wallpaper|4||
@@ -105,9 +105,9 @@ pidgin|6||
 pkgsrc|3||
 plan9|1||
 postgres-utils|8||
-postgres15|1||
+postgres15|2||
 printing|2||
-python311|1||
+python311|2||
 qemu|4||
 qt5-apps|8||
 qt5-base|10||
@@ -129,10 +129,10 @@ security|28||
 server-manage|6||
 server|2||
 sphinx|8||
-storage-nas|5||
+storage-nas|6||
 storage-server|11||
 tcl-tk|4||
-tilde|1||
+tilde|2||
 tls|2||
 tomcat10|1||
 tomcat9|1||
@@ -147,7 +147,7 @@ wifi|2||
 wine|6||
 x11-extras|12||
 x11-fonts|1||
-x11|27||
+x11|28||
 xfce-extras|15||
 xfce|22||
 zabbix-server|13||

@@ -2,6 +2,7 @@ TRIBlib-expat
 TRIBlibffi
 TRIBsys-lib-dbus
 TRIBsys-libdbus
+TRIBlib-pcre
 TRIBlib-glib2
 TRIBsys-libdbus-glib
 TRIBsys-lib-dbus-dbus-x11
