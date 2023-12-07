@@ -5,8 +5,6 @@ TRIBsvc-net-dns-mdns
 TRIBsvc-file-system-nfs
 TRIBbind9
 TRIBsys-security-kerberos-5
-TRIBsys-lib-security-gss-spnego
-TRIBsys-lib-security-gss-dh
 TRIBsys-lib-security-rpcsec
 TRIBlibicu
 TRIBsvc-net-smtp-sendmail
