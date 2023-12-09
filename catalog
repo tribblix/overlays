@@ -6,7 +6,7 @@ all-fabric-drivers|3||
 all-locales|1||
 all-network-drivers|8||
 all-serial-drivers|2||
-all-storage-drivers|6||
+all-storage-drivers|7||
 all-xorg-drivers|8||
 amp-stack|13||
 autotools|5||
