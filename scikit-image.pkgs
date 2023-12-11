@@ -15,6 +15,7 @@ TRIBimage-libtiff
 TRIBimagecodecs-python-311
 TRIBlib-lcms2
 TRIBlib-openjpeg
+TRIBlibimagequant
 TRIBlibwebp
 TRIBmatplotlib-python-311
 TRIBpandas-python-311

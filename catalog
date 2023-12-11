@@ -97,7 +97,7 @@ ocr|3||
 office-utilities|3||
 openjdk-build|7||
 openlook|1||
-pandas|2||
+pandas|3||
 patroni|20||
 pelican|1||
 perl-developer|1||
@@ -122,8 +122,8 @@ s3-utilities|13||
 samba|9||
 san-support|1||
 scala|5||
-scikit-image|1||
-scikit-learn|2||
+scikit-image|2||
+scikit-learn|3||
 scipy|6||
 security|28||
 server-manage|6||

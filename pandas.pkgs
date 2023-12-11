@@ -26,6 +26,7 @@ TRIBimage-libjpeg
 TRIBimage-libtiff
 TRIBlib-lcms2
 TRIBlib-openjpeg
+TRIBlibimagequant
 TRIBlibwebp
 TRIBcontourpy-python-311
 TRIBcycler-python-311
