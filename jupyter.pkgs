@@ -93,3 +93,6 @@ TRIBjupyterlab-srv-python-311
 TRIBnotebook-shim-python-311
 TRIBtornado-python-311
 TRIBnotebook-python-311
+TRIBjupyterlab-wdgts-python-311
+TRIBwdgtsnbextension-python-311
+TRIBipywidgets-python-311
