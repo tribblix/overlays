@@ -4,6 +4,7 @@ TRIBlibcroco
 TRIBlibidn
 TRIBtcl
 TRIBcharset-norm-python-311
+TRIBcups
 TRIBgpl-ghostscript
 TRIBimage-librsvg
 TRIBmore-itertools-python-311

@@ -3,6 +3,7 @@ TRIBdev-astdev
 TRIBdev-build-onbld
 TRIBlib-lcms2
 TRIBlibidn
+TRIBcups
 TRIBgpl-ghostscript
 TRIBnet-snmp
 TRIBdev-illumos-gcc7

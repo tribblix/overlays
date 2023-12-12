@@ -15,6 +15,7 @@ TRIBx11-colormap-utilities
 TRIBxboing
 TRIBlibidn
 TRIBgdk-pixbuf
+TRIBcups
 TRIBgpl-ghostscript
 TRIBgraphics-jasper
 TRIBlib-lcms2
