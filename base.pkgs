@@ -40,3 +40,4 @@ TRIBeditor-nano
 TRIBdatabase-sqlite-3
 TRIBsys-ksensor
 TRIBdrv-cpu-mc
+TRIBsvc-net-dns-mdns
