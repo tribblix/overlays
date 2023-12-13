@@ -8,6 +8,7 @@ TRIBdrv-storage-bcm-sata
 TRIBdrv-storage-blkdev
 TRIBdrv-storage-cpqary3
 TRIBdrv-storage-glm
+TRIBdrv-storage-lmrc
 TRIBdrv-storage-lsimega
 TRIBdrv-storage-marvell88sx
 TRIBdrv-storage-mega-sas
@@ -22,6 +23,7 @@ TRIBdrv-storage-sdcard
 TRIBdrv-storage-ses
 TRIBdrv-storage-si3124
 TRIBdrv-storage-skd
+TRIBdrv-storage-smartpqi
 TRIBdrv-storage-smp
 TRIBdrv-storage-smrt
 TRIBdrv-misc-virtio

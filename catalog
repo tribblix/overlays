@@ -6,7 +6,7 @@ all-fabric-drivers|3||
 all-locales|1||
 all-network-drivers|8||
 all-serial-drivers|2||
-all-storage-drivers|7||
+all-storage-drivers|8||
 all-xorg-drivers|8||
 amp-stack|13||
 autotools|5||
@@ -14,7 +14,7 @@ awesome|2||
 awscli|9||
 backup-utilities|1||
 base-extras|29||
-base-iso|22||
+base-iso|23||
 base|48||
 benchmark|1||
 bhyve|9||
