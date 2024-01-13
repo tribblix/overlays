@@ -44,3 +44,9 @@ TRIBffuf
 TRIBgitleaks
 TRIBosv-scanner
 TRIBshellcheck
+TRIBbabel-python-311
+TRIBmarkupsafe-python-311
+TRIBcached-property-python-311
+TRIBconfigargparse-python-311
+TRIBjinja-python-311
+TRIBgixy-python-311
