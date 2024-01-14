@@ -1,5 +1,6 @@
 TRIBlibarchive
 TRIBcompress-bzip2
+TRIBcompress-bzip3
 TRIBcompress-gzip
 TRIBcompress-lhasa
 TRIBcompress-lz4
