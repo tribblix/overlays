@@ -22,7 +22,7 @@ boot-server|8||
 borg|3||
 cde|2||
 clang|2||
-cli-tools-extras|2||
+cli-tools-extras|3||
 cli-tools|17||
 cloud-clients|7||
 cloudsec|19||
