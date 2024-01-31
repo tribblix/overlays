@@ -13,7 +13,7 @@ autotools|5||
 awesome|2||
 awscli|9||
 backup-utilities|2||
-base-extras|29||
+base-extras|30||
 base-iso|23||
 base|48||
 benchmark|1||
@@ -23,7 +23,7 @@ borg|3||
 cde|2||
 clang|2||
 cli-tools-extras|3||
-cli-tools|17||
+cli-tools|18||
 cloud-clients|7||
 cloudsec|19||
 compression-utilities|2||

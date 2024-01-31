@@ -14,4 +14,3 @@ TRIBdrv-cpu-amd-zen
 TRIBdrv-cpu-sensor
 TRIBdrv-misc-ccid
 TRIBsys-libpcsc
-TRIBsys-libutempter
