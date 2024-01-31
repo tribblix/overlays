@@ -1,3 +1,3 @@
-VERSION=33
-NAME=Common packages, atop the base
+VERSION=34
+NAME=Extra generic packages, atop the base
 REQUIRES=base

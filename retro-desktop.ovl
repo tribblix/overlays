@@ -1,8 +1,7 @@
-VERSION=62
+VERSION=63
 NAME=Retro Desktop environments and utilities
 REQUIRES=x11
 REQUIRES=cli-tools
-REQUIRES=base-extras
 REQUIRES=tls
 REQUIRES=legacy-audio
 REQUIRES=tcl-tk

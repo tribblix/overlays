@@ -13,7 +13,7 @@ autotools|5||
 awesome|2||
 awscli|9||
 backup-utilities|2||
-base-extras|33||
+base-extras|34||
 base-iso|23||
 base|50||
 benchmark|1||
@@ -23,7 +23,7 @@ borg|3||
 cde|2||
 clang|2||
 cli-tools-extras|3||
-cli-tools|19||
+cli-tools|20||
 cloud-clients|7||
 cloudsec|19||
 compression-utilities|2||
@@ -33,7 +33,7 @@ desktop-publishing|6||
 desktop-wallpaper|4||
 desktop|1||
 develop-extras|53||
-develop|49||
+develop|50||
 dlna|5||
 dmarc|11||
 duplicity|10||
@@ -115,7 +115,7 @@ qt5-extras|2||
 r|6||
 retro-desktop-extras|53||
 retro-desktop-games|14||
-retro-desktop|62||
+retro-desktop|63||
 retro-web|11||
 rsyslog|3||
 s3-utilities|13||
