@@ -1,8 +1,6 @@
 TRIBshell-dash
 TRIBshell-fish
 TRIBsvc-storage-removable-media
-TRIBtop
-TRIBneofetch
 TRIBsys-boot-grub
 TRIBsys-scheduler-fss
 TRIBsys-kernel-dr-i86pc
