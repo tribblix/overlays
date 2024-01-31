@@ -2,7 +2,7 @@ TRIBshell-dash
 TRIBshell-fish
 TRIBsvc-storage-removable-media
 TRIBsys-boot-grub
-TRIBsys-scheduler-fss
+TRIBsys-file-system-udfs
 TRIBsys-kernel-dr-i86pc
 TRIBsvc-resource-cap
 TRIBdrv-cpu-amd-zen

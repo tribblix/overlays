@@ -13,9 +13,9 @@ autotools|5||
 awesome|2||
 awscli|9||
 backup-utilities|2||
-base-extras|32||
+base-extras|33||
 base-iso|23||
-base|49||
+base|50||
 benchmark|1||
 bhyve|9||
 boot-server|8||

@@ -20,7 +20,7 @@ TRIBfile-gnu-coreutils
 TRIBlib-pcre
 TRIBlib-pcre2
 TRIBsys-data-hardware-registry
-TRIBsys-file-system-udfs
+TRIBsys-scheduler-fss
 TRIBsys-xopen-xcu4
 TRIBsys-xopen-xcu6
 TRIBtext-gnu-sed
