@@ -7,5 +7,7 @@ TRIBsys-kernel-dr-i86pc
 TRIBsvc-resource-cap
 TRIBdrv-cpu-amd-zen
 TRIBdrv-cpu-sensor
+TRIBdrv-usb-ugen
 TRIBdrv-misc-ccid
 TRIBsys-libpcsc
+TRIBlibusb
