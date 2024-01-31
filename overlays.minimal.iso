@@ -5,7 +5,6 @@ all-locales
 all-network-drivers
 all-serial-drivers
 all-storage-drivers
-base-extras
 base-iso
 base
 cli-tools

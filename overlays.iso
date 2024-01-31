@@ -8,7 +8,6 @@ all-network-drivers
 all-serial-drivers
 all-storage-drivers
 all-xorg-drivers
-base-extras
 base-iso
 base
 cli-tools
