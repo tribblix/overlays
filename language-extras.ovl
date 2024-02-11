@@ -1,4 +1,4 @@
-VERSION=3
+VERSION=4
 NAME=Extra programming languages
 REQUIRES=develop
 REQUIRES=java
