@@ -6,6 +6,7 @@ TRIBexiftool
 TRIBexiv2
 TRIBpillow-python-311
 TRIBreportlab-python-311
+TRIBexifread-python-311
 TRIBjomic
 TRIBlensfun
 TRIBlibart
@@ -35,3 +36,7 @@ TRIBpngquant
 TRIBoptipng
 TRIBjpegoptim
 TRIBgeeqie
+TRIBlibid3tag
+TRIBimlib2
+TRIBfeh
+TRIBscrot
