@@ -5,6 +5,10 @@ TRIBexif
 TRIBexiftool
 TRIBexiv2
 TRIBpillow-python-311
+TRIBchardet-python-311
+TRIBfreetype-python-311
+TRIBpycairo-python-311
+TRIBrlpycairo-python-311
 TRIBreportlab-python-311
 TRIBexifread-python-311
 TRIBjomic
