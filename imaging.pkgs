@@ -26,6 +26,8 @@ TRIBgraphicsmagick
 TRIBlibsdl
 TRIBlibsdl2
 TRIBffmpeg
+TRIBlibdeflate
+TRIBlibsixel
 TRIBtimg
 TRIBimage-libspng
 TRIBlib-desktop-gsf
