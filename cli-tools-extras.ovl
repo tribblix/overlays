@@ -1,4 +1,5 @@
-VERSION=3
+VERSION=4
 NAME=Extra CLI tools
+REQUIRES=cli-tools
 REQUIRES=compression-utilities
 REQUIRES=tls
