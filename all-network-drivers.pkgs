@@ -12,6 +12,7 @@ TRIBdrv-net-bpf
 TRIBdrv-net-chxge
 TRIBdrv-net-cxgbe
 TRIBdrv-net-dmfe
+TRIBdrv-net-dnet
 TRIBdrv-net-e1000g
 TRIBdrv-net-efe
 TRIBdrv-net-elxl
@@ -39,7 +40,6 @@ TRIBdrv-net-nge
 TRIBdrv-net-ntxn
 TRIBdrv-net-nxge
 TRIBdrv-net-pcn
-TRIBdrv-net-platform
 TRIBdrv-net-ral
 TRIBdrv-net-rge
 TRIBdrv-net-rtls
