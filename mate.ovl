@@ -1,4 +1,4 @@
-VERSION=19
+VERSION=20
 NAME=The MATE Desktop
 REQUIRES=gtk3
 REQUIRES=retro-desktop

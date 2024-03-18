@@ -10,7 +10,7 @@ all-storage-drivers|8||
 all-xorg-drivers|8||
 amp-stack|13||
 autotools|5||
-awesome|2||
+awesome|3||
 awscli|9||
 backup-utilities|2||
 base-extras|35||
@@ -77,10 +77,10 @@ kitchen-sink|16||
 language-extras|4||
 legacy-audio|1||
 libreoffice|10||
-lightweight-desktop|14||
+lightweight-desktop|15||
 live555|1||
 lumina|2||
-mate|19||
+mate|20||
 modern-cli-tools|12||
 monitoring-extras|13||
 monitoring|10||

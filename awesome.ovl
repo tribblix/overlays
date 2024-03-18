@@ -1,3 +1,3 @@
-VERSION=2
+VERSION=3
 NAME=awesome window manager
 REQUIRES=retro-desktop

@@ -1,4 +1,4 @@
-VERSION=14
+VERSION=15
 NAME=Lightweight Desktop Tools
 REQUIRES=gtk3
 REQUIRES=gnumeric
