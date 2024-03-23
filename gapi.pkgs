@@ -14,6 +14,7 @@ TRIBcachetools-python-311
 TRIBgapi-common-python-311
 TRIBgauth-h2-python-311
 TRIBhttplib2-python-311
+TRIBproto-plus-python-311
 TRIBprotobuf-python-311
 TRIBpyasn1-modules-python-311
 TRIBpytz-python-311
