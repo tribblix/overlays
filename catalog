@@ -27,6 +27,7 @@ cli-tools|20||
 cloud-clients|8||
 cloudsec|20||
 compression-utilities|2||
+core-tribblix|1||
 dbus-glib|5||
 desktop-mail|5||
 desktop-publishing|6||
