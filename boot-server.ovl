@@ -1,5 +1,6 @@
-VERSION=8
+VERSION=9
 NAME=Boot/install server
+REQUIRES=base
 SERVICE=svc:/network/tftp/udp6:default
 SERVICE=svc:/network/rarp:default
 SERVICE=svc:/network/rpc/bootparams:default

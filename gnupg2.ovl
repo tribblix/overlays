@@ -1,3 +1,4 @@
-VERSION=3
+VERSION=4
 NAME=GnuPG version 2
 REQUIRES=tls
+REQUIRES=base

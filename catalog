@@ -8,7 +8,7 @@ all-network-drivers|9||
 all-serial-drivers|2||
 all-storage-drivers|8||
 all-xorg-drivers|8||
-amp-stack|13||
+amp-stack|14||
 autotools|5||
 awesome|3||
 awscli|9||
@@ -18,10 +18,10 @@ base-iso|24||
 base|51||
 benchmark|1||
 bhyve|9||
-boot-server|8||
+boot-server|9||
 borg|3||
 cde|2||
-clang|2||
+clang|3||
 cli-tools-extras|4||
 cli-tools|20||
 cloud-clients|8||
@@ -48,7 +48,7 @@ gapi|9||
 gemini-clients|6||
 gimp|7||
 gnumeric|6||
-gnupg2|3||
+gnupg2|4||
 go|19||
 graphical|3||
 groovy|6||
@@ -82,7 +82,7 @@ lightweight-desktop|15||
 live555|1||
 lumina|2||
 mate|20||
-modern-cli-tools|12||
+modern-cli-tools|13||
 monitoring-extras|13||
 monitoring|10||
 mosh|3||
@@ -90,7 +90,7 @@ motif-apps-extras|4||
 motif-apps|2||
 motif|4||
 multimedia|12||
-nameserver|1||
+nameserver|2||
 networked-system|20||
 node-v18|2||
 node-v20|2||
@@ -108,7 +108,7 @@ plan9|1||
 postgres-utils|10||
 postgres15|2||
 printing|2||
-python311|2||
+python311|3||
 qemu|4||
 qt5-apps|8||
 qt5-base|10||
@@ -118,9 +118,9 @@ retro-desktop-extras|53||
 retro-desktop-games|15||
 retro-desktop|63||
 retro-web|11||
-rsyslog|3||
+rsyslog|4||
 s3-utilities|13||
-samba|9||
+samba|10||
 san-support|1||
 scala|5||
 scikit-image|2||
@@ -143,7 +143,7 @@ usb-network-drivers|2||
 vlc|9||
 webdev|14||
 website-generators|1||
-wfuzz|5||
+wfuzz|6||
 wifi|2||
 wine|6||
 x11-extras|13||
@@ -151,4 +151,4 @@ x11-fonts|1||
 x11|28||
 xfce-extras|16||
 xfce|23||
-zabbix-server|13||
+zabbix-server|14||
