@@ -1,2 +1,3 @@
-VERSION=24
+VERSION=25
 NAME=Base packages, in the live image
+REQUIRES=core-tribblix
