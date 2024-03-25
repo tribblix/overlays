@@ -1,5 +1,6 @@
 base-iso
 base
 cli-tools
+core-tribblix
 ec2-baseline
 python311

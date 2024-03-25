@@ -8,6 +8,7 @@ all-storage-drivers
 base-iso
 base
 cli-tools
+core-tribblix
 dbus-glib
 ec2-baseline
 pkgsrc
