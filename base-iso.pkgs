@@ -9,8 +9,6 @@ TRIBsys-kernel-cpu-counters
 TRIBsys-kernel-dtrace
 TRIBsys-kernel-secure-rpc
 TRIBsys-file-system-nfs
-TRIBdrv-net-fcp
-TRIBdrv-net-fp
 TRIBdrv-storage-glm
 TRIBdrv-storage-ata
 TRIBdrv-storage-aac
@@ -55,8 +53,6 @@ TRIBdrv-net-rtls
 TRIBdrv-net-sfe
 TRIBdrv-net-vr
 TRIBdrv-net-yge
-TRIBsys-lib-storage-fc-hbaapi
-TRIBsys-storage-fc-port-utility
 TRIBsys-boot-real-mode
 TRIBdrv-misc-virtio
 TRIBdrv-storage-blkdev
