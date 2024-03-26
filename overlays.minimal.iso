@@ -6,6 +6,7 @@ all-network-drivers
 all-serial-drivers
 all-storage-drivers
 base-iso
+base-server
 base
 cli-tools
 core-tribblix
