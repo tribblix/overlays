@@ -24,6 +24,7 @@ TRIBdrv-net-hxge
 TRIBdrv-net-i40e
 TRIBdrv-net-ib
 TRIBdrv-net-igb
+TRIBdrv-net-igc
 TRIBdrv-net-iprb
 TRIBdrv-net-ipw
 TRIBdrv-net-iwh

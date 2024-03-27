@@ -49,6 +49,7 @@ TRIBdrv-net-pcn
 TRIBdrv-net-elxl
 TRIBdrv-net-dnet
 TRIBdrv-net-igb
+TRIBdrv-net-igc
 TRIBdrv-net-bge
 TRIBdrv-net-bnx
 TRIBdrv-net-bnxe
