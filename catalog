@@ -98,14 +98,14 @@ ocr|3||
 office-utilities|3||
 openjdk-build|8||
 openlook|1||
-pandas|3||
+pandas|4||
 patroni|20||
 pelican|1||
 perl-developer|1||
 pidgin|6||
 pkgsrc|3||
 plan9|1||
-postgres-utils|10||
+postgres-utils|11||
 postgres15|2||
 printing|2||
 python311|3||

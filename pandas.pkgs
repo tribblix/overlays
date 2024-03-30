@@ -11,7 +11,7 @@ TRIBjinja-python-311
 TRIBpackaging-python-311
 TRIBxarray-python-311
 TRIBbrotli-python-311
-TRIBsnappy
+TRIBcramjam-python-311
 TRIBsnappy-python-311
 TRIBzstandard-python-311
 TRIBxlrd-python-311
