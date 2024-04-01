@@ -11,6 +11,12 @@ base
 cli-tools
 core-tribblix
 dbus-glib
+networked-system
 pkgsrc
 python311
+samba
+server
+server-manage
+storage-nas
+tls
 usb-network-drivers
