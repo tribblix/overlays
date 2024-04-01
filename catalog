@@ -63,7 +63,7 @@ illumos-build|37||
 illumos-docs|16||
 imaging|22||
 inkscape|9||
-ipython|1||
+ipython|2||
 java-desktop|7||
 java-develop-extras|1||
 java-developer|12||
@@ -74,7 +74,7 @@ java11|1||
 java17|1||
 java8|43||
 jruby|4||
-jupyter|3||
+jupyter|4||
 kitchen-sink|16||
 language-extras|4||
 legacy-audio|1||
