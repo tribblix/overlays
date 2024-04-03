@@ -65,7 +65,6 @@ TRIBx11-xconsole
 TRIBx11-libxinerama
 TRIBx11-session-sessreg
 TRIBx11-libxcomposite
-TRIBx11-libxevie
 TRIBx11-libxcursor
 TRIBx11-libxv
 TRIBx11-libxscrnsaver
