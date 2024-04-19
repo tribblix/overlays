@@ -1,4 +1,4 @@
-VERSION=5
+VERSION=6
 NAME=Desktop Mail Clients
 REQUIRES=retro-desktop
 REQUIRES=gnupg2

@@ -11,5 +11,7 @@ TRIBlibidn
 TRIBlynx
 TRIBgpgme
 TRIBslang
+TRIBpinentry-fltk
+TRIBpinentry-gtk
 TRIBmutt
 TRIBnet-ftp
