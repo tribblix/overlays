@@ -24,6 +24,7 @@ TRIBxfce-places-plugin
 TRIBxfce-calculator-plugin
 TRIBxfce-eyes-plugin
 TRIBglib-networking
+TRIBjson-c
 TRIBlibsoup
 TRIBxfce-weather-plugin
 TRIBxfce-systemload-plugin
