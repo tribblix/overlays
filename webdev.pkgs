@@ -16,3 +16,11 @@ TRIBpngquant
 TRIBjpegoptim
 TRIBwebalizer
 TRIBgoaccess
+TRIBchardet-python-311
+TRIBwebencodings-python-311
+TRIBhtml5lib-python-311
+TRIBlxml-python-311
+TRIBsoupsieve-python-311
+TRIBbeautifulsoup4-python-311
+TRIBdnspython-python-311
+TRIBlinkchecker-python-311
