@@ -27,7 +27,7 @@ clang|3||
 cli-tools-extras|4||
 cli-tools|20||
 cloud-clients|9||
-cloudsec|20||
+cloudsec|21||
 compression-utilities|2||
 core-tribblix|1||
 dbus-glib|5||
