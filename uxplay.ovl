@@ -1,0 +1,3 @@
+VERSION=1
+NAME=UxPlay iPad mirroring
+REQUIRES=gstreamer1
