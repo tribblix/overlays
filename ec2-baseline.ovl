@@ -1,4 +1,5 @@
-VERSION=6
+VERSION=7
 NAME=Baseline for EC2 AMI, do not use elsewhere
 REQUIRES=cli-tools
 REQUIRES=base-cloud
+REQUIRES=tls
