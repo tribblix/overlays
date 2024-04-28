@@ -61,7 +61,6 @@ TRIBdiagnostic-constype
 TRIBsvc-opengl-ogl-select
 TRIBx11-lib-mesa
 TRIBx11-xclock
-TRIBx11-xconsole
 TRIBx11-libxinerama
 TRIBx11-session-sessreg
 TRIBx11-libxcomposite
