@@ -95,6 +95,7 @@ nameserver|2||
 networked-system|21||
 node-v18|2||
 node-v20|2||
+node-v22|1||
 ocr|3||
 office-utilities|3||
 openjdk-build|8||

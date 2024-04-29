@@ -1,0 +1,3 @@
+VERSION=1
+NAME=Node.js, v22
+REQUIRES=python311
