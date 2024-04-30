@@ -23,3 +23,6 @@ TRIBurllib3-python-311
 TRIByaml-python-311
 TRIBzict-python-311
 TRIBdask-python-311
+TRIBapache-arrow
+TRIBpyarrow-python-311
+TRIBdask-expr-python-311
