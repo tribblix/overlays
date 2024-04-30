@@ -30,6 +30,7 @@ cloud-clients|9||
 cloudsec|21||
 compression-utilities|2||
 core-tribblix|1||
+dask|1||
 dbus-glib|5||
 desktop-mail|6||
 desktop-publishing|6||
