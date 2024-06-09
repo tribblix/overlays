@@ -13,3 +13,7 @@ TRIBlib-openjpeg
 TRIBlibwebp
 TRIBleptonica
 TRIBtesseract
+TRIBlibimagequant
+TRIBpillow-python-311
+TRIBpyocr-python-311
+TRIBpytesseract-python-311
