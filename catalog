@@ -12,7 +12,7 @@ amp-stack|14||
 autotools|5||
 awesome|3||
 awscli|9||
-backup-utilities|2||
+backup-utilities|3||
 base-cloud|1||
 base-extras|35||
 base-iso|27||
@@ -40,7 +40,6 @@ develop-extras|56||
 develop|50||
 dlna|5||
 dmarc|11||
-duplicity|10||
 e19|9||
 ec2-baseline|7||
 ede|1||
