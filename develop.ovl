@@ -1,4 +1,4 @@
-VERSION=50
+VERSION=51
 NAME=Development Tools
 REQUIRES=cli-tools
 REQUIRES=dbus-glib
