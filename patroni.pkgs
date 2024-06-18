@@ -15,7 +15,6 @@ TRIBidna-python-311
 TRIBpyopenssl-311
 TRIBpysocks-python-311
 TRIBpytz-python-311
-TRIBcdiff-python-311
 TRIBydiff-python-311
 TRIBclick-python-311
 TRIBdateutil-python-311
@@ -27,4 +26,6 @@ TRIBpsutil-python-311
 TRIBpsycopg2-311
 TRIBrequests-python-311
 TRIBurllib3-python-311
+TRIBjson-logger-python-311
+TRIBpysyncobj-python-311
 TRIBpatroni-python-311
