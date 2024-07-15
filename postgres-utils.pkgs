@@ -38,4 +38,5 @@ TRIBpgbarman
 TRIBpgformatter
 TRIBblix-repmgr15
 TRIBblix-slony15
+TRIBblix-wal2json15
 TRIBpgbackrest
