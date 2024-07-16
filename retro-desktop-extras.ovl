@@ -1,4 +1,4 @@
-VERSION=55
+VERSION=56
 NAME=Extra Desktop Environments and Utilities
 REQUIRES=retro-desktop
 REQUIRES=i3
