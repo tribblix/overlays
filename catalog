@@ -131,7 +131,7 @@ scala|5||
 scikit-image|3||
 scikit-learn|4||
 scipy|6||
-security|31||
+security|32||
 server-manage|7||
 server|2||
 sphinx|8||
@@ -149,7 +149,7 @@ uxplay|1||
 vlc|9||
 webdev|17||
 website-generators|1||
-wfuzz|6||
+wfuzz|7||
 wifi|3||
 wine|6||
 x11-extras|14||
