@@ -9,6 +9,7 @@ TRIBlib-nspr
 TRIBlibssh2
 TRIBlibev
 TRIBlibnghttp2
+TRIBlibpsl
 TRIBcurl
 TRIBsys-lib-mozilla-nss
 TRIBsys-file-system-autofs
