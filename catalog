@@ -31,7 +31,7 @@ cloud-clients|10||
 cloudsec|22||
 compression-utilities|2||
 core-tribblix|1||
-dask|2||
+dask|3||
 dbus-glib|5||
 desktop-mail|6||
 desktop-publishing|6||
@@ -101,7 +101,7 @@ ocr|4||
 office-utilities|3||
 openjdk-build|8||
 openlook|1||
-pandas|4||
+pandas|5||
 patroni|21||
 pelican|3||
 perl-developer|1||

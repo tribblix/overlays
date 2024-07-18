@@ -1,4 +1,4 @@
 NAME=Dask parallel computing library
-VERSION=2
-REQUIRES=python311
+VERSION=3
+REQUIRES=python312
 REQUIRES=pandas
