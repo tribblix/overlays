@@ -1,4 +1,4 @@
 TRIBopenblas
-TRIBpybind11-python-311
-TRIBnumpy-python-311
-TRIBscipy-python-311
+TRIBpybind11-python-312
+TRIBnumpy-python-312
+TRIBscipy-python-312

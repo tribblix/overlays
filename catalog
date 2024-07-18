@@ -128,9 +128,9 @@ s3-utilities|13||
 samba|10||
 san-support|1||
 scala|5||
-scikit-image|3||
-scikit-learn|4||
-scipy|6||
+scikit-image|4||
+scikit-learn|5||
+scipy|7||
 security|32||
 server-manage|7||
 server|2||
