@@ -1,5 +1,5 @@
-VERSION=32
+VERSION=33
 NAME=Security tools
 REQUIRES=retro-desktop
-REQUIRES=python311
+REQUIRES=python312
 REQUIRES=wfuzz
