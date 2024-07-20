@@ -14,6 +14,6 @@ TRIBlibwebp
 TRIBleptonica
 TRIBtesseract
 TRIBlibimagequant
-TRIBpillow-python-311
-TRIBpyocr-python-311
-TRIBpytesseract-python-311
+TRIBpillow-python-312
+TRIBpyocr-python-312
+TRIBpytesseract-python-312
