@@ -1,4 +1,4 @@
-VERSION=16
+VERSION=17
 NAME=Illumos Docs Environment
 REQUIRES=develop
-REQUIRES=python311
+REQUIRES=python312
