@@ -1,4 +1,4 @@
-VERSION=4
+VERSION=5
 NAME=Extra CLI tools
 REQUIRES=cli-tools
 REQUIRES=compression-utilities
