@@ -1,6 +1,7 @@
-VERSION=16
+VERSION=17
 NAME=Lightweight Desktop Tools
 REQUIRES=gtk3
 REQUIRES=gnumeric
 REQUIRES=abiword
 REQUIRES=gstreamer1
+REQUIRES=python312
