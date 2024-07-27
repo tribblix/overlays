@@ -3,5 +3,5 @@ base
 cli-tools
 core-tribblix
 ec2-baseline
-python311
+python312
 tls

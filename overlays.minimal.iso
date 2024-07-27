@@ -13,7 +13,7 @@ core-tribblix
 dbus-glib
 networked-system
 pkgsrc
-python311
+python312
 samba
 server
 server-manage
