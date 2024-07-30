@@ -1,5 +1,5 @@
-VERSION=10
+VERSION=11
 NAME=LibreOffice Office Suite
 REQUIRES=gstreamer1
 REQUIRES=gtk3
-REQUIRES=python311
+REQUIRES=python312

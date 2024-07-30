@@ -81,7 +81,7 @@ jupyter|5||
 kitchen-sink|16||
 language-extras|4||
 legacy-audio|1||
-libreoffice|10||
+libreoffice|11||
 lightweight-desktop|17||
 mate|20||
 modern-cli-tools|14||
@@ -98,7 +98,7 @@ node-v18|2||
 node-v20|2||
 node-v22|1||
 ocr|5||
-office-utilities|3||
+office-utilities|4||
 openjdk-build|8||
 openlook|1||
 pandas|5||
