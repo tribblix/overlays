@@ -1,4 +1,4 @@
-VERSION=33
+VERSION=34
 NAME=Security tools
 REQUIRES=retro-desktop
 REQUIRES=python312
