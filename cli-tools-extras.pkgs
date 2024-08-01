@@ -15,3 +15,11 @@ TRIBgnu-units
 TRIBmediainfo
 TRIBpygments-312
 TRIBmog
+TRIBifaddr-python-312
+TRIBdefusedxml-python-312
+TRIBnetifaces-python-312
+TRIBorjson-python-312
+TRIBprom-client-python-312
+TRIBpsutil-python-312
+TRIBzeroconf-python-312
+TRIBglances-python-312
