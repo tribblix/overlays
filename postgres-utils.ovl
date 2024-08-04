@@ -1,4 +1,4 @@
-VERSION=14
+VERSION=16
 NAME=PostgreSQL utilities
 REQUIRES=python312
 REQUIRES=postgres15
