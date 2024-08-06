@@ -86,7 +86,7 @@ lightweight-desktop|17||
 mate|20||
 modern-cli-tools|14||
 monitoring-extras|13||
-monitoring|11||
+monitoring|12||
 mosh|3||
 motif-apps-extras|5||
 motif-apps|2||
@@ -131,7 +131,7 @@ scala|5||
 scikit-image|4||
 scikit-learn|5||
 scipy|7||
-security|34||
+security|35||
 server-manage|7||
 server|2||
 sphinx|9||
