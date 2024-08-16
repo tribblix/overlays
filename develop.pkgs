@@ -51,6 +51,7 @@ TRIBtyping-ext-python-312
 TRIBsetup-scm-python-312
 TRIBwheel-python-312
 TRIBtext-colordiff
+TRIBpycodestyle-python-312
 TRIBcodespell-python-312
 TRIBpipdeptree-python-312
 TRIBjq
