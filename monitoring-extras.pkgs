@@ -13,3 +13,9 @@ TRIBnet-ipd
 TRIBnet-snmp
 TRIBlibssh
 TRIBiftop
+TRIBlibmicrohttpd
+TRIBlibnotify
+TRIBprotobuf
+TRIBprotobuf-c
+TRIByajl
+TRIBcollectd
