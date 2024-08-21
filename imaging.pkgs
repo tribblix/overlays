@@ -2,6 +2,8 @@ TRIBgnu-libiconv
 TRIBcompress-unrar
 TRIBdcraw
 TRIBexif
+TRIBlib-perl-5-archive-zip
+TRIBlib-perl-5-comp-raw-lzma
 TRIBexiftool
 TRIBexiv2
 TRIBpillow-python-312
