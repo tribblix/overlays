@@ -1,5 +1,6 @@
-VERSION=35
+VERSION=36
 NAME=Security tools
+REQUIRES=httpx
 REQUIRES=retro-desktop
 REQUIRES=python312
 REQUIRES=wfuzz

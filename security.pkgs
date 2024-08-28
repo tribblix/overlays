@@ -54,17 +54,10 @@ TRIBdnspython-python-312
 TRIBgmpy2-python-312
 TRIBmdurl-python-312
 TRIBmarkdown-it-python-312
-TRIBanyio-python-312
-TRIBclick-python-312
-TRIBh11-python-312
 TRIBlibsodium
 TRIBpygments-312
 TRIBrich-python-312
-TRIBsniffio-python-312
 TRIBbcrypt-python-312
-TRIBh2-python-312
-TRIBhttpcore-python-312
-TRIBhttpx-python-312
 TRIBinvoke-python-312
 TRIBpyasn1-python-312
 TRIBpynacl-python-312
