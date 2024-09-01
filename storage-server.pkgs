@@ -6,7 +6,6 @@ TRIBsvc-storage-isns
 TRIBstorage-mpathadm
 TRIBstorage-stmf
 TRIBsys-lib-storage-fc-libsun
-TRIBsys-lib-storage-ima
 TRIBsys-lib-storage-mpapi
 TRIBsys-lib-storage-mpscsi-vhci
 TRIBsys-storage-luxadm

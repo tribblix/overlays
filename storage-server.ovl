@@ -1,4 +1,4 @@
-VERSION=11
+VERSION=12
 NAME=Multi Protocol Storage Server
 REQUIRES=storage-nas
 REQUIRES=all-fabric-drivers
