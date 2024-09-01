@@ -18,7 +18,7 @@ base-cloud|1||
 base-extras|35||
 base-iso|27||
 base-server|2||
-base|52||
+base|53||
 benchmark|1||
 bhyve|10||
 boot-server|9||
@@ -42,7 +42,7 @@ develop|53||
 dlna|5||
 dmarc|12||
 e19|9||
-ec2-baseline|7||
+ec2-baseline|8||
 ede|1||
 emulators|4||
 fortran|4||
@@ -93,7 +93,7 @@ motif-apps|2||
 motif|4||
 multimedia|12||
 nameserver|2||
-networked-system|21||
+networked-system|22||
 node-v18|3||
 node-v20|3||
 node-v22|2||
