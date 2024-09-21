@@ -14,8 +14,10 @@ TRIBlibde265
 TRIBlibidn
 TRIBsys-lib-fontconfig
 TRIBsys-lib-freetype-2
+TRIBbrotli
 TRIBgiflib
 TRIBimage-libjpeg
+TRIBimage-libjxl
 TRIBimage-libpng
 TRIBimage-libtiff
 TRIBlib-expat
