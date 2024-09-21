@@ -1,4 +1,3 @@
-VERSION=54
+VERSION=55
 NAME=Base packages, not in the live image
 REQUIRES=core-tribblix
-REQUIRES=tls
