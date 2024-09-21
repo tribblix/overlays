@@ -45,3 +45,6 @@ TRIBbeautifulsoup4-python-312
 TRIBgreenlet-python-312
 TRIBtyping-ext-python-312
 TRIBsqlalchemy-python-312
+TRIBfsspec-python-312
+TRIBapache-arrow
+TRIBpyarrow-python-312
