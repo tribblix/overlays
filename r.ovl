@@ -1,4 +1,4 @@
-VERSION=6
+VERSION=7
 NAME=The R statistical package
 REQUIRES=cli-tools
 REQUIRES=retro-desktop

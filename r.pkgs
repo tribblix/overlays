@@ -1,6 +1,7 @@
 TRIBr
 TRIBgfortran4runtime
 TRIBgnu-libiconv
+TRIBlibdeflate
 TRIBncurses
 TRIBreadline
 TRIBv-gfortran10
