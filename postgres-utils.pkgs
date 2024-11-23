@@ -11,6 +11,8 @@ TRIBtyping-ext-python-312
 TRIBpsycopg-312
 TRIBcramjam-python-312
 TRIBsnappy-python-312
+TRIBlz4-python-312
+TRIBzstandard-python-312
 TRIBlib-perl-5-http-date
 TRIBlib-perl-5-io-html
 TRIBlib-perl-5-lwp-mediatypes
