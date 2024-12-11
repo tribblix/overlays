@@ -34,7 +34,7 @@ core-tribblix|2||
 dask|3||
 dbus-glib|5||
 desktop-mail|6||
-desktop-publishing|6||
+desktop-publishing|7||
 desktop-wallpaper|4||
 desktop|1||
 develop-extras|62||
@@ -146,7 +146,7 @@ tuxpaint|3||
 usb-network-drivers|2||
 uxplay|1||
 vlc|9||
-webdev|18||
+webdev|19||
 website-generators|1||
 wfuzz|7||
 wifi|3||
