@@ -17,6 +17,7 @@ TRIBhttplib2-python-312
 TRIBproto-plus-python-312
 TRIBprotobuf-python-312
 TRIBpyasn1-modules-python-312
+TRIBpyjwt-python-312
 TRIBrequests-python-312
 TRIBrsa-python-312
 TRIBuritemplate-python-312
