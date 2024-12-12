@@ -8,6 +8,7 @@ TRIBgpl-ghostscript
 TRIBnet-snmp
 TRIBdev-illumos-gcc7
 TRIBdev-illumos-gcc10
+TRIBdev-illumos-gcc14
 TRIBimage-libjpeg
 TRIBimage-libpng
 TRIBimage-libtiff
