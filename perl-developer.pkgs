@@ -35,6 +35,8 @@ TRIBlib-perl-5-list-someutils
 TRIBlib-perl-5-module-pluggable
 TRIBlib-perl-5-pod-parser
 TRIBlib-perl-5-pod-spell
+TRIBlib-perl-5-safe-isa
+TRIBlib-perl-5-yaml-pp
 TRIBlib-perl-5-ppi
 TRIBlib-perl-5-ppix-quotelike
 TRIBlib-perl-5-ppix-regexp
