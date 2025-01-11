@@ -12,7 +12,7 @@ amp-stack|14||
 autotools|5||
 awesome|3||
 awscli|10||
-b2|3||
+b2|4||
 backup-utilities|4||
 base-cloud|1||
 base-extras|35||
@@ -77,7 +77,7 @@ java17|1||
 java21|1||
 java8|46||
 jruby|4||
-jupyter|5||
+jupyter|6||
 kitchen-sink|16||
 language-extras|5||
 legacy-audio|1||
