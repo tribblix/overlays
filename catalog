@@ -109,7 +109,7 @@ pidgin|6||
 pkgsrc|3||
 plan9|1||
 postgis|2||
-postgres-utils|18||
+postgres-utils|19||
 postgres15|2||
 printing|2||
 python312|1||
@@ -155,5 +155,5 @@ x11-extras|15||
 x11-fonts|1||
 x11|32||
 xfce-extras|16||
-xfce|24||
+xfce|25||
 zabbix-server|14||

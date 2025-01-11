@@ -19,6 +19,7 @@ TRIBlib-perl-5-lwp-mediatypes
 TRIBlib-perl-5-html-tagset
 TRIBlib-perl-5-http-message
 TRIBlib-perl-5-html-parser
+TRIBlib-perl-5-mime-base32
 TRIBlib-perl-5-uri
 TRIBlib-perl-5-cgi
 TRIBlib-perl-5-common-sense
