@@ -13,6 +13,7 @@ TRIBcramjam-python-312
 TRIBsnappy-python-312
 TRIBlz4-python-312
 TRIBzstandard-python-312
+TRIBlib-perl-5-clone
 TRIBlib-perl-5-timedate
 TRIBlib-perl-5-http-date
 TRIBlib-perl-5-io-html
