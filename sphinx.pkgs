@@ -7,6 +7,7 @@ TRIBcharset-norm-python-312
 TRIBcryptography-python-312
 TRIBidna-python-312
 TRIBmarkupsafe-python-312
+TRIBtyping-ext-python-312
 TRIBpyopenssl-312
 TRIBpyparsing-python-312
 TRIBpysocks-python-312

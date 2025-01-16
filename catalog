@@ -11,7 +11,7 @@ all-xorg-drivers|8||
 amp-stack|14||
 autotools|5||
 awesome|3||
-awscli|10||
+awscli|11||
 b2|4||
 backup-utilities|4||
 base-cloud|1||
@@ -47,7 +47,7 @@ ede|1||
 emulators|4||
 fortran|4||
 game-emulators|3||
-gapi|12||
+gapi|13||
 gemini-clients|6||
 gimp|7||
 gnumeric|6||
@@ -58,7 +58,7 @@ groovy|6||
 gstreamer1|11||
 gtk2|2||
 gtk3|7||
-httpie|6||
+httpie|7||
 httpx|4||
 i3|6||
 illumos-build|41||
@@ -134,7 +134,7 @@ scipy|7||
 security|36||
 server-manage|7||
 server|2||
-sphinx|9||
+sphinx|10||
 storage-nas|7||
 storage-server|12||
 tcl-tk|5||

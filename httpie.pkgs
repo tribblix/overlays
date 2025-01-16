@@ -4,6 +4,7 @@ TRIBbrotli-python-312
 TRIBcertifi-python-312
 TRIBcryptography-python-312
 TRIBidna-python-312
+TRIBtyping-ext-python-312
 TRIBpyopenssl-312
 TRIBpysocks-python-312
 TRIBurllib3-python-312
