@@ -5,14 +5,12 @@ TRIBlibyaml
 TRIBmarkupsafe-python-312
 TRIBpysocks-python-312
 TRIBzipp-python-312
-TRIBclick-python-312
 TRIBcloudpickle-python-312
 TRIBfsspec-python-312
 TRIBimportlib-python-312
 TRIBjinja-python-312
 TRIBlocket-python-312
 TRIBmsgpack-python-312
-TRIBpackaging-python-312
 TRIBpartd-python-312
 TRIBpsutil-python-312
 TRIBsortedcontainers-python-312

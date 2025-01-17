@@ -3,7 +3,6 @@ TRIBcharset-norm-python-312
 TRIBidna-python-312
 TRIBpysocks-python-312
 TRIBurllib3-python-312
-TRIBplatformdirs-python-312
 TRIBrequests-python-312
 TRIBpooch-python-312
 TRIBgiflib
@@ -19,7 +18,6 @@ TRIBcycler-python-312
 TRIBdateutil-python-312
 TRIBfonttools-python-312
 TRIBkiwisolver-python-312
-TRIBpackaging-python-312
 TRIBpillow-python-312
 TRIBpyparsing-python-312
 TRIBjoblib-python-312

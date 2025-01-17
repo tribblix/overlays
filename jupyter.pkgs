@@ -50,7 +50,6 @@ TRIBstack-data-python-312
 TRIBwebencodings-python-312
 TRIBnest-asyncio-python-312
 TRIBpandocfilters-python-312
-TRIBplatformdirs-python-312
 TRIBpsutil-python-312
 TRIBptyprocess-python-312
 TRIBpygments-312
@@ -81,7 +80,6 @@ TRIBjupyter-srv-term-python-312
 TRIBnbconvert-python-312
 TRIBnbformat-python-312
 TRIBoverrides-python-312
-TRIBpackaging-python-312
 TRIBprom-client-python-312
 TRIBpyzmq-python-312
 TRIBrequests-python-312

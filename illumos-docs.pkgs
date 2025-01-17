@@ -5,7 +5,6 @@ TRIBcertifi-python-312
 TRIBbabel-python-312
 TRIBmarkupsafe-python-312
 TRIBpytz-python-312
-TRIBclick-python-312
 TRIBjinja-python-312
 TRIBlivereload-python-312
 TRIBlunr-python-312
@@ -22,9 +21,7 @@ TRIBmergedeep-python-312
 TRIBpyyaml-env-python-312
 TRIBwatchdog-python-312
 TRIBpyparsing-python-312
-TRIBpackaging-python-312
 TRIBpathspec-python-312
-TRIBplatformdirs-python-312
 TRIBmkdocs-python-312
 TRIBcolorama-python-312
 TRIBpaginate-python-312

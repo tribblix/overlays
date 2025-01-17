@@ -43,7 +43,6 @@ TRIBdocutils-python-312
 TRIBzipp-python-312
 TRIBdistlib-python-312
 TRIBfilelock-python-312
-TRIBplatformdirs-python-312
 TRIBvirtualenv-python-312
 TRIBcups
 TRIBhtmldoc
