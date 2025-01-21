@@ -15,7 +15,7 @@ awscli|11||
 b2|4||
 backup-utilities|4||
 base-cloud|1||
-base-extras|35||
+base-extras|36||
 base-iso|27||
 base-server|2||
 base|56||
@@ -63,7 +63,7 @@ httpx|5||
 i3|6||
 illumos-build|41||
 illumos-docs|18||
-imaging|28||
+imaging|29||
 inkscape|9||
 ipython|3||
 java-desktop|7||
