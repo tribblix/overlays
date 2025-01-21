@@ -27,7 +27,7 @@ cde|2||
 clang|3||
 cli-tools-extras|7||
 cli-tools|22||
-cloud-clients|12||
+cloud-clients|13||
 cloudsec|24||
 compression-utilities|2||
 core-tribblix|2||
@@ -40,7 +40,7 @@ desktop|1||
 develop-extras|63||
 develop|54||
 dlna|5||
-dmarc|14||
+dmarc|15||
 e19|9||
 ec2-baseline|9||
 ede|1||
@@ -77,7 +77,7 @@ java17|1||
 java21|1||
 java8|46||
 jruby|4||
-jupyter|7||
+jupyter|8||
 kitchen-sink|16||
 language-extras|5||
 legacy-audio|1||
@@ -102,7 +102,7 @@ office-utilities|4||
 openjdk-build|8||
 openlook|1||
 pandas|7||
-patroni|25||
+patroni|26||
 pelican|3||
 perl-developer|2||
 pidgin|6||
@@ -131,7 +131,7 @@ scala|5||
 scikit-image|7||
 scikit-learn|6||
 scipy|7||
-security|36||
+security|37||
 server-manage|7||
 server|2||
 sphinx|11||

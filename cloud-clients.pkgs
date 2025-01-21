@@ -10,11 +10,7 @@ TRIBvultr-cli
 TRIBminio-client
 TRIBterraform
 TRIBrclone
-TRIBmdurl-python-312
-TRIBmarkdown-it-python-312
-TRIBpygments-312
 TRIBlinode-metadata-python-312
 TRIBopenapi3-python-312
-TRIBrich-python-312
 TRIBlinode-cli-python-312
 TRIBhcloud

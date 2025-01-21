@@ -2,7 +2,6 @@ TRIBargon2-cffi-bind-python-312
 TRIBattrs-python-312
 TRIBbeautifulsoup4-python-312
 TRIBbleach-python-312
-TRIBcertifi-python-312
 TRIBcharset-norm-python-312
 TRIBcomm-python-312
 TRIBtypes-dateutil-python-312
@@ -11,8 +10,6 @@ TRIBdebugpy-python-312
 TRIBdefusedxml-python-312
 TRIBfastjsonschema-python-312
 TRIBfqdn-python-312
-TRIBidna-python-312
-TRIBtyping-ext-python-312
 TRIBipython-python-312
 TRIBisoduration-python-312
 TRIBjson-logger-python-312
@@ -33,7 +30,6 @@ TRIBpycparser-python-312
 TRIBwcwidth-python-312
 TRIBarrow-python-312
 TRIBbackcall-python-312
-TRIBbrotli-python-312
 TRIBcffi-python-312
 TRIBcryptography-python-312
 TRIBdecorator-python-312
@@ -52,19 +48,16 @@ TRIBnest-asyncio-python-312
 TRIBpandocfilters-python-312
 TRIBpsutil-python-312
 TRIBptyprocess-python-312
-TRIBpygments-312
 TRIBpysocks-python-312
 TRIBreferencing-python-312
 TRIBrfc3339-valid-python-312
 TRIBrfc3986-valid-python-312
 TRIBrpds-py-python-312
-TRIBsniffio-python-312
 TRIBtinycss2-python-312
 TRIBuri-template-python-312
 TRIBurllib3-python-312
 TRIBwebcolors-python-312
 TRIByaml-python-312
-TRIBanyio-python-312
 TRIBargon2-cffi-python-312
 TRIBasync-lru-python-312
 TRIBbabel-python-312
