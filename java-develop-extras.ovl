@@ -1,4 +1,4 @@
-VERSION=1
+VERSION=2
 NAME=Extra java developer tools
-REQUIRES=java11
+REQUIRES=java17
 REQUIRES=java-developer
