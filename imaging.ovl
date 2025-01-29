@@ -1,4 +1,5 @@
-VERSION=29
+VERSION=30
 NAME=Utilities for handling images
 REQUIRES=retro-desktop
 REQUIRES=python312
+REQUIRES=tcl-tk
