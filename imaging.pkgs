@@ -4,6 +4,7 @@ TRIBdcraw
 TRIBexif
 TRIBlib-perl-5-archive-zip
 TRIBlib-perl-5-comp-raw-lzma
+TRIBlib-perl-5-posix-strptime
 TRIBexiftool
 TRIBexiv2
 TRIBpillow-python-312
