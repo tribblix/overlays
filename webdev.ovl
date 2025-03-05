@@ -1,6 +1,6 @@
-VERSION=19
+VERSION=20
 NAME=Some web development utilities
-REQUIRES=develop
+REQUIRES=cli-tools
 REQUIRES=gimp
 REQUIRES=gtk3
 REQUIRES=httpie
