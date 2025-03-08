@@ -1,4 +1,3 @@
-VERSION=9
+VERSION=10
 NAME=Inkscape
 REQUIRES=retro-desktop
-REQUIRES=office-utilities

@@ -34,7 +34,7 @@ core-tribblix|2||
 dask|6||
 dbus-glib|5||
 desktop-mail|6||
-desktop-publishing|7||
+desktop-publishing|8||
 desktop-wallpaper|4||
 desktop|1||
 develop-extras|63||
@@ -64,7 +64,7 @@ i3|6||
 illumos-build|43||
 illumos-docs|18||
 imaging|31||
-inkscape|9||
+inkscape|10||
 ipython|3||
 java-desktop|7||
 java-develop-extras|2||
@@ -97,7 +97,6 @@ networked-system|22||
 node-v20|3||
 node-v22|2||
 ocr|6||
-office-utilities|4||
 openjdk-build|9||
 openlook|1||
 pandas|7||
