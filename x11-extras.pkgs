@@ -40,3 +40,6 @@ TRIBx11-xfs-xfs-utilities
 TRIBx11-xfs
 TRIBx11-transset
 TRIBx11-xcompmgr
+TRIBlib-desktop-cairo
+TRIBlibvncserver
+TRIBx11vnc
