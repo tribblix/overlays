@@ -1,4 +1,4 @@
-VERSION=10
+VERSION=11
 NAME=Samba server
 REQUIRES=tls
 REQUIRES=base
