@@ -1,0 +1,3 @@
+VERSION=1
+NAME=Qt base, version 6
+REQUIRES=gtk3
