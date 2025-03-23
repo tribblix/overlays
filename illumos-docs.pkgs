@@ -35,5 +35,6 @@ TRIBpyopenssl-312
 TRIBpysocks-python-312
 TRIBurllib3-python-312
 TRIBrequests-python-312
+TRIBbackrefs-python-312
 TRIBmkdocs-material-python-312
 TRIBmarkdown-inc-python-312
