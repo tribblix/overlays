@@ -68,6 +68,7 @@ TRIBdifftastic
 TRIBattrs-python-312
 TRIBparso-python-312
 TRIBcattrs-python-312
+TRIBimportlib-python-312
 TRIBdocstring2md-python-312
 TRIBjedi-python-312
 TRIBlsp-jsonrpc-python-312
