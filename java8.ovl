@@ -1,3 +1,3 @@
-VERSION=47
+VERSION=48
 NAME=Java OpenJDK 8
 REQUIRES=java-prerequisite
