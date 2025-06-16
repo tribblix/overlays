@@ -1,0 +1,4 @@
+VERSION=1
+NAME=KDE Framework 6
+REQUIRES=qt6-base
+REQUIRES=gstreamer1
