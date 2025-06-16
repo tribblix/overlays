@@ -1,5 +1,6 @@
+TRIBlibicu
 TRIBtext-locale
-TRIBblix-postgres15
+TRIBblix-postgres17
 TRIBblix-etcd
 TRIBblix-haproxy2
 TRIBlibyaml
