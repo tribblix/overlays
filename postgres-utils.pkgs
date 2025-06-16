@@ -41,6 +41,6 @@ TRIBpgpool
 TRIBpgback
 TRIBpgbarman
 TRIBpgformatter
-TRIBblix-repmgr15
-TRIBblix-wal2json15
+TRIBblix-repmgr17
+TRIBblix-wal2json17
 TRIBpgbackrest
