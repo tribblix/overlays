@@ -133,7 +133,7 @@ scala|5||
 scikit-image|7||
 scikit-learn|6||
 scipy|7||
-security|39||
+security|40||
 server-manage|8||
 server|2||
 sphinx|12||
@@ -149,7 +149,7 @@ tuxpaint|3||
 usb-network-drivers|2||
 uxplay|1||
 vlc|9||
-webdev|21||
+webdev|22||
 website-generators|1||
 wfuzz|7||
 wifi|3||
