@@ -1,4 +1,4 @@
-VERSION=38
+VERSION=39
 NAME=Security tools
 REQUIRES=httpx
 REQUIRES=retro-desktop
