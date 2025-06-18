@@ -1,3 +1,4 @@
-VERSION=14
+VERSION=15
 NAME=Zabbix server
 REQUIRES=base
+REQUIRES=postgres17
