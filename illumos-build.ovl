@@ -1,5 +1,6 @@
-VERSION=43
+VERSION=44
 NAME=Illumos Build Environment
 REQUIRES=develop
 REQUIRES=java17
+REQUIRES=java21
 REQUIRES=python312
