@@ -62,7 +62,7 @@ httpie|7||
 httpx|5||
 i3|6||
 illumos-build|44||
-illumos-docs|19||
+illumos-docs|20||
 imaging|33||
 inkscape|10||
 ipython|3||
@@ -102,8 +102,8 @@ ocr|6||
 openjdk-build|9||
 openlook|1||
 pandas|7||
-patroni|27||
-pelican|5||
+patroni|28||
+pelican|6||
 perl-developer|2||
 pidgin|6||
 pkgsrc|3||
@@ -136,7 +136,7 @@ scipy|7||
 security|41||
 server-manage|8||
 server|2||
-sphinx|12||
+sphinx|13||
 storage-nas|7||
 storage-server|12||
 tcl-tk|5||
