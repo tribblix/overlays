@@ -75,6 +75,7 @@ java|37||
 java11|1||
 java17|1||
 java21|1||
+java25|1||
 java8|48||
 jruby|4||
 jupyter|9||
@@ -99,7 +100,7 @@ networked-system|22||
 node-v20|3||
 node-v22|2||
 ocr|6||
-openjdk-build|9||
+openjdk-build|10||
 openlook|1||
 pandas|7||
 patroni|28||
