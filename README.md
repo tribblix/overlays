@@ -23,3 +23,10 @@ REQUIRES=
 
 Optional. Specify an overlay this overlay depends on; repeat the
 keyword multiple times for multiple dependencies.
+
+SERVICE=
+
+Optional. An SMF service associated with this overlay; repeat the
+keyword multiple times for multiple services. Used by the zap
+list-services/show-services/enable-services/disable-services subcommands
+to manage the services associated with an overlay.
