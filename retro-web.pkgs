@@ -15,3 +15,7 @@ TRIBpinentry-fltk
 TRIBpinentry-gtk
 TRIBmutt
 TRIBnet-ftp
+TRIBlibid3tag
+TRIBboehm-gc
+TRIBimlib2
+TRIBw3m
