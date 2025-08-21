@@ -1,4 +1,4 @@
 NAME=JupyterLab and the Jupyter Notebook
-VERSION=9
+VERSION=10
 REQUIRES=python312
 REQUIRES=httpx
