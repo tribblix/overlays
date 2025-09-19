@@ -70,6 +70,7 @@ TRIBcattrs-python-312
 TRIBimportlib-python-312
 TRIBmypy-extensions-python-312
 TRIBpathspec-python-312
+TRIBpytokens-python-312
 TRIBblack-python-312
 TRIBdocstring2md-python-312
 TRIBjedi-python-312
