@@ -1,3 +1,4 @@
-VERSION=12
+VERSION=13
 NAME=Monitoring utilities
-REQUIRES=retro-desktop
+REQUIRES=python312
+REQUIRES=dbus-glib
