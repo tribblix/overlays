@@ -13,6 +13,7 @@ TRIBlibspeex
 TRIBsnappy
 TRIBbrotli
 TRIBlibcares
+TRIBopus
 TRIBwireshark
 TRIBlibyaml
 TRIBlib-perl-5-net-ssleay

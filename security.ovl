@@ -1,6 +1,6 @@
-VERSION=41
+VERSION=42
 NAME=Security tools
+REQUIRES=dbus-glib
 REQUIRES=httpx
-REQUIRES=retro-desktop
 REQUIRES=python312
 REQUIRES=wfuzz
