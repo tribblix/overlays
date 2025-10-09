@@ -1,0 +1,3 @@
+VERSION=1
+NAME=Applications for QT6
+REQUIRES=qt6-base
