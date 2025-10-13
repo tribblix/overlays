@@ -1,4 +1,4 @@
-VERSION=34
+VERSION=35
 NAME=Utilities for handling images
 REQUIRES=retro-desktop
 REQUIRES=python312
