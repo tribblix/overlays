@@ -8,7 +8,7 @@ all-network-drivers|10||
 all-serial-drivers|2||
 all-storage-drivers|8||
 all-xorg-drivers|8||
-amp-stack|15||
+amp-stack|16||
 autotools|5||
 awesome|3||
 awscli|11||
@@ -25,12 +25,12 @@ boot-server|9||
 borg|5||
 cde|2||
 clang|3||
-cli-tools-extras|9||
-cli-tools|23||
+cli-tools-extras|10||
+cli-tools|24||
 cloud-clients|14||
 cloudsec|24||
 compression-utilities|2||
-core-tribblix|2||
+core-tribblix|3||
 dask|7||
 dbus-glib|5||
 desktop-mail|7||
@@ -126,7 +126,7 @@ r|7||
 retro-desktop-extras|59||
 retro-desktop-games|21||
 retro-desktop|64||
-retro-web|13||
+retro-web|14||
 rsyslog|4||
 s3-utilities|14||
 samba|11||
@@ -136,7 +136,7 @@ scikit-image|8||
 scikit-learn|6||
 scipy|7||
 security-extras|2||
-security|42||
+security|43||
 server-manage|8||
 server|2||
 sphinx|13||
@@ -162,4 +162,4 @@ x11-fonts|2||
 x11|33||
 xfce-extras|16||
 xfce|25||
-zabbix-server|15||
+zabbix-server|16||

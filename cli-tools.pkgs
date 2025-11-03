@@ -2,8 +2,8 @@ TRIBtop
 TRIBneofetch
 TRIBlibpopt
 TRIBrsync
+TRIBlibsodium
 TRIBeditor-vim
-TRIBncftp
 TRIBnet-telnet
 TRIBcompress-p7zip
 TRIBcompress-pigz
@@ -12,7 +12,6 @@ TRIBpipe-viewer
 TRIBsys-libutempter
 TRIBscreen
 TRIBtmux
-TRIBduviz
 TRIBagedu
 TRIBncurses
 TRIBncdu

@@ -9,6 +9,7 @@ TRIBblix-apache-24
 TRIBlibedit
 TRIBsnappy
 TRIBblix-mariadb
+TRIBlibsodium
 TRIBblix-php-8
 TRIBtext-gawk
 TRIBtext-utilities
