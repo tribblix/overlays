@@ -12,7 +12,6 @@ cli-tools
 core-tribblix
 dbus-glib
 networked-system
-pkgsrc
 python312
 samba
 server
