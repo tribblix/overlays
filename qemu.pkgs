@@ -14,3 +14,8 @@ TRIBlibsdl2-image
 TRIBlibslirp
 TRIBqemu
 TRIBsnappy
+TRIBcdrtools
+TRIBdev-acpi
+TRIBlibyaml
+TRIByaml-python-312
+TRIBemu-brand
