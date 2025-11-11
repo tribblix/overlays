@@ -5,3 +5,10 @@ TRIBrsync
 TRIBtarsnap
 TRIBznapzend
 TRIBzrepl
+TRIBcompress-lzo
+TRIBlib-perl-5-io-stringy
+TRIBcompress-lzop
+TRIBlib-perl-5-capture-tiny
+TRIBlib-perl-5-config-inifiles
+TRIBpipe-viewer
+TRIBsanoid
