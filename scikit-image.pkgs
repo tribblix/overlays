@@ -40,4 +40,6 @@ TRIBgoogle-crc32c-python-312
 TRIBzarr-python-312
 TRIBfsspec-python-312
 TRIBtifffile-python-312
+TRIBujson-python-312
+TRIBkerchunk-python-312
 TRIBscikit-image-python-312

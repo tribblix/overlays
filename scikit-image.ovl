@@ -1,3 +1,3 @@
 NAME=scikit-image, Image processing in Python
-VERSION=9
+VERSION=10
 REQUIRES=scipy
