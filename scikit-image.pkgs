@@ -19,6 +19,7 @@ TRIBsnappy
 TRIBtzdata-python-312
 TRIBimage-libjpeg
 TRIBimage-libtiff
+TRIBlibdeflate
 TRIBimagecodecs-python-312
 TRIBlib-lcms2
 TRIBlib-openjpeg
@@ -31,12 +32,11 @@ TRIBlazyloader-python-312
 TRIBnetworkx-python-312
 TRIBpillow-python-312
 TRIBpywavelets-python-312
-TRIBasciitree-python-312
-TRIBfasteners-python-312
-TRIBwrapt-python-312
-TRIBdeprecated-python-312
 TRIBnumcodecs-python-312
 TRIBdefusedxml-python-312
+TRIByaml-python-312
+TRIBdonfig-python-312
+TRIBgoogle-crc32c-python-312
 TRIBzarr-python-312
 TRIBfsspec-python-312
 TRIBtifffile-python-312
