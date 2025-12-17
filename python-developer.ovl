@@ -1,4 +1,4 @@
-VERSION=1
+VERSION=2
 NAME=Software needed to build and package python modules
 REQUIRES=python312
 REQUIRES=fortran
