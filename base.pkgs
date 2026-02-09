@@ -45,6 +45,7 @@ TRIBdatabase-sqlite-3
 TRIBsys-ksensor
 TRIBdrv-cpu-mc
 TRIBsvc-net-dns-mdns
+TRIBbrotli
 TRIBlibgpg-error
 TRIBlibgcrypt
 TRIBgnutls

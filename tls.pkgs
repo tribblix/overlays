@@ -1,3 +1,7 @@
+TRIBbrotli
+TRIBcompress-lz4
+TRIBcompress-xz
+TRIBcompress-zstd
 TRIBlibgpg-error
 TRIBlibgcrypt
 TRIBgnutls
