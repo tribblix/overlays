@@ -12,6 +12,14 @@ TRIBneon
 TRIBlibdeflate
 TRIBopenjph
 TRIBopenexr
+TRIBgraphics-jasper
+TRIBdjvulibre
+TRIBlibheif
+TRIBlibraw
+TRIBlibzip
+TRIBimagemagick
+TRIBfluidsynth
+TRIBzbar
 TRIBgstreamer1-libav
 TRIBgstreamer1-plugins-bad
 TRIBlibplist
