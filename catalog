@@ -109,7 +109,7 @@ perl-developer|2||
 pidgin|6||
 pkgsrc|3||
 plan9|1||
-postgis|3||
+postgis|4||
 postgres-utils|25||
 postgres17|1||
 printing|2||
@@ -117,7 +117,7 @@ python-developer|2||
 python312|1||
 python313|1||
 qemu|5||
-qt5-apps|11||
+qt5-apps|12||
 qt5-base|11||
 qt5-extras|2||
 qt6-apps|1||
@@ -125,7 +125,7 @@ qt6-base|1||
 r|7||
 retro-desktop-extras|59||
 retro-desktop-games|21||
-retro-desktop|64||
+retro-desktop|65||
 retro-web|14||
 rsyslog|4||
 s3-utilities|14||
@@ -150,7 +150,7 @@ tomcat9|1||
 tribblix-tools|8||
 tuxpaint|3||
 usb-network-drivers|2||
-uxplay|1||
+uxplay|2||
 vlc|9||
 webdev|23||
 website-generators|1||

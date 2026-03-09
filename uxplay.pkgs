@@ -9,6 +9,8 @@ TRIBlibmodplug
 TRIBlibnice
 TRIBlibwebp
 TRIBneon
+TRIBlibdeflate
+TRIBopenjph
 TRIBopenexr
 TRIBgstreamer1-libav
 TRIBgstreamer1-plugins-bad
