@@ -7,7 +7,7 @@ TRIBimage-libjpeg
 TRIBimage-libpng
 TRIBsys-lib-freetype-2
 TRIBlibsodium
-TRIBblix-php-8
-TRIBblix-php-8pg
+TRIBblix-php-84
+TRIBblix-php-84pg
 TRIBblix-zabbix
 TRIBfping
