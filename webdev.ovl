@@ -1,4 +1,4 @@
-VERSION=23
+VERSION=24
 NAME=Some web development utilities
 REQUIRES=cli-tools
 REQUIRES=gimp

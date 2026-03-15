@@ -63,7 +63,7 @@ httpx|5||
 i3|6||
 illumos-build|45||
 illumos-docs|20||
-imaging|38||
+imaging|39||
 inkscape|10||
 ipython|3||
 java-desktop|8||
@@ -78,7 +78,7 @@ java21|1||
 java25|1||
 java8|48||
 jruby|5||
-jupyter|11||
+jupyter|12||
 kde-games|1||
 kf6|1||
 kitchen-sink|16||
@@ -102,9 +102,9 @@ node-v22|2||
 ocr|6||
 openjdk-build|11||
 openlook|1||
-pandas|7||
+pandas|8||
 patroni|28||
-pelican|6||
+pelican|7||
 perl-developer|2||
 pidgin|6||
 pkgsrc|3||
@@ -152,7 +152,7 @@ tuxpaint|3||
 usb-network-drivers|2||
 uxplay|3||
 vlc|9||
-webdev|23||
+webdev|24||
 website-generators|1||
 wfuzz|7||
 wifi|3||

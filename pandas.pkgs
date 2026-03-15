@@ -35,7 +35,7 @@ TRIBpillow-python-312
 TRIBpyparsing-python-312
 TRIBmatplotlib-python-312
 TRIBseaborn-python-312
-TRIBchardet-python-312
+TRIBcharset-norm-python-312
 TRIBlxml-python-312
 TRIBsoupsieve-python-312
 TRIBwebencodings-python-312

@@ -19,7 +19,6 @@ TRIBpngquant
 TRIBjpegoptim
 TRIBwebalizer
 TRIBgoaccess
-TRIBchardet-python-312
 TRIBwebencodings-python-312
 TRIBhtml5lib-python-312
 TRIBlxml-python-312
