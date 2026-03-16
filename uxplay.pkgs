@@ -21,6 +21,7 @@ TRIBimagemagick
 TRIBfluidsynth
 TRIBzbar
 TRIBgstreamer1-libav
+TRIBjson-glib
 TRIBgstreamer1-plugins-bad
 TRIBlibplist
 TRIBuxplay
