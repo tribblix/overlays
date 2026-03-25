@@ -25,8 +25,8 @@ boot-server|9||
 borg|5||
 cde|2||
 clang|3||
-cli-tools-extras|12||
-cli-tools|24||
+cli-tools-extras|13||
+cli-tools|25||
 cloud-clients|15||
 cloudsec|24||
 compression-utilities|2||

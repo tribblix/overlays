@@ -1,4 +1,4 @@
-VERSION=24
+VERSION=25
 NAME=Common CLI tools
 REQUIRES=base
 REQUIRES=python312
