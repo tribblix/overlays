@@ -38,7 +38,7 @@ desktop-publishing|8||
 desktop-wallpaper|4||
 desktop|1||
 develop-extras|67||
-develop|56||
+develop|57||
 dlna|5||
 dmarc|16||
 e19|9||
@@ -113,7 +113,7 @@ postgis|4||
 postgres-utils|25||
 postgres17|1||
 printing|2||
-python-developer|2||
+python-developer|3||
 python312|1||
 python313|1||
 qemu|5||
