@@ -7,7 +7,7 @@ all-locales|1||
 all-network-drivers|10||
 all-serial-drivers|2||
 all-storage-drivers|8||
-all-xorg-drivers|8||
+all-xorg-drivers|9||
 amp-stack|16||
 autotools|5||
 awesome|3||

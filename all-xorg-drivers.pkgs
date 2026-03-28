@@ -6,6 +6,7 @@ TRIBxorg-driver-input-vmmouse
 TRIBxorg-driver-video-ast
 TRIBxorg-driver-video-ati
 TRIBxorg-driver-video-cirrus
+TRIBxorg-driver-video-illumos
 TRIBxorg-driver-video-intel
 TRIBxorg-driver-video-mach64
 TRIBxorg-driver-video-mga
