@@ -1,4 +1,0 @@
-NAME=Wfuzz - The Web Fuzzer
-VERSION=7
-REQUIRES=python312
-REQUIRES=base

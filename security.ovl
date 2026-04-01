@@ -1,6 +1,5 @@
-VERSION=43
+VERSION=44
 NAME=Security tools
 REQUIRES=dbus-glib
 REQUIRES=httpx
 REQUIRES=python312
-REQUIRES=wfuzz
