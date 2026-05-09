@@ -8,7 +8,7 @@ all-network-drivers|10||
 all-serial-drivers|2||
 all-storage-drivers|8||
 all-xorg-drivers|9||
-amp-stack|16||
+amp-stack|17||
 autotools|5||
 awesome|3||
 awscli|11||
