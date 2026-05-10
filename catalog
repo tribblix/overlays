@@ -12,7 +12,7 @@ amp-stack|17||
 autotools|5||
 awesome|3||
 awscli|11||
-b2|6||
+b2|7||
 backup-utilities|5||
 base-cloud|1||
 base-extras|37||
@@ -78,7 +78,7 @@ java21|1||
 java25|1||
 java8|48||
 jruby|5||
-jupyter|13||
+jupyter|14||
 kde-games|1||
 kf6|1||
 kitchen-sink|16||
