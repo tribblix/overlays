@@ -1,3 +1,3 @@
-VERSION=6
+VERSION=7
 NAME=I3 tiling window manager
 REQUIRES=retro-desktop

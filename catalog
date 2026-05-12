@@ -9,7 +9,7 @@ all-serial-drivers|2||
 all-storage-drivers|8||
 all-xorg-drivers|9||
 amp-stack|17||
-autotools|5||
+autotools|6||
 awesome|3||
 awscli|11||
 b2|7||
@@ -18,7 +18,7 @@ base-cloud|1||
 base-extras|37||
 base-iso|27||
 base-server|2||
-base|57||
+base|58||
 benchmark|1||
 bhyve|10||
 boot-server|9||
@@ -60,7 +60,7 @@ gtk2|2||
 gtk3|7||
 httpie|7||
 httpx|5||
-i3|6||
+i3|7||
 illumos-build|45||
 illumos-docs|20||
 imaging|39||
@@ -104,13 +104,13 @@ openlook|1||
 pandas|8||
 patroni|28||
 pelican|8||
-perl-developer|2||
+perl-developer|3||
 pidgin|6||
 pkgsrc|3||
 plan9|1||
 postgis|4||
 postgres-utils|25||
-postgres17|1||
+postgres17|2||
 printing|2||
 python-developer|3||
 python312|1||
