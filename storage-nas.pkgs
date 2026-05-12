@@ -1,5 +1,7 @@
 TRIBsys-lib-storage-ima
 TRIBsys-lib-storage-ima-header
+TRIBdrv-net-ib
+TRIBnet-iscsi-iser
 TRIBnet-iscsi-initiator
 TRIBsys-lib-iconv-utf-8
 TRIBsvc-file-system-nfs
