@@ -28,10 +28,10 @@ clang|3||
 cli-tools-extras|14||
 cli-tools|26||
 cloud-clients|16||
-cloudsec|25||
+cloudsec|26||
 compression-utilities|2||
 core-tribblix|3||
-dask|8||
+dask|9||
 dbus-glib|5||
 desktop-mail|7||
 desktop-publishing|8||
@@ -62,7 +62,7 @@ httpie|8||
 httpx|6||
 i3|7||
 illumos-build|46||
-illumos-docs|21||
+illumos-docs|22||
 imaging|40||
 inkscape|10||
 ipython|6||
@@ -138,7 +138,7 @@ security-extras|3||
 security|46||
 server-manage|8||
 server|2||
-sphinx|14||
+sphinx|15||
 storage-nas|8||
 storage-server|12||
 tcl-tk|5||
