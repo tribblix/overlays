@@ -15,6 +15,7 @@ TRIBsys-lib-fontconfig
 TRIBx11-lib-toolkit-libxt
 TRIBx11-libice
 TRIBx11-libsm
+TRIBtyping-ext-python-312
 TRIBcertifi-python-312
 TRIBcffi-python-312
 TRIBcryptography-python-312

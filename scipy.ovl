@@ -1,4 +1,4 @@
 NAME=Scipy and numpy
-VERSION=7
-REQUIRES=python312
+VERSION=8
+REQUIRES=python313
 REQUIRES=fortran

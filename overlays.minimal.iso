@@ -12,7 +12,7 @@ cli-tools
 core-tribblix
 dbus-glib
 networked-system
-python312
+python313
 samba
 server
 server-manage

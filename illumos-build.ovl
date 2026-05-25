@@ -1,4 +1,4 @@
-VERSION=45
+VERSION=46
 NAME=Illumos Build Environment
 REQUIRES=develop
 REQUIRES=java21

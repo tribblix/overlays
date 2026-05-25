@@ -1,4 +1,4 @@
-VERSION=13
+VERSION=14
 NAME=Monitoring utilities
-REQUIRES=python312
+REQUIRES=python313
 REQUIRES=dbus-glib
