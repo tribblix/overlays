@@ -1,5 +1,5 @@
 VERSION=5
 NAME=QEMU machine emulator
 REQUIRES=gtk3
-REQUIRES=python312
+REQUIRES=python313
 REQUIRES=tls

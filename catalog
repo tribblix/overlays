@@ -20,7 +20,7 @@ base-iso|27||
 base-server|2||
 base|58||
 benchmark|1||
-bhyve|10||
+bhyve|11||
 boot-server|9||
 borg|6||
 cde|2||
