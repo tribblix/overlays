@@ -10,7 +10,7 @@ all-storage-drivers|8||
 all-xorg-drivers|9||
 amp-stack|17||
 autotools|6||
-awesome|4||
+awesome|5||
 awscli|12||
 b2|8||
 backup-utilities|5||
@@ -86,7 +86,7 @@ language-extras|7||
 legacy-audio|1||
 libreoffice|11||
 lightweight-desktop|18||
-mate|21||
+mate|22||
 modern-cli-tools|14||
 monitoring-extras|15||
 monitoring|14||
@@ -122,7 +122,7 @@ qt5-extras|2||
 qt6-apps|1||
 qt6-base|1||
 r|7||
-retro-desktop-extras|60||
+retro-desktop-extras|61||
 retro-desktop-games|21||
 retro-desktop|65||
 retro-web|14||

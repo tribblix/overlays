@@ -1,4 +1,4 @@
-VERSION=4
+VERSION=5
 NAME=awesome window manager
 REQUIRES=retro-desktop
-REQUIRES=python312
+REQUIRES=python313

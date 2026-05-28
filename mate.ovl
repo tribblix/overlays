@@ -1,6 +1,6 @@
-VERSION=21
+VERSION=22
 NAME=The MATE Desktop
 REQUIRES=gtk3
 REQUIRES=retro-desktop
 REQUIRES=gstreamer1
-REQUIRES=python312
+REQUIRES=python313
