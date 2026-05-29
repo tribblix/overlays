@@ -3,7 +3,6 @@ TRIBlibogg
 TRIBlibvorbis
 TRIBlibtheora
 TRIBlibflac
-TRIBlibsoup
 TRIBlibspeex
 TRIBlibcddb
 TRIBlibcdio
@@ -26,3 +25,4 @@ TRIBtaglib
 TRIBgstreamer1
 TRIBgstreamer1-plugins-base
 TRIBgstreamer1-plugins-good
+TRIBgstreamer1-editing-services
