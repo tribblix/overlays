@@ -65,7 +65,7 @@ illumos-build|46||
 illumos-docs|22||
 imaging|40||
 inkscape|11||
-ipython|6||
+ipython|7||
 java-desktop|8||
 java-develop-extras|2||
 java-developer|13||
@@ -78,7 +78,7 @@ java21|1||
 java25|1||
 java8|48||
 jruby|5||
-jupyter|15||
+jupyter|16||
 kde-games|1||
 kf6|1||
 kitchen-sink|16||
