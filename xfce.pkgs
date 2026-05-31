@@ -1,4 +1,9 @@
 TRIBlibxslt
+TRIBlib-perl-5-exporter-tiny
+TRIBlib-perl-5-class-inspector
+TRIBlib-perl-5-list-moreutils
+TRIBlib-perl-5-params-util
+TRIBlib-perl-5-file-sharedir
 TRIBlib-perl-5-xml-parser
 TRIBlib-perl-5-mime-base32
 TRIBlib-perl-5-uri
