@@ -85,7 +85,7 @@ kitchen-sink|16||
 language-extras|7||
 legacy-audio|1||
 libreoffice|11||
-lightweight-desktop|18||
+lightweight-desktop|19||
 mate|22||
 modern-cli-tools|14||
 monitoring-extras|15||
@@ -122,7 +122,7 @@ qt5-extras|2||
 qt6-apps|1||
 qt6-base|1||
 r|7||
-retro-desktop-extras|61||
+retro-desktop-extras|62||
 retro-desktop-games|21||
 retro-desktop|65||
 retro-web|14||

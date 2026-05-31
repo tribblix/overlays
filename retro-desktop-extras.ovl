@@ -1,4 +1,4 @@
-VERSION=61
+VERSION=62
 NAME=Extra Desktop Environments and Utilities
 REQUIRES=retro-desktop
 REQUIRES=i3
@@ -7,4 +7,3 @@ REQUIRES=gimp
 REQUIRES=webdev
 REQUIRES=lightweight-desktop
 REQUIRES=desktop-mail
-REQUIRES=python313
