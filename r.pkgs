@@ -4,6 +4,6 @@ TRIBgnu-libiconv
 TRIBlibdeflate
 TRIBncurses
 TRIBreadline
-TRIBv-gfortran10
-TRIBv-gcc10
+TRIBv-gfortran14
+TRIBv-gcc14
 TRIBsys-header

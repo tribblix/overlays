@@ -24,7 +24,7 @@ bhyve|11||
 boot-server|9||
 borg|6||
 cde|2||
-clang|3||
+clang|4||
 cli-tools-extras|14||
 cli-tools|26||
 cloud-clients|16||
@@ -38,14 +38,14 @@ desktop-publishing|8||
 desktop-wallpaper|4||
 desktop|1||
 develop-extras|68||
-develop|59||
+develop|60||
 dlna|6||
 dmarc|18||
 e19|9||
 ec2-baseline|9||
 ede|1||
 emulators|4||
-fortran|4||
+fortran|5||
 game-emulators|3||
 gapi|15||
 gemini-clients|6||
@@ -121,7 +121,7 @@ qt5-base|11||
 qt5-extras|2||
 qt6-apps|1||
 qt6-base|1||
-r|7||
+r|8||
 retro-desktop-extras|62||
 retro-desktop-games|21||
 retro-desktop|65||
