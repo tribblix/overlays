@@ -1,14 +1,12 @@
 TRIBpekwm
 TRIBfluxbox
 TRIBxplanet
-TRIBopus
 TRIBicewm
 TRIBicewm-themes
 TRIBawm
 TRIBxdg-python-313
 TRIBfvwm
 TRIBgqview
-TRIBlibid3tag
 TRIBimlib2
 TRIBfeh
 TRIBqiv
@@ -17,7 +15,6 @@ TRIBlibglade
 TRIBopenbox
 TRIBirssi
 TRIBx11-xcowsay
-TRIBbluefish
 TRIBctwm
 TRIBtvtwm
 TRIBvtwm
@@ -31,14 +28,7 @@ TRIBxfig
 TRIBterminal-urxvt
 TRIBlxterminal
 TRIBterminal-mlterm
-TRIBgftp
-TRIBgeany
-TRIBlibgit2
-TRIBgeany-plugins
 TRIBncurses
-TRIBopensp
-TRIBlibofx
-TRIBgrisbi
 TRIBqvwm
 TRIBleftwm
 TRIBhexchat
