@@ -1,7 +1,6 @@
 TRIBsvc-net-dns-mdns
 TRIBbind9
 TRIBmbuffer
-TRIBnet-ipfilter
 TRIBfping
 TRIBsys-monitoring-arcstat
 TRIBmemconf

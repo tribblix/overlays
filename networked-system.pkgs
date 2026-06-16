@@ -12,7 +12,6 @@ TRIBsys-libutempter
 TRIBscreen
 TRIBtmux
 TRIBmbuffer
-TRIBnet-ipfilter
 TRIBlib-security-tcp-wrapper
 TRIBsys-file-system-smb
 TRIBsvc-file-system-smb
