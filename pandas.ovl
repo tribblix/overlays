@@ -1,4 +1,4 @@
 NAME=Pandas, with extra modules
-VERSION=9
+VERSION=10
 REQUIRES=python313
 REQUIRES=fortran
