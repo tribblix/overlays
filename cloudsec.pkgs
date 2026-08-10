@@ -3,7 +3,6 @@ TRIBlib-openjpeg
 TRIBlibcroco
 TRIBlibidn
 TRIBtcl
-TRIBcharset-norm-python-313
 TRIBcups
 TRIBgpl-ghostscript
 TRIBimage-librsvg
@@ -16,9 +15,9 @@ TRIBlibgd
 TRIBgiflib
 TRIBlibwebp
 TRIBgraphviz
+TRIBcharset-norm-python-313
 TRIBpyparsing-python-313
 TRIBrequests-python-313
-TRIBboto3-python-313
 TRIBpydot-python-313
 TRIBipgw-python-313
 TRIBpmapper-python-313
