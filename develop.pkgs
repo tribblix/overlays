@@ -59,5 +59,15 @@ TRIBwheel-python-313
 TRIBtext-colordiff
 TRIBpycodestyle-python-313
 TRIBcodespell-python-313
+TRIBbrotli-python-313
+TRIBcertifi-python-313
+TRIBpysocks-python-313
+TRIBbuild-python-313
+TRIBinstaller-python-313
+TRIBtomli-python-313
+TRIBtomli-w-python-313
+TRIBtruststore-python-313
+TRIBurllib3-python-313
+TRIBnab-python-313
 TRIBpipdeptree-python-313
 TRIBdiffstat
