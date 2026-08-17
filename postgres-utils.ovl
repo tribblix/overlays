@@ -1,5 +1,5 @@
-VERSION=26
+VERSION=27
 NAME=PostgreSQL utilities
 REQUIRES=python313
 REQUIRES=postgres17
-REQUIRES=awscli
+REQUIRES=boto

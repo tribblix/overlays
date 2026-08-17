@@ -17,9 +17,12 @@ TRIBlibwebp
 TRIBgraphviz
 TRIBcharset-norm-python-313
 TRIBpyparsing-python-313
+TRIBidna-python-313
 TRIBrequests-python-313
 TRIBpydot-python-313
 TRIBipgw-python-313
 TRIBpmapper-python-313
 TRIBgibberish-det-python-313
+TRIBlibyaml
+TRIByaml-python-313
 TRIBdetect-secrets-python-313

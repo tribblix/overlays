@@ -29,7 +29,7 @@ clang|4||
 cli-tools-extras|14||
 cli-tools|26||
 cloud-clients|16||
-cloudsec|27||
+cloudsec|28||
 compression-utilities|2||
 core-tribblix|3||
 dask|9||
@@ -110,7 +110,7 @@ pidgin|6||
 pkgsrc|3||
 plan9|1||
 postgis|4||
-postgres-utils|26||
+postgres-utils|27||
 postgres17|2||
 printing|2||
 python-developer|5||

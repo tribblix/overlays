@@ -1,6 +1,6 @@
-VERSION=27
+VERSION=28
 NAME=Cloud Security Tools
-REQUIRES=awscli
+REQUIRES=boto
 REQUIRES=gtk2
 REQUIRES=gtk3
 REQUIRES=python313
