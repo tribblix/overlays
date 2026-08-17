@@ -23,6 +23,7 @@ benchmark|1||
 bhyve|11||
 boot-server|9||
 borg|6||
+boto|1||
 cde|2||
 clang|4||
 cli-tools-extras|14||
