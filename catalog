@@ -63,7 +63,7 @@ httpie|8||
 httpx|6||
 i3|7||
 illumos-build|48||
-illumos-docs|23||
+illumos-docs|24||
 imaging|42||
 inkscape|11||
 ipython|7||
@@ -133,7 +133,7 @@ samba|11||
 san-support|1||
 scala|5||
 scikit-image|11||
-scikit-learn|7||
+scikit-learn|8||
 scipy|8||
 security-extras|3||
 security|46||
