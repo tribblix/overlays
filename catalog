@@ -83,7 +83,7 @@ jupyter|17||
 kde-games|1||
 kf6|1||
 kitchen-sink|16||
-language-extras|7||
+language-extras|8||
 legacy-audio|1||
 libreoffice|12||
 lightweight-desktop|20||
@@ -113,7 +113,7 @@ postgis|4||
 postgres-utils|27||
 postgres17|2||
 printing|2||
-python-developer|5||
+python-developer|6||
 python312|2||
 python313|2||
 qemu|6||
