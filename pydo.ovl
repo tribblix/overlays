@@ -1,0 +1,3 @@
+NAME=Digital Ocean Python Module
+VERSION=1
+REQUIRES=python313
