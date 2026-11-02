@@ -100,7 +100,7 @@ nameserver|2||
 networked-system|23||
 node-v22|3||
 ocr|8||
-openjdk-build|11||
+openjdk-build|12||
 openlook|1||
 pandas|10||
 patroni|29||
